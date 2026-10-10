@@ -1,0 +1,11 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.flac binary
+*.mid binary
+*.midi binary

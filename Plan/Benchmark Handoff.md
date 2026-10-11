@@ -1,6 +1,11 @@
 # Data-source benchmark handoff
 
-Status: [IN PROGRESS] first benchmark run. The developer has now authorized a name/artist-only pass over the current 500-row draft, followed later by a comparable ISRC-assisted pass if a distributable identifier path is found. This first run is an **exploratory baseline**: preserve and hash the exact input, report route eligibility and unresolved matches, and do not silently treat preliminary tags or candidate matches as verified facts. Read [Data Source R&D](Data%20Source%20R%26D.md), [Source Capability Audit](Source%20Capability%20Audit.md), and the [corpus draft notes](Corpus%20Draft/README.md) before execution.
+Status: [IN PROGRESS] benchmark analysis. The developer authorized a name/artist-only pass over the current 500-row draft, followed later by a comparable ISRC-assisted pass if a distributable identifier path is found. The first retrieval pass completed on 2026-10-11 for MusicBrainz, Wikidata and Discogs; see the [run report](Benchmark%20Run%202026-10-11.md). It is an **exploratory baseline**: preserve and hash the exact input, report route eligibility and unresolved matches, and do not silently treat preliminary tags or candidate matches as verified facts. Read [Data Source R&D](Data%20Source%20R%26D.md), [Source Capability Audit](Source%20Capability%20Audit.md), and the [corpus draft notes](Corpus%20Draft/README.md) before further execution.
+
+## Current execution (2026-10-11)
+
+- [BUILT] The public repository is [IlanLadabaum/MusiKG](https://github.com/IlanLadabaum/MusiKG). Its URL is the API User-Agent maintainer contact. The frozen input, scripts, source restrictions, pilot and completed three-route retrieval counts are documented in the [run report](Benchmark%20Run%202026-10-11.md).
+- [OPEN] No candidate or claim has yet been adjudicated as a correct match. Retrieval counts must not be presented as validated source coverage or unique contribution. Additional eligible source routes and the separate ISRC-assisted pass remain for later work.
 
 ## Objective and decision boundary
 
@@ -63,7 +68,7 @@ Keep raw response snapshots only if the route permits them. If not, keep permitt
 
 ## Immediate handoff sequence
 
-1. Run structural input checks, review obvious duplicates and the broad sample balance, then obtain developer review of exact membership and freeze the 500 inputs. Full manual identity verification is **not** a gate.
+1. Run structural input checks, review obvious duplicates and the broad sample balance, and freeze the developer-authorized exploratory 500-row input. A later definitive benchmark may use a separately reviewed manifest. Full manual identity verification is **not** a gate.
 2. Refresh route terms/documentation and complete eligibility register; leave gated sources on hold without stalling eligible ones.
 3. Implement query logging/parsers and run an engineering pilot on the frozen run input, then the full eligible name/artist pass. The developer has lifted the earlier deferral for this pass.
 4. Run the full eligible benchmark, audit claims, analyze coverage/correctness/practicality, and present source recommendations for developer decision.

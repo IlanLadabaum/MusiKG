@@ -163,15 +163,26 @@ def run(args: argparse.Namespace) -> None:
         artist = row["artist_hint"]
         query = f'recording:"{title.replace(chr(34), " ")}" AND artist:"{artist.replace(chr(34), " ")}"'
         url = API + "/recording/?" + urlencode({"query": query, "fmt": "json", "limit": 10})
-        search = client.get(candidate_id, "search", url)
+        search = client.get(candidate_id, "search_strict", url)
         if search is None:
             write_jsonl(result_path, {"candidate_id": candidate_id, "status": "error",
                                       "search_candidates": 0, "expanded": False})
             count += 1
             continue
-        search_path = raw_dir / f"{candidate_id}-search.json"
+        search_path = raw_dir / f"{candidate_id}-search-strict.json"
         search_path.write_text(json.dumps(search, ensure_ascii=False), encoding="utf-8")
         candidates = search.get("recordings", [])
+        search_mode = "title_artist_strict"
+        if not candidates:
+            fallback_query = f'recording:"{title.replace(chr(34), " ")}"'
+            fallback_url = API + "/recording/?" + urlencode(
+                {"query": fallback_query, "fmt": "json", "limit": 100})
+            fallback = client.get(candidate_id, "search_title_fallback", fallback_url)
+            if fallback is not None:
+                fallback_path = raw_dir / f"{candidate_id}-search-title-fallback.json"
+                fallback_path.write_text(json.dumps(fallback, ensure_ascii=False), encoding="utf-8")
+                candidates = fallback.get("recordings", [])
+                search_mode = "title_fallback"
         ranked = []
         for rank, item in enumerate(candidates, 1):
             credited = artist_credit(item)
@@ -179,7 +190,7 @@ def run(args: argparse.Namespace) -> None:
             artist_sim = similarity(artist, credited)
             candidate = {
                 "candidate_id": candidate_id, "route": "musicbrainz_api",
-                "lookup_mode": "title_artist", "rank": rank,
+                "lookup_mode": "title_artist", "search_mode": search_mode, "rank": rank,
                 "source_recording_id": item.get("id", ""),
                 "source_url": "https://musicbrainz.org/recording/" + item.get("id", ""),
                 "source_title": item.get("title", ""), "source_artist": credited,
@@ -218,7 +229,7 @@ def run(args: argparse.Namespace) -> None:
             "search_candidates": len(candidates), "best_candidate_id":
             best["source_recording_id"] if best else "",
             "best_candidate_review_state": "unreviewed" if best else "none",
-            "expanded": expanded,
+            "expanded": expanded, "search_mode": search_mode,
         })
         count += 1
         if count % 10 == 0:

@@ -67,6 +67,8 @@ An app that builds a graph of a person's music taste from whatever data is avail
 - [Data source R&D: candidate inventory, benchmark and selection](Data Source R&D.md)
 - [Source capability audit: documented fields, query granularity and provisional type map](Source Capability Audit.md)
 - [Benchmark handoff: corpus gate, source eligibility, data contract and execution order](Benchmark Handoff.md)
+- [Identifier access research: Spotify exports and recording IDs without a shared Spotify app](Identifier Access Research.md)
+- [500-song artist/title benchmark run: completed retrievals and pending adjudication](Benchmark Run 2026-10-11.md)
 
 ## Current planning sequence
 

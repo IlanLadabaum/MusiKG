@@ -1,0 +1,501 @@
+candidate_id	status	close_name_candidates	best_rank	best_artist	best_title	best_collection	best_release_date	best_duration_ms	best_url	review_warning
+MGG-001	possible_match	4	1	Louis Armstrong	West End Blues	Louis Armstrong, Vol. 4 - Louis Armstrong and Earl Hines	1956-01-01T12:00:00Z	194800	https://music.apple.com/us/album/west-end-blues/194021777?i=194022175&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-002	possible_match	4	1	Duke Ellington	Mood Indigo	Masterpieces By Ellington	1951-01-01T12:00:00Z	926360	https://music.apple.com/us/album/mood-indigo/216994034?i=216994035&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-003	possible_match	3	1	Bessie Smith	Downhearted Blues	The Collection	1989-02-27T12:00:00Z	204800	https://music.apple.com/us/album/downhearted-blues/193121692?i=193121804&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-004	possible_match	5	1	Ma Rainey	See See Rider Blues	An Introduction to Ma Rainey	2006-08-18T12:00:00Z	198120	https://music.apple.com/us/album/see-see-rider-blues/193509210?i=193510987&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-005	possible_match	4	7	Jelly Roll Morton	Black Bottom Stomp	Bluebird's Best: Jazz King of New Orleans (Remastered)	1926-01-01T12:00:00Z	192427	https://music.apple.com/us/album/black-bottom-stomp/298282797?i=298282831&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-006	possible_match	4	1	King Oliver's Creole Jazz Band	Dipper Mouth Blues	King of the Blues Clarinet (1923-1940)	2008-11-27T12:00:00Z	150480	https://music.apple.com/us/album/dipper-mouth-blues/298948685?i=298948737&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-007	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-008	possible_match	3	4	Bix Beiderbecke	Singin' the Blues	Volume 4 (1927)	2000-01-01T12:00:00Z	181667	https://music.apple.com/us/album/singin-the-blues/840434220?i=840434236&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-009	possible_match	6	3	Hibari Misora	Kappa Boogie Woogie	Hibari & Kawada in America 1950	2013-09-18T12:00:00Z	189387	https://music.apple.com/us/album/kappa-boogie-woogie/1722946826?i=1722946836&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-010	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-011	possible_match	6	4	Count Basie	One O'Clock Jump	Big Band Jazz - the Very Best Of	1992-01-01T12:00:00Z	587603	https://music.apple.com/us/album/one-oclock-jump/273554384?i=273554543&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-012	possible_match	9	1	Noriko Awaya	Wakare No Blues	Noriko Awaya No Sekai: Wakare No Blues	1937-01-01T12:00:00Z	208760	https://music.apple.com/us/album/wakare-no-blues/1695535054?i=1695535055&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-013	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-014	possible_match	5	3	Duke Ellington	"Take the ""A"" Train"	Piano In the Background	1960-01-01T12:00:00Z	331800	https://music.apple.com/us/album/take-the-a-train/198108476?i=198108560&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-015	possible_match	4	1	Billie Holiday	Strange Fruit	Billie Holiday	1947-01-01T12:00:00Z	192935	https://music.apple.com/us/album/strange-fruit/1469578841?i=1469579573&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-016	possible_match	3	1	Ella Fitzgerald	A-Tisket, A-Tasket	Get Happy! (Expanded Edition)	1959-01-01T12:00:00Z	142333	https://music.apple.com/us/album/a-tisket-a-tasket/1421997588?i=1421998966&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-017	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-018	possible_match	8	1	Charlie Parker	Ko-Ko	The Savoy 10-inch LP Collection	2020-02-28T12:00:00Z	177653	https://music.apple.com/us/album/ko-ko/1491386851?i=1491387110&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-019	possible_match	4	2	Dizzy Gillespie	A Night In Tunisia	Dizzy's Diamonds: Best of the Verve Years	1992-09-22T12:00:00Z	257467	https://music.apple.com/us/album/a-night-in-tunisia/1430191021?i=1430194470&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-020	possible_match	8	1	Thelonious Monk	'Round Midnight	The Essential Thelonious Monk	1963-01-01T12:00:00Z	228733	https://music.apple.com/us/album/round-midnight/193949441?i=193949454&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-021	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-022	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-023	possible_match	7	1	Sister Rosetta Tharpe	Rock Me	The Decca Singles, Vol. 1	1960-10-14T12:00:00Z	153774	https://music.apple.com/us/album/rock-me/1487894235?i=1487894242&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-024	possible_match	9	2	Mahalia Jackson	Move On Up a Little Higher	The Gospel According To Malaco	2004-02-25T12:00:00Z	202773	https://music.apple.com/us/album/move-on-up-a-little-higher/1451989215?i=1451989216&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-025	possible_match	8	4	The Golden Gate Quartet	Golden Gate Gospel Train	Gospel Train	1972-01-01T12:00:00Z	156653	https://music.apple.com/us/album/golden-gate-gospel-train/110816349?i=110816339&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-026	possible_match	8	1	Blind Willie Johnson	Dark Was the Night, Cold Was the Ground	Dark Was the Night	1927-01-01T12:00:00Z	198560	https://music.apple.com/us/album/dark-was-the-night-cold-was-the-ground/158578564?i=158578579&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-027	possible_match	9	1	Robert Johnson	Cross Road Blues	King of the Delta Blues Singers	1937-05-01T08:00:00Z	149560	https://music.apple.com/us/album/cross-road-blues/157432232?i=157432239&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-028	possible_match	9	7	Son House	My Black Mama	Country Farm Blues	2003-09-09T12:00:00Z	187570	https://music.apple.com/us/album/my-black-mama/378021638?i=378021658&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-029	possible_match	10	1	Charley Patton	Pony Blues	Charley Patton, Vol. 1	1990-01-01T12:00:00Z	176007	https://music.apple.com/us/album/pony-blues/598299213?i=598299269&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-030	possible_match	8	1	Skip James	Devil Got My Woman	The Complete 1931 Sessions	1986-01-01T12:00:00Z	178760	https://music.apple.com/us/album/devil-got-my-woman/1645406072?i=1645406077&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-031	possible_match	10	1	Mississippi John Hurt	Avalon Blues	Avalon Blues (The Complete 1928 OKeh Recordings)	1930-01-01T12:00:00Z	181499	https://music.apple.com/us/album/avalon-blues/471589204?i=471589249&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-032	possible_match	7	1	Lead Belly	Midnight Special	Midnight Special - The Library of Congress Recordings, Vol. 1 (Recorded by Alan Lomax)	1991-01-01T12:00:00Z	188067	https://music.apple.com/us/album/midnight-special/1443906243?i=1443906525&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-033	possible_match	9	2	Big Bill Broonzy	Key to the Highway	Big Bill Blues: His 23 Greatest Songs 1927-1942	1952-01-01T12:00:00Z	184853	https://music.apple.com/us/album/key-to-the-highway/968280981?i=968281281&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-034	possible_match	8	1	Muddy Waters	I Can't Be Satisfied	The Best of Muddy Waters	1948-01-01T12:00:00Z	162213	https://music.apple.com/us/album/i-cant-be-satisfied/1445668056?i=1445668367&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-035	possible_match	4	1	T-Bone Walker	Call It Stormy Monday	T-Bone Blues	1959-01-01T12:00:00Z	187600	https://music.apple.com/us/album/call-it-stormy-monday/299081284?i=299081322&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-036	possible_match	8	1	Lightnin' Hopkins	Katie Mae	The Very Best of Lightnin' Hopkins (Expanded Edition)	1973-09-04T12:00:00Z	188933	https://music.apple.com/us/album/katie-mae/1394185078?i=1394185361&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-037	possible_match	6	1	Woody Guthrie	This Land Is Your Land	The Asch Recordings, Vols. 1-4	1945-01-01T12:00:00Z	139693	https://music.apple.com/us/album/this-land-is-your-land/125968823?i=125968828&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-038	possible_match	6	1	The Carter Family	Wildwood Flower	Can the Circle Be Unbroken: Country Music's First Family	1929-01-01T08:00:00Z	195040	https://music.apple.com/us/album/wildwood-flower/192774772?i=192774895&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-039	possible_match	2	9	Jimmie Rodgers	Blue Yodel	The Complete RCA Victor Recordings	1962-01-01T12:00:00Z	204067	https://music.apple.com/us/album/blue-yodel/1463845864?i=1463845871&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-040	possible_match	10	1	Bill Monroe and His Bluegrass Boys	Blue Moon of Kentucky	Country Music Hall of Fame	1991-01-01T12:00:00Z	127267	https://music.apple.com/us/album/blue-moon-of-kentucky/1425222854?i=1425223217&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-041	possible_match	3	1	Hank Williams	Lovesick Blues	20 of Hank Williams' Greatest Hits	1970-01-01T12:00:00Z	166133	https://music.apple.com/us/album/lovesick-blues/1434632702?i=1434632864&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-042	possible_match	7	1	Ernest Tubb	Walking the Floor over You	Country Music Hall of Fame Series	1941-05-28T12:00:00Z	157146	https://music.apple.com/us/album/walking-the-floor-over-you/1486469087?i=1486469097&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-043	possible_match	8	1	Bob Wills and his Texas Playboys	New San Antonio Rose	Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]	2006-10-24T12:00:00Z	156213	https://music.apple.com/us/album/new-san-antonio-rose/1467438213?i=1467439169&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-044	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-045	possible_match	2	1	Len Maurice	Our Don Bradman	Australian Traditional Songs & Poems	2006-10-16T12:00:00Z	125707	https://music.apple.com/us/album/our-don-bradman/298010809?i=298010812&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-046	possible_match	2	1	Patsy Montana	I Want To Be A Cowboy's Sweetheart	The Cowboy's Sweetheart	1988-01-01T12:00:00Z	218867	https://music.apple.com/us/album/i-want-to-be-a-cowboys-sweetheart/1593245574?i=1593245577&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-047	possible_match	2	1	Jack Lumsdaine	Phar Lap – Farewell to You	Australian Traditional Songs & Poems	2006-10-16T12:00:00Z	182360	https://music.apple.com/us/album/phar-lap-farewell-to-you/298010809?i=298010822&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-048	possible_match	5	1	Orlando Silva	Carinhosó	Carinhoso	1959-01-01T12:00:00Z	204372	https://music.apple.com/us/album/carinhos%C3%B3/321845211?i=321845223&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-049	possible_match	4	4	Francisco Alves	Aquarela do Brasil	Sambista	2014-09-08T12:00:00Z	370213	https://music.apple.com/us/album/aquarela-do-brasil/1716586623?i=1716586633&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-050	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-051	possible_match	5	2	Carlos Gardel	Volver	Las Canciones de Carlos Gardel	1912-02-17T12:00:00Z	171573	https://music.apple.com/us/album/volver/1672123729?i=1672123748&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-052	possible_match	8	1	Mildred Bailey	Rockin' Chair	Mildred Bailey	1974-02-01T12:00:00Z	178920	https://music.apple.com/us/album/rockin-chair/583309483?i=583309537&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-053	possible_match	2	1	Bing Crosby	White Christmas	Holiday Inn (Original Motion Picture Soundtrack)	1942-08-04T12:00:00Z	177480	https://music.apple.com/us/album/white-christmas/1725396083?i=1725396179&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-054	possible_match	3	2	Frank Sinatra	I'll Never Smile Again	Reprise Rarities, Volume 1	2020-12-11T12:00:00Z	134195	https://music.apple.com/us/album/ill-never-smile-again/1542338273?i=1542338837&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-055	possible_match	4	2	Joy King	The Aeroplane Jelly Song	Aussie Nostalgia	2008-07-19T12:00:00Z	125373	https://music.apple.com/us/album/the-aeroplane-jelly-song/601539963?i=601540309&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-056	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-057	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-058	possible_match	3	3	Louis Jordan	Caldonia	No Moe! The Greatest Hits	1992-01-01T12:00:00Z	142400	https://music.apple.com/us/album/caldonia/1443842202?i=1443842418&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-059	possible_match	2	1	Wynonie Harris	Good Rockin' Tonight	The Definitive Blues Collection, Vol. 5	1975-01-01T12:00:00Z	165013	https://music.apple.com/us/album/good-rockin-tonight/300942973?i=300943052&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-060	possible_match	7	1	Tino Rossi	Petit Papa Noël	A Christmas Eve In Paris: I Love Paris!	2010-12-01T12:00:00Z	198637	https://music.apple.com/us/album/petit-papa-no%C3%ABl/337967349?i=337967410&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-061	possible_match	4	1	Edith PIAF	La vie en rose	The Best of Édith Piaf	1987-10-31T12:00:00Z	187733	https://music.apple.com/us/album/la-vie-en-rose/726378402?i=726378511&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-062	possible_match	6	1	Charles Trenet	La mer	100 Chansons	2016-08-26T12:00:00Z	201840	https://music.apple.com/us/album/la-mer/692275731?i=692276390&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-063	possible_match	6	1	Joséphine Baker	J'ai Deux Amours	Joséphine Baker (Piel Canela/Ma Tonkinoise)	1953-04-02T12:00:00Z	163308	https://music.apple.com/us/album/jai-deux-amours/422627160?i=422627218&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-064	possible_match	3	2	Django Reinhardt	Minor Swing	Volume III	1971-06-19T12:00:00Z	167317	https://music.apple.com/us/album/minor-swing/1486461063?i=1486461465&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-065	possible_match	1	1	Stéphane Grappelli	Djangology	Stéphane Grappelli  Djangology - Single	2011-10-03T12:00:00Z	163987	https://music.apple.com/us/album/djangology/1821885376?i=1821885378&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-066	possible_match	9	1	Mistinguett	Mon homme	Mistinguett	1995-01-01T12:00:00Z	187693	https://music.apple.com/us/album/mon-homme/284857939?i=284857967&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-067	possible_match	5	1	Marlene Dietrich	Ich bin von Kopf bis Fuß auf Liebe eingestellt	Der blonde Engel - Marlene 100	1960-01-01T12:00:00Z	159560	https://music.apple.com/us/album/ich-bin-von-kopf-bis-fu%C3%9F-auf-liebe-eingestellt/724182416?i=724182461&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-068	possible_match	10	1	Comedian Harmonists	Veronika, der Lenz ist da	Comedian Harmonists: Greatest Hits, Vol. 1	1998-01-01T12:00:00Z	160400	https://music.apple.com/us/album/veronika-der-lenz-ist-da/724120517?i=724120659&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-069	possible_match	9	1	Amália Rodrigues	Ai Mouraria	The Greatest Collection	1945-01-01T12:00:00Z	155387	https://music.apple.com/us/album/ai-mouraria/305381320?i=305381338&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-070	possible_match	8	1	Carlos Gardel	Mi Buenos Aires querido	Pack especial Carlos Gardel (Deluxe Edition)	1930-01-01T12:00:00Z	161760	https://music.apple.com/us/album/mi-buenos-aires-querido/689435060?i=689435063&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-071	possible_match	3	2	Astor Piazzolla	El Desbande	50 Primeras Grabaciones	2019-02-21T12:00:00Z	175984	https://music.apple.com/us/album/el-desbande/1453107107?i=1453107747&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-072	possible_match	5	1	Francisco Canaro	La Cumparsita	40 Grandes Éxitos	1998-07-14T12:00:00Z	170760	https://music.apple.com/us/album/la-cumparsita/958455139?i=958455150&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-073	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-074	possible_match	8	1	Lucha Reyes	La Tequilera	The Originals: The Unforgettable of Mexican Song (Remastered)	2006-01-01T12:00:00Z	166280	https://music.apple.com/us/album/la-tequilera/138055088?i=138055192&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-075	possible_match	9	1	Trío Matamoros	Son de la loma	Son De La Loma	1992-02-02T12:00:00Z	215427	https://music.apple.com/us/album/son-de-la-loma/1698181880?i=1698182583&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-076	possible_match	2	1	Arsenio Rodríguez	Bruca Manigua	Quindembo - Afro Magic - La Magia de Arsenio Rodriguez	2000-11-28T12:00:00Z	148667	https://music.apple.com/us/album/bruca-manigua/747192449?i=747192793&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-077	possible_match	6	3	Benny Moré	Mucho Corazón	Beny Moré	1960-01-01T12:00:00Z	212027	https://music.apple.com/us/album/mucho-coraz%C3%B3n/6811166480?i=6811167037&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-078	possible_match	7	1	Xavier Cugat	Perfidia	Perfidia	1949-12-30T12:00:00Z	186580	https://music.apple.com/us/album/perfidia/390636601?i=390636624&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-079	possible_match	4	1	Carmen Miranda	O Que é Que a Baiana Tem	O Que é Que a Baiana Tem	2002-01-01T12:00:00Z	196267	https://music.apple.com/us/album/o-que-%C3%A9-que-a-baiana-tem/282716400?i=282716596&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-080	possible_match	5	1	NOEL ROSA	Com Que Roupa?	Noel Pela Primeira Vez, Vol. 1	2000-01-01T12:00:00Z	160973	https://music.apple.com/us/album/com-que-roupa/1463465507?i=1463465761&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-081	possible_match	1	1	Ary Barroso	Aquarela Do Brasil	Curare	1991-01-01T12:00:00Z	312867	https://music.apple.com/us/album/aquarela-do-brasil/977430900?i=977431566&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-082	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-083	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-084	possible_match	1	1	Bai Guang	Waiting for Your Return	Waiting for Your Return: A Shidaiqu Anthology 1927-1952, Pt. I	1942-05-01T12:00:00Z	177738	https://music.apple.com/us/album/waiting-for-your-return/1669671191?i=1669671767&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-085	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-086	possible_match	1	6	Li Hsiang-lan	Ye Lai Xiang	Best of Boogie Woogie Age	2023-11-29T12:00:00Z	200320	https://music.apple.com/us/album/ye-lai-xiang/1715601990?i=1715602000&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-087	possible_match	6	1	K.L.Saigal	Jab Dil Hi Toot Gaya	Jab Dil Hi Toot Gaya - Single	1946-01-01T12:00:00Z	197253	https://music.apple.com/us/album/jab-dil-hi-toot-gaya/1715534081?i=1715534134&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-088	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-089	possible_match	1	1	Peter Dawson	Along the Road to Gundagai	Songs of Australia	2008-11-11T12:00:00Z	168040	https://music.apple.com/us/album/along-the-road-to-gundagai/290906463?i=290906531&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-090	possible_match	6	1	Solomon Linda's Original Evening Birds	Mbube	The Secret Museum of Mankind, Vol. 4: Ethnic Music Classics (1925-48)	1997-01-01T12:00:00Z	170333	https://music.apple.com/us/album/mbube/1568087698?i=1568087838&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-091	possible_match	2	2	Billie Holiday	Summertime	George Gershwin Great Jazz	2008-10-03T12:00:00Z	177253	https://music.apple.com/us/album/summertime/518197938?i=518198270&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-092	possible_match	10	1	Sidney Bechet	Summertime	The Best of Sidney Bechet	1994-01-01T12:00:00Z	252267	https://music.apple.com/us/album/summertime/723524651?i=723524910&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-093	possible_match	2	2	Coleman Hawkins	Body and Soul	The Essential Coleman Hawkins	1964-01-01T12:00:00Z	291547	https://music.apple.com/us/album/body-and-soul/1352495455?i=1352495625&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-094	possible_match	4	1	Billie Holiday	Body And Soul	Body and Soul	1957-01-01T12:00:00Z	381441	https://music.apple.com/us/album/body-and-soul/1469586500?i=1469586504&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-095	possible_match	4	2	Bessie Smith	St. Louis Blues	The Collection	1989-02-27T12:00:00Z	189067	https://music.apple.com/us/album/st-louis-blues/193121692?i=193122031&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-096	possible_match	4	2	Louis Armstrong	St. Louis Blues	Ken Burns Jazz - The Story of America's Music	1941-01-01T12:00:00Z	180400	https://music.apple.com/us/album/st-louis-blues/646198625?i=646198933&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-097	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-098	possible_match	1	7	Glenn Miller Band	In the Mood	The Original Reunion of the Glenn Miller Band	1962-09-01T12:00:00Z	231693	https://music.apple.com/us/album/in-the-mood/810327332?i=810327387&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-099	possible_match	5	2	Ethel Waters	Stormy Weather	Presenting Ethel Waters	1921-11-26T12:00:00Z	192267	https://music.apple.com/us/album/stormy-weather/1595877145?i=1595877362&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-100	possible_match	4	1	Lena Horne	Stormy Weather	Stormy Weather (Remastered)	1954-01-01T12:00:00Z	241027	https://music.apple.com/us/album/stormy-weather/255364731?i=255365728&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-101	possible_match	8	1	Chuck Berry	Maybellene	Berry Is On Top	1959-01-01T12:00:00Z	143240	https://music.apple.com/us/album/maybellene/1425230909?i=1425230914&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-102	possible_match	7	1	Little Richard	Tutti Frutti	Here's Little Richard (Deluxe Edition)	1955-10-01T08:00:00Z	144227	https://music.apple.com/us/album/tutti-frutti/1440936634?i=1440936639&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-103	possible_match	7	1	Elvis Presley	Heartbreak Hotel	Elv1s: 30 #1 Hits	1956-01-27T08:00:00Z	127960	https://music.apple.com/us/album/heartbreak-hotel/388127843?i=388127857&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-104	possible_match	4	1	Bo Diddley	Bo Diddley	Bo Diddley	1958-01-01T12:00:00Z	148106	https://music.apple.com/us/album/bo-diddley/1469574409?i=1469574537&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-105	possible_match	8	1	Fats Domino	Blueberry Hill	Fats Domino Swings	1959-01-01T12:00:00Z	147880	https://music.apple.com/us/album/blueberry-hill/1396311078?i=1396312106&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-106	possible_match	3	2	Domenico Modugno	Nel Blu Dipinto Di Blu	World Masters: Grazie Dei Fiori	2005-11-18T12:00:00Z	215533	https://music.apple.com/us/album/nel-blu-dipinto-di-blu/97980852?i=97980818&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-107	possible_match	4	1	Buddy Holly & The Crickets	That'll Be the Day	20th Century Masters - The Millennium Collection: The Best of Buddy Holly	1957-11-27T12:00:00Z	137267	https://music.apple.com/us/album/thatll-be-the-day/1434879098?i=1434879232&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-108	no_close_catalog_match	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-109	possible_match	4	2	Ray Charles	What'd I Say	Blues Music	2011-04-05T12:00:00Z	387344	https://music.apple.com/us/album/whatd-i-say/775742890?i=775742927&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-110	possible_match	4	1	Sam Cooke	A Change Is Gonna Come	A Change Is Gonna Come - EP	1964-02-01T12:00:00Z	191320	https://music.apple.com/us/album/a-change-is-gonna-come/1440495264?i=1440495265&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-111	possible_match	6	1	Aretha Franklin	Respect	I Never Loved a Man the Way I Love You	1967-03-10T08:00:00Z	147973	https://music.apple.com/us/album/respect/937107826?i=937107838&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-112	possible_match	9	1	Otis Redding	Try a Little Tenderness	Complete & Unbelievable: The Otis Redding Dictionary of Soul	1966-10-15T12:00:00Z	229800	https://music.apple.com/us/album/try-a-little-tenderness/995810706?i=995810734&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-113	possible_match	9	1	Wilson Pickett	In the Midnight Hour	In the Midnight Hour	1965-06-01T07:00:00Z	157160	https://music.apple.com/us/album/in-the-midnight-hour/537029675?i=537029676&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-114	possible_match	6	3	James Brown	Papa's Got a Brand New Bag	I'm Back	1998-11-17T12:00:00Z	302293	https://music.apple.com/us/album/papas-got-a-brand-new-bag/1514450141?i=1514450150&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-115	possible_match	5	1	Jacques Brel	Ne me quitte pas	Les 100 plus belles chansons de Jacques Brel	1988-01-01T12:00:00Z	250227	https://music.apple.com/us/album/ne-me-quitte-pas/1444144002?i=1444144260&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-116	possible_match	8	1	Marvin Gaye	I Heard It Through the Grapevine	Every Great Motown Hit of Marvin Gaye	1968-08-26T12:00:00Z	196707	https://music.apple.com/us/album/i-heard-it-through-the-grapevine/1426017031?i=1426017462&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-117	possible_match	7	1	The Supremes	Where Did Our Love Go	Where Did Our Love Go	1964-06-17T07:00:00Z	152629	https://music.apple.com/us/album/where-did-our-love-go/1443150912?i=1443150931&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-118	possible_match	8	1	The Temptations	My Girl	The Temptations Sing Smokey	1964-12-21T12:00:00Z	164728	https://music.apple.com/us/album/my-girl/1423301162?i=1423301921&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-119	possible_match	7	3	Françoise Hardy	Tous les garçons et les filles	Françoise Hardy en Vogue - Best of 1962-1967	1962-11-01T12:00:00Z	187600	https://music.apple.com/us/album/tous-les-gar%C3%A7ons-et-les-filles/1775954200?i=1775954201&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-120	possible_match	6	1	Smokey Robinson & The Miracles	The Tracks of My Tears	Going to a Go-Go	1965-06-23T07:00:00Z	175921	https://music.apple.com/us/album/the-tracks-of-my-tears/1469577666?i=1469577675&uo=4	Name similarity only. Confirm original performance, version and date independently.
+MGG-121	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-122	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-123	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-124	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-125	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-126	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-127	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-128	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-129	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-130	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-131	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-132	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-133	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-134	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-135	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-136	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-137	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-138	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-139	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-140	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-141	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-142	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-143	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-144	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-145	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-146	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-147	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-148	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-149	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-150	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-151	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-152	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-153	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-154	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-155	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-156	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-157	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-158	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-159	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-160	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-161	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-162	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-163	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-164	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-165	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-166	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-167	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-168	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-169	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-170	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-171	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-172	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-173	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-174	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-175	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-176	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-177	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-178	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-179	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-180	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-181	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-182	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-183	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-184	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-185	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-186	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-187	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-188	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-189	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-190	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-191	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-192	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-193	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-194	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-195	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-196	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-197	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-198	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-199	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-200	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-201	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-202	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-203	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-204	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-205	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-206	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-207	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-208	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-209	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-210	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-211	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-212	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-213	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-214	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-215	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-216	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-217	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-218	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-219	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-220	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-221	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-222	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-223	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-224	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-225	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-226	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-227	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-228	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-229	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-230	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-231	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-232	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-233	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-234	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-235	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-236	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-237	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-238	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-239	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-240	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-241	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-242	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-243	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-244	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-245	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-246	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-247	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-248	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-249	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-250	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-251	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-252	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-253	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-254	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-255	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-256	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-257	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-258	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-259	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-260	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-261	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-262	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-263	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-264	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-265	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-266	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-267	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-268	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-269	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-270	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-271	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-272	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-273	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-274	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-275	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-276	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-277	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-278	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-279	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-280	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-281	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-282	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-283	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-284	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-285	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-286	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-287	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-288	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-289	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-290	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-291	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-292	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-293	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-294	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-295	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-296	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-297	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-298	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-299	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-300	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-301	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-302	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-303	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-304	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-305	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-306	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-307	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-308	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-309	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-310	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-311	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-312	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-313	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-314	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-315	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-316	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-317	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-318	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-319	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-320	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-321	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-322	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-323	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-324	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-325	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-326	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-327	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-328	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-329	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-330	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-331	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-332	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-333	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-334	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-335	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-336	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-337	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-338	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-339	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-340	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-341	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-342	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-343	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-344	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-345	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-346	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-347	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-348	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-349	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-350	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-351	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-352	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-353	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-354	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-355	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-356	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-357	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-358	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-359	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-360	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-361	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-362	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-363	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-364	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-365	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-366	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-367	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-368	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-369	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-370	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-371	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-372	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-373	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-374	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-375	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-376	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-377	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-378	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-379	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-380	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-381	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-382	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-383	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-384	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-385	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-386	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-387	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-388	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-389	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-390	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-391	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-392	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-393	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-394	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-395	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-396	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-397	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-398	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-399	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-400	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-401	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-402	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-403	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-404	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-405	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-406	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-407	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-408	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-409	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-410	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-411	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-412	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-413	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-414	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-415	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-416	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-417	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-418	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-419	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-420	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-421	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-422	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-423	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-424	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-425	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-426	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-427	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-428	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-429	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-430	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-431	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-432	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-433	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-434	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-435	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-436	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-437	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-438	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-439	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-440	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-441	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-442	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-443	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-444	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-445	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-446	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-447	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-448	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-449	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-450	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-451	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-452	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-453	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-454	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-455	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-456	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-457	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-458	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-459	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-460	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-461	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-462	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-463	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-464	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-465	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-466	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-467	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-468	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-469	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-470	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-471	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-472	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-473	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-474	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-475	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-476	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-477	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-478	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-479	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-480	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-481	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-482	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-483	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-484	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-485	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-486	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-487	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-488	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-489	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-490	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-491	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-492	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-493	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-494	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-495	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-496	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-497	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-498	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-499	no_query	0								Name similarity only. Confirm original performance, version and date independently.
+MGG-500	no_query	0								Name similarity only. Confirm original performance, version and date independently.

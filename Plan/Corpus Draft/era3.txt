@@ -1,0 +1,100 @@
+Stevie Wonder|Superstition|1972|United States|funk
+Marvin Gaye|What's Going On|1971|United States|soul
+Curtis Mayfield|Move On Up|1970|United States|soul
+Al Green|Let's Stay Together|1971|United States|soul
+Bill Withers|Ain't No Sunshine|1971|United States|soul
+Donny Hathaway|The Ghetto|1970|United States|soul
+The Isley Brothers|That Lady|1973|United States|funk
+Parliament|Give Up the Funk|1975|United States|funk
+Funkadelic|Maggot Brain|1971|United States|funk
+Earth, Wind & Fire|September|1978|United States|funk
+Chic|Good Times|1979|United States|disco
+Donna Summer|I Feel Love|1977|United States|disco
+Gloria Gaynor|I Will Survive|1978|United States|disco
+The Bee Gees|Stayin' Alive|1977|United Kingdom|disco
+Michael Jackson|Billie Jean|1982|United States|pop
+Prince|When Doves Cry|1984|United States|pop
+Whitney Houston|I Wanna Dance with Somebody|1987|United States|pop
+Madonna|Like a Prayer|1989|United States|pop
+Janet Jackson|Rhythm Nation|1989|United States|new jack swing
+Cyndi Lauper|Girls Just Want to Have Fun|1983|United States|pop
+Tina Turner|What's Love Got to Do with It|1984|United States|pop
+Jean-Michel Jarre|Oxygène, Part IV|1976|France|electronic
+ABBA|Dancing Queen|1976|Sweden|pop
+Run-D.M.C.|It's Like That|1983|United States|hip-hop
+Grandmaster Flash and the Furious Five|The Message|1982|United States|hip-hop
+Sugarhill Gang|Rapper's Delight|1979|United States|hip-hop
+Public Enemy|Fight the Power|1989|United States|hip-hop
+N.W.A|Straight Outta Compton|1988|United States|hip-hop
+Eric B. and Rakim|Paid in Full|1987|United States|hip-hop
+INXS|Need You Tonight|1987|Australia|rock
+Men at Work|Down Under|1981|Australia|rock
+De La Soul|Me Myself and I|1989|United States|hip-hop
+Afrika Bambaataa|Planet Rock|1982|United States|electro
+Kraftwerk|The Model|1978|Germany|electronic
+Neu!|Hallogallo|1972|Germany|krautrock
+Can|Vitamin C|1972|Germany|krautrock
+Tangerine Dream|Phaedra|1974|Germany|electronic
+Depeche Mode|Just Can't Get Enough|1981|United Kingdom|synth pop
+New Order|Blue Monday|1983|United Kingdom|electronic
+The Human League|Don't You Want Me|1981|United Kingdom|synth pop
+Pet Shop Boys|West End Girls|1984|United Kingdom|synth pop
+Eurythmics|Sweet Dreams|1983|United Kingdom|synth pop
+Talking Heads|Once in a Lifetime|1980|United States|new wave
+Tim Maia|Não Quero Dinheiro|1971|Brazil|soul
+Jorge Ben|Taj Mahal|1972|Brazil|samba rock
+The Clash|London Calling|1979|United Kingdom|punk
+Sex Pistols|Anarchy in the U.K.|1976|United Kingdom|punk
+The Damned|New Rose|1976|United Kingdom|punk
+Ramones|Blitzkrieg Bop|1976|United States|punk
+Patti Smith|Gloria|1975|United States|punk
+The Cure|Boys Don't Cry|1979|United Kingdom|post-punk
+Joy Division|Love Will Tear Us Apart|1980|United Kingdom|post-punk
+Siouxsie and the Banshees|Hong Kong Garden|1978|United Kingdom|post-punk
+The Smiths|This Charming Man|1983|United Kingdom|indie rock
+Elis Regina and Tom Jobim|Águas de Março|1974|Brazil|MPB
+Sonic Youth|Teen Age Riot|1988|United States|alternative rock
+Pixies|Where Is My Mind?|1988|United States|alternative rock
+U2|With or Without You|1987|Ireland|rock
+Bruce Springsteen|Born to Run|1975|United States|rock
+Fleetwood Mac|Dreams|1977|United Kingdom|rock
+Juan Gabriel|Querida|1984|Mexico|Latin pop
+Queen|Bohemian Rhapsody|1975|United Kingdom|rock
+David Bowie|Heroes|1977|United Kingdom|rock
+Kate Bush|Wuthering Heights|1978|United Kingdom|art pop
+Joni Mitchell|A Case of You|1971|Canada|folk rock
+Asha Bhosle|Dum Maro Dum|1971|India|film song
+Dolly Parton|Jolene|1973|United States|country
+Willie Nelson|Blue Eyes Crying in the Rain|1975|United States|country
+Brenda Fassie|Weekend Special|1983|South Africa|Afropop
+Townes Van Zandt|Pancho and Lefty|1972|United States|country
+Peter Tosh|Legalize It|1976|Jamaica|reggae
+Burning Spear|Marcus Garvey|1975|Jamaica|reggae
+The Congos|Fisherman|1977|Jamaica|reggae
+Lee Scratch Perry|Disco Devil|1977|Jamaica|dub
+Augustus Pablo|King Tubby Meets Rockers Uptown|1976|Jamaica|dub
+Yellowman|Zungguzungguguzungguzeng|1982|Jamaica|dancehall
+Fela Kuti|Zombie|1976|Nigeria|Afrobeat
+King Sunny Adé|Ja Funmi|1982|Nigeria|juju
+Hugh Masekela|The Boy's Doin' It|1975|South Africa|jazz
+Miriam Makeba|Soweto Blues|1977|South Africa|Afropop
+Youssou N'Dour|Immigrés|1984|Senegal|mbalax
+Salif Keita|Soro (Afriki)|1987|Mali|Afropop
+Ali Farka Touré|Ali Aoudy|1988|Mali|desert blues
+Ryuichi Sakamoto|Merry Christmas Mr. Lawrence|1983|Japan|electronic
+Yellow Magic Orchestra|Rydeen|1979|Japan|electronic
+Haruomi Hosono|Sports Men|1982|Japan|city pop
+Mariya Takeuchi|Plastic Love|1984|Japan|city pop
+Teresa Teng|The Moon Represents My Heart|1977|Taiwan|Mandopop
+Nusrat Fateh Ali Khan|Allah Hoo|1989|Pakistan|qawwali
+Ofra Haza|Im Nin'alu|1988|Israel|world pop
+HARD|Bob Marley and the Wailers|No Woman, No Cry|1974|Jamaica|reggae
+HARD|Bob Marley and the Wailers|No Woman, No Cry (Live)|1975|Jamaica|reggae
+HARD|Junior Murvin|Police and Thieves|1976|Jamaica|reggae
+HARD|The Clash|Police and Thieves|1977|United Kingdom|punk
+HARD|Iggy Pop|China Girl|1977|United States|rock
+HARD|David Bowie|China Girl|1983|United Kingdom|rock
+HARD|Al Green|Take Me to the River|1974|United States|soul
+HARD|Talking Heads|Take Me to the River|1978|United States|new wave
+HARD|Harold Melvin and the Blue Notes|Don't Leave Me This Way|1975|United States|soul
+HARD|Thelma Houston|Don't Leave Me This Way|1976|United States|disco

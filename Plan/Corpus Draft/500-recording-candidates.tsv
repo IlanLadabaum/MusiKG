@@ -1,0 +1,501 @@
+candidate_id	era	cohort	artist_hint	title_hint	year_hint	origin_hint	genre_hint	nomination_route	independent_evidence_url	status
+MGG-001	E1	general	Louis Armstrong	West End Blues	1928	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-002	E1	general	Duke Ellington	Mood Indigo	1930	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-003	E1	general	Bessie Smith	Downhearted Blues	1923	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-004	E1	general	Ma Rainey	See See Rider Blues	1924	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-005	E1	general	Jelly Roll Morton	Black Bottom Stomp	1926	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-006	E1	general	King Oliver's Creole Jazz Band	Dipper Mouth Blues	1923	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-007	E1	general	The Kumasi Trio	Amponsah Part 1	1928	Ghana	highlife	curated_preliminary	https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-label-history-gallery/	evidence_linked_version_pending
+MGG-008	E1	general	Frankie Trumbauer and His Orchestra with Bix and Lang	Singin' the Blues	1927	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-009	E1	general	Hibari Misora	Kappa Boogie Woogie	1949	Japan	kayōkyoku	curated_preliminary	https://columbia.jp/artist-info/hibari/discography/COCP-33949-50.html	evidence_linked_version_pending
+MGG-010	E1	general	Madhumalati and Sneha Dhopeshwarkar	Mangalagaur Arati	1938	India	traditional	curated_preliminary	https://folkways.si.edu/madhumalati-and-sneha-dhopeshwarkar/marathi-songs-from-the-arnold-bake-collection/india-world/music/album/smithsonian	evidence_linked_version_pending
+MGG-011	E1	general	Count Basie	One O'Clock Jump	1937	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-012	E1	general	Noriko Awaya	Wakare no Blues	1937	Japan	kayōkyoku	curated_preliminary	https://soas-repository.worktribe.com/OutputFile/334446	evidence_linked_version_pending
+MGG-013	E1	general	Griffiths Motsieloa and Company	Nkosi Sikelela i Afrika	1930	South Africa	choral	curated_preliminary	https://www.flatinternational.org/template_volume.php?volume_id=269	evidence_linked_version_pending
+MGG-014	E1	general	Duke Ellington	Take the A Train	1941	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-015	E1	general	Billie Holiday	Strange Fruit	1939	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-016	E1	general	Chick Webb and His Orchestra featuring Ella Fitzgerald	A-Tisket, A-Tasket	1938	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-017	E1	general	Sarah Vaughan	Interlude	1944	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-018	E1	general	Charlie Parker	Ko-Ko	1945	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-019	E1	general	Dizzy Gillespie	A Night in Tunisia	1946	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-020	E1	general	Thelonious Monk	Round Midnight	1947	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-021	E1	general	City Deep Natives	Uyeza	1930	South Africa	traditional	curated_preliminary	https://www.flatinternational.org/template_volume.php?volume_id=289	evidence_linked_version_pending
+MGG-022	E1	general	Caluza's Double Quartet	Ixegwana	1930	South Africa	choral	curated_preliminary	https://www.flatinternational.org/template_volume.php?volume_id=393	evidence_linked_version_pending
+MGG-023	E1	general	Sister Rosetta Tharpe	Rock Me	1938	United States	gospel	curated_preliminary		needs_independent_evidence
+MGG-024	E1	general	Mahalia Jackson	Move On Up a Little Higher	1947	United States	gospel	curated_preliminary		needs_independent_evidence
+MGG-025	E1	general	Golden Gate Jubilee Quartet	Golden Gate Gospel Train	1937	United States	gospel	curated_preliminary		needs_independent_evidence
+MGG-026	E1	general	Blind Willie Johnson	Dark Was the Night, Cold Was the Ground	1927	United States	gospel blues	curated_preliminary		needs_independent_evidence
+MGG-027	E1	general	Robert Johnson	Cross Road Blues	1936	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-028	E1	general	Son House	My Black Mama	1930	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-029	E1	general	Charley Patton	Pony Blues	1929	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-030	E1	general	Skip James	Devil Got My Woman	1931	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-031	E1	general	Mississippi John Hurt	Avalon Blues	1928	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-032	E1	general	Lead Belly	Midnight Special	1934	United States	folk blues	curated_preliminary		needs_independent_evidence
+MGG-033	E1	general	Big Bill Broonzy	Key to the Highway	1941	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-034	E1	general	Muddy Waters	I Can't Be Satisfied	1948	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-035	E1	general	T-Bone Walker	Call It Stormy Monday	1947	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-036	E1	general	Lightnin' Hopkins	Katie Mae	1946	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-037	E1	general	Woody Guthrie	This Land Is Your Land	1944	United States	folk	curated_preliminary		needs_independent_evidence
+MGG-038	E1	general	The Carter Family	Wildwood Flower	1928	United States	country	curated_preliminary		needs_independent_evidence
+MGG-039	E1	general	Jimmie Rodgers	Blue Yodel No. 1	1927	United States	country	curated_preliminary		needs_independent_evidence
+MGG-040	E1	general	Bill Monroe and His Blue Grass Boys	Blue Moon of Kentucky	1946	United States	bluegrass	curated_preliminary		needs_independent_evidence
+MGG-041	E1	general	Hank Williams	Lovesick Blues	1949	United States	country	curated_preliminary		needs_independent_evidence
+MGG-042	E1	general	Ernest Tubb	Walking the Floor Over You	1941	United States	country	curated_preliminary		needs_independent_evidence
+MGG-043	E1	general	Bob Wills and His Texas Playboys	New San Antonio Rose	1940	United States	western swing	curated_preliminary		needs_independent_evidence
+MGG-044	E1	general	Siti binti Saad	Kijiti	1929	Tanzania	taarab	curated_preliminary	https://verbafricana.org/swahili/b-kijiti-author-and-context.htm	evidence_linked_version_pending
+MGG-045	E1	general	Art Leonard (Len Maurice)	Our Don Bradman	1930	Australia	popular song	curated_preliminary		needs_independent_evidence
+MGG-046	E1	general	Patsy Montana	I Want to Be a Cowboy's Sweetheart	1935	United States	country	curated_preliminary		needs_independent_evidence
+MGG-047	E1	general	Jack Lumsdaine	Phar Lap: Farewell to You!	1932	Australia	popular song	curated_preliminary	https://www.nfsa.gov.au/sites/default/files/08-2017/sounds_of_australia_2017_short_list_-_briefing_notes.pdf	evidence_linked_version_pending
+MGG-048	E1	general	Orlando Silva	Carinhoso	1937	Brazil	samba-canção	curated_preliminary	https://pixinguinha.com.br/discografia/carinhoso-2/	evidence_linked_version_pending
+MGG-049	E1	general	Francisco Alves	Aquarela do Brasil	1939	Brazil	samba	curated_preliminary		needs_independent_evidence
+MGG-050	E1	general	Marian Anderson	Deep River	1924	United States	spiritual	curated_preliminary		needs_independent_evidence
+MGG-051	E1	general	Carlos Gardel	Volver	1935	Argentina	tango	curated_preliminary		needs_independent_evidence
+MGG-052	E1	general	Mildred Bailey	Rockin’ Chair	1932	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-053	E1	general	Bing Crosby	White Christmas	1942	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-054	E1	general	Frank Sinatra	I'll Never Smile Again	1940	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-055	E1	general	Joy King	The Aeroplane Jelly Song	1938	Australia	jingle	curated_preliminary	https://www.nfsa.gov.au/collection/item/aeroplane-jelly-song-joy-king	evidence_linked_version_pending
+MGG-056	E1	general	Namiki Michiko	Ringo no Uta	1945	Japan	kayōkyoku	curated_preliminary	https://panasonic.net/history/timecapsule/3/art/A_4.html	evidence_linked_version_pending
+MGG-057	E1	general	Carmen Miranda	Ta-hi	1930	Brazil	samba	curated_preliminary	https://artsandculture.google.com/asset/ta-h%C3%AD-pra-voc%C3%AA-gostar-de-mim-carmenmiranda-fc/zgF-gFn8O2PFow?hl=pt-BR	evidence_linked_version_pending
+MGG-058	E1	general	Louis Jordan	Caldonia	1945	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-059	E1	general	Wynonie Harris	Good Rockin' Tonight	1948	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-060	E1	general	Tino Rossi	Petit Papa Noël	1946	France	chanson	curated_preliminary		needs_independent_evidence
+MGG-061	E1	general	Édith Piaf	La Vie en rose	1946	France	chanson	curated_preliminary		needs_independent_evidence
+MGG-062	E1	general	Charles Trenet	La Mer	1946	France	chanson	curated_preliminary		needs_independent_evidence
+MGG-063	E1	general	Josephine Baker	J'ai deux amours	1930	France	chanson	curated_preliminary		needs_independent_evidence
+MGG-064	E1	general	Django Reinhardt	Minor Swing	1937	Belgium	jazz	curated_preliminary		needs_independent_evidence
+MGG-065	E1	general	Stéphane Grappelli	Djangology	1949	France	jazz	curated_preliminary		needs_independent_evidence
+MGG-066	E1	general	Mistinguett	Mon homme	1920	France	chanson	curated_preliminary		needs_independent_evidence
+MGG-067	E1	general	Marlene Dietrich	Ich bin von Kopf bis Fuß auf Liebe eingestellt	1930	Germany	cabaret	curated_preliminary		needs_independent_evidence
+MGG-068	E1	general	Comedian Harmonists	Veronika, der Lenz ist da	1930	Germany	vocal pop	curated_preliminary		needs_independent_evidence
+MGG-069	E1	general	Amália Rodrigues	Ai Mouraria	1945	Portugal	fado	curated_preliminary		needs_independent_evidence
+MGG-070	E1	general	Carlos Gardel	Mi Buenos Aires querido	1934	Argentina	tango	curated_preliminary		needs_independent_evidence
+MGG-071	E1	general	Astor Piazzolla	El desbande	1946	Argentina	tango	curated_preliminary	https://inamu.musica.ar/primeravida-piazzolla	evidence_linked_version_pending
+MGG-072	E1	general	Francisco Canaro	La cumparsita	1924	Uruguay	tango	curated_preliminary		needs_independent_evidence
+MGG-073	E1	general	Agustín Lara	Granada	1932	Mexico	bolero	curated_preliminary		needs_independent_evidence
+MGG-074	E1	general	Lucha Reyes	La Tequilera	1938	Mexico	ranchera	curated_preliminary		needs_independent_evidence
+MGG-075	E1	general	Trío Matamoros	Son de la loma	1922	Cuba	son cubano	curated_preliminary		needs_independent_evidence
+MGG-076	E1	general	Arsenio Rodríguez	Bruca maniguá	1937	Cuba	son cubano	curated_preliminary		needs_independent_evidence
+MGG-077	E1	general	Beny Moré	Mucho corazón	1949	Cuba	bolero	curated_preliminary		needs_independent_evidence
+MGG-078	E1	general	Xavier Cugat	Perfidia	1940	United States	Latin dance	curated_preliminary		needs_independent_evidence
+MGG-079	E1	general	Carmen Miranda	O que é que a baiana tem?	1939	Brazil	samba	curated_preliminary		needs_independent_evidence
+MGG-080	E1	general	Noel Rosa	Com que roupa?	1930	Brazil	samba	curated_preliminary		needs_independent_evidence
+MGG-081	E1	general	Ary Barroso	Aquarela do Brasil	1939	Brazil	samba	curated_preliminary		needs_independent_evidence
+MGG-082	E1	general	Orquestra Típica Pixinguinha-Donga	Carinhoso (Instrumental)	1928	Brazil	choro	curated_preliminary	https://radiobatuta.ims.com.br/programas/ouve-essa/carinhoso	evidence_linked_version_pending
+MGG-083	E1	general	Mohamed Abdel Wahab	Ya Msafer Wahdak	1942	Egypt	Arabic pop	curated_preliminary		needs_independent_evidence
+MGG-084	E1	general	Bai Guang	Waiting for You	1947	China	shidaiqu	curated_preliminary		needs_independent_evidence
+MGG-085	E1	general	Zhou Xuan	Ye Shanghai	1937	China	shidaiqu	curated_preliminary		needs_independent_evidence
+MGG-086	E1	general	Li Xianglan	Ye Lai Xiang	1944	China	shidaiqu	curated_preliminary		needs_independent_evidence
+MGG-087	E1	general	K. L. Saigal	Jab Dil Hi Toot Gaya	1946	India	film song	curated_preliminary		needs_independent_evidence
+MGG-088	E1	general	Sydney Simpson and His Wentworth Cafe Orchestra	Freshie	1926	Australia	dance band	curated_preliminary	https://www.nfsa.gov.au/sites/default/files/08-2017/sounds_of_australia_2017_short_list_-_briefing_notes.pdf	evidence_linked_version_pending
+MGG-089	E1	general	Peter Dawson	Along the Road to Gundagai	1931	Australia	popular song	curated_preliminary	https://www.nfsa.gov.au/collection/item/along-road-gundagai-0	evidence_linked_version_pending
+MGG-090	E1	general	Solomon Linda and the Evening Birds	Mbube	1939	South Africa	isicathamiya	curated_preliminary		needs_independent_evidence
+MGG-091	E1	hard	Billie Holiday	Summertime	1936	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-092	E1	hard	Sidney Bechet	Summertime	1939	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-093	E1	hard	Coleman Hawkins	Body and Soul	1939	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-094	E1	hard	Billie Holiday	Body and Soul	1940	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-095	E1	hard	Bessie Smith	St. Louis Blues	1925	United States	blues	curated_preliminary		needs_independent_evidence
+MGG-096	E1	hard	Louis Armstrong	St. Louis Blues	1929	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-097	E1	hard	Edgar Hayes	In the Mood	1938	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-098	E1	hard	Glenn Miller	In the Mood	1939	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-099	E1	hard	Ethel Waters	Stormy Weather	1933	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-100	E1	hard	Lena Horne	Stormy Weather	1943	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-101	E2	general	Chuck Berry	Maybellene	1955	United States	rock and roll	curated_preliminary		needs_independent_evidence
+MGG-102	E2	general	Little Richard	Tutti Frutti	1955	United States	rock and roll	curated_preliminary		needs_independent_evidence
+MGG-103	E2	general	Elvis Presley	Heartbreak Hotel	1956	United States	rock and roll	curated_preliminary		needs_independent_evidence
+MGG-104	E2	general	Bo Diddley	Bo Diddley	1955	United States	rock and roll	curated_preliminary		needs_independent_evidence
+MGG-105	E2	general	Fats Domino	Blueberry Hill	1956	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-106	E2	general	Domenico Modugno	Nel blu dipinto di blu	1958	Italy	pop	curated_preliminary		needs_independent_evidence
+MGG-107	E2	general	Buddy Holly and the Crickets	That'll Be the Day	1957	United States	rock and roll	curated_preliminary		needs_independent_evidence
+MGG-108	E2	general	Kyu Sakamoto	Ue o Muite Arukō	1961	Japan	kayōkyoku	curated_preliminary		needs_independent_evidence
+MGG-109	E2	general	Ray Charles	What'd I Say	1959	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-110	E2	general	Sam Cooke	A Change Is Gonna Come	1964	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-111	E2	general	Aretha Franklin	Respect	1967	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-112	E2	general	Otis Redding	Try a Little Tenderness	1966	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-113	E2	general	Wilson Pickett	In the Midnight Hour	1965	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-114	E2	general	James Brown	Papa's Got a Brand New Bag	1965	United States	funk	curated_preliminary		needs_independent_evidence
+MGG-115	E2	general	Jacques Brel	Ne me quitte pas	1959	Belgium	chanson	curated_preliminary		needs_independent_evidence
+MGG-116	E2	general	Marvin Gaye	I Heard It Through the Grapevine	1968	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-117	E2	general	The Supremes	Where Did Our Love Go	1964	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-118	E2	general	The Temptations	My Girl	1964	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-119	E2	general	Françoise Hardy	Tous les garçons et les filles	1962	France	yé-yé	curated_preliminary		needs_independent_evidence
+MGG-120	E2	general	Smokey Robinson and the Miracles	The Tracks of My Tears	1965	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-121	E2	general	Martha and the Vandellas	Dancing in the Street	1964	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-122	E2	general	Etta James	At Last	1960	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-123	E2	general	Nina Simone	Mississippi Goddam	1964	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-124	E2	general	John Coltrane	My Favorite Things	1961	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-125	E2	general	Miles Davis	So What	1959	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-126	E2	general	Dave Brubeck Quartet	Take Five	1959	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-127	E2	general	Charles Mingus	Goodbye Pork Pie Hat	1959	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-128	E2	general	Ornette Coleman	Lonely Woman	1959	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-129	E2	general	France Gall	Poupée de cire, poupée de son	1965	France	yé-yé	curated_preliminary		needs_independent_evidence
+MGG-130	E2	general	Thelonious Monk	Blue Monk	1954	United States	jazz	curated_preliminary		needs_independent_evidence
+MGG-131	E2	general	Mina	Se telefonando	1966	Italy	pop	curated_preliminary		needs_independent_evidence
+MGG-132	E2	general	Stan Getz and João Gilberto	The Girl from Ipanema	1964	United States	bossa nova	curated_preliminary		needs_independent_evidence
+MGG-133	E2	general	João Gilberto	Chega de Saudade	1958	Brazil	bossa nova	curated_preliminary		needs_independent_evidence
+MGG-134	E2	general	Antônio Carlos Jobim	Desafinado	1959	Brazil	bossa nova	curated_preliminary		needs_independent_evidence
+MGG-135	E2	general	Elis Regina	Arrastão	1965	Brazil	MPB	curated_preliminary		needs_independent_evidence
+MGG-136	E2	general	Jorge Ben	Mas Que Nada	1963	Brazil	samba	curated_preliminary		needs_independent_evidence
+MGG-137	E2	general	Caetano Veloso	Alegria, Alegria	1967	Brazil	tropicalia	curated_preliminary		needs_independent_evidence
+MGG-138	E2	general	Gilberto Gil	Domingo no Parque	1967	Brazil	tropicalia	curated_preliminary		needs_independent_evidence
+MGG-139	E2	general	Os Mutantes	A Minha Menina	1968	Brazil	psychedelic rock	curated_preliminary		needs_independent_evidence
+MGG-140	E2	general	Gal Costa	Baby	1969	Brazil	MPB	curated_preliminary		needs_independent_evidence
+MGG-141	E2	general	Chico Buarque	A Banda	1966	Brazil	MPB	curated_preliminary		needs_independent_evidence
+MGG-142	E2	general	The Beatles	A Hard Day's Night	1964	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-143	E2	general	The Rolling Stones	Satisfaction	1965	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-144	E2	general	The Kinks	You Really Got Me	1964	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-145	E2	general	The Who	My Generation	1965	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-146	E2	general	Serge Gainsbourg and Jane Birkin	Je t'aime... moi non plus	1969	France	chanson	curated_preliminary		needs_independent_evidence
+MGG-147	E2	general	Cream	Sunshine of Your Love	1967	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-148	E2	general	Jimi Hendrix Experience	Purple Haze	1967	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-149	E2	general	Pink Floyd	Astronomy Domine	1967	United Kingdom	psychedelic rock	curated_preliminary		needs_independent_evidence
+MGG-150	E2	general	Led Zeppelin	Whole Lotta Love	1969	United Kingdom	hard rock	curated_preliminary		needs_independent_evidence
+MGG-151	E2	general	David Bowie	Space Oddity	1969	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-152	E2	general	Dusty Springfield	Son of a Preacher Man	1968	United Kingdom	soul	curated_preliminary		needs_independent_evidence
+MGG-153	E2	general	The Animals	The House of the Rising Sun	1964	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-154	E2	general	Hibari Misora	Ringo Oiwake	1952	Japan	enka	curated_preliminary		needs_independent_evidence
+MGG-155	E2	general	The Beach Boys	Good Vibrations	1966	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-156	E2	general	The Byrds	Eight Miles High	1966	United States	folk rock	curated_preliminary		needs_independent_evidence
+MGG-157	E2	general	Bob Dylan	Like a Rolling Stone	1965	United States	folk rock	curated_preliminary		needs_independent_evidence
+MGG-158	E2	general	Simon and Garfunkel	The Sound of Silence	1965	United States	folk rock	curated_preliminary		needs_independent_evidence
+MGG-159	E2	general	Le Grand Kallé and African Jazz	Indépendance Cha Cha	1960	DR Congo	rumba congolaise	curated_preliminary		needs_independent_evidence
+MGG-160	E2	general	Jefferson Airplane	White Rabbit	1967	United States	psychedelic rock	curated_preliminary		needs_independent_evidence
+MGG-161	E2	general	The Doors	Light My Fire	1967	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-162	E2	general	Creedence Clearwater Revival	Proud Mary	1969	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-163	E2	general	The Velvet Underground	Heroin	1967	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-164	E2	general	Sly and the Family Stone	Everyday People	1968	United States	funk	curated_preliminary		needs_independent_evidence
+MGG-165	E2	general	MC5	Kick Out the Jams	1969	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-166	E2	general	The Stooges	I Wanna Be Your Dog	1969	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-167	E2	general	Johnny Cash	I Walk the Line	1956	United States	country	curated_preliminary		needs_independent_evidence
+MGG-168	E2	general	Patsy Cline	Crazy	1961	United States	country	curated_preliminary		needs_independent_evidence
+MGG-169	E2	general	Loretta Lynn	You Ain't Woman Enough	1966	United States	country	curated_preliminary		needs_independent_evidence
+MGG-170	E2	general	Merle Haggard	Mama Tried	1968	United States	country	curated_preliminary		needs_independent_evidence
+MGG-171	E2	general	Astor Piazzolla	Adiós Nonino	1959	Argentina	tango nuevo	curated_preliminary		needs_independent_evidence
+MGG-172	E2	general	Dolly Parton	Dumb Blonde	1967	United States	country	curated_preliminary		needs_independent_evidence
+MGG-173	E2	general	The Skatalites	Guns of Navarone	1965	Jamaica	ska	curated_preliminary		needs_independent_evidence
+MGG-174	E2	general	Desmond Dekker	Israelites	1968	Jamaica	reggae	curated_preliminary		needs_independent_evidence
+MGG-175	E2	general	Toots and the Maytals	54-46 That's My Number	1968	Jamaica	reggae	curated_preliminary		needs_independent_evidence
+MGG-176	E2	general	The Wailers	Simmer Down	1964	Jamaica	ska	curated_preliminary		needs_independent_evidence
+MGG-177	E2	general	Prince Buster	Al Capone	1965	Jamaica	ska	curated_preliminary		needs_independent_evidence
+MGG-178	E2	general	The Ethiopians	Train to Skaville	1967	Jamaica	ska	curated_preliminary		needs_independent_evidence
+MGG-179	E2	general	Celia Cruz	Burundanga	1953	Cuba	salsa	curated_preliminary		needs_independent_evidence
+MGG-180	E2	general	Mongo Santamaría	Watermelon Man	1963	Cuba	Latin jazz	curated_preliminary		needs_independent_evidence
+MGG-181	E2	general	Tito Puente	Oye Como Va	1963	United States	Latin jazz	curated_preliminary		needs_independent_evidence
+MGG-182	E2	general	Pérez Prado	Mambo No. 5	1950	Cuba	mambo	curated_preliminary		needs_independent_evidence
+MGG-183	E2	general	Lata Mangeshkar	Ajeeb Dastan Hai Yeh	1960	India	film song	curated_preliminary		needs_independent_evidence
+MGG-184	E2	general	Mohammed Rafi	Chaudhvin Ka Chand Ho	1960	India	film song	curated_preliminary		needs_independent_evidence
+MGG-185	E2	general	Kishore Kumar	Roop Tera Mastana	1969	India	film song	curated_preliminary		needs_independent_evidence
+MGG-186	E2	general	Fairuz	Nassam Alayna el-Hawa	1967	Lebanon	Arabic pop	curated_preliminary		needs_independent_evidence
+MGG-187	E2	general	Oum Kalthoum	Enta Omri	1964	Egypt	Arabic classical	curated_preliminary		needs_independent_evidence
+MGG-188	E2	general	Abdel Halim Hafez	Ahwak	1953	Egypt	Arabic pop	curated_preliminary		needs_independent_evidence
+MGG-189	E2	general	Miriam Makeba	Pata Pata	1967	South Africa	Afropop	curated_preliminary		needs_independent_evidence
+MGG-190	E2	general	Hugh Masekela	Grazing in the Grass	1968	South Africa	jazz	curated_preliminary		needs_independent_evidence
+MGG-191	E2	hard	Little Richard	Good Golly Miss Molly	1958	United States	rock and roll	curated_preliminary		needs_independent_evidence
+MGG-192	E2	hard	The Swinging Blue Jeans	Good Golly Miss Molly	1964	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-193	E2	hard	The Beatles	Twist and Shout	1963	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-194	E2	hard	The Isley Brothers	Twist and Shout	1962	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-195	E2	hard	The Rolling Stones	The Last Time	1965	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-196	E2	hard	Andrew Oldham Orchestra	The Last Time	1965	United Kingdom	orchestral pop	curated_preliminary		needs_independent_evidence
+MGG-197	E2	hard	The Byrds	Mr. Tambourine Man	1965	United States	folk rock	curated_preliminary		needs_independent_evidence
+MGG-198	E2	hard	Bob Dylan	Mr. Tambourine Man	1965	United States	folk	curated_preliminary		needs_independent_evidence
+MGG-199	E2	hard	Frank Sinatra	My Way	1969	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-200	E2	hard	Claude François	Comme d'habitude	1967	France	chanson	curated_preliminary		needs_independent_evidence
+MGG-201	E3	general	Stevie Wonder	Superstition	1972	United States	funk	curated_preliminary		needs_independent_evidence
+MGG-202	E3	general	Marvin Gaye	What's Going On	1971	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-203	E3	general	Curtis Mayfield	Move On Up	1970	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-204	E3	general	Al Green	Let's Stay Together	1971	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-205	E3	general	Bill Withers	Ain't No Sunshine	1971	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-206	E3	general	Donny Hathaway	The Ghetto	1970	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-207	E3	general	The Isley Brothers	That Lady	1973	United States	funk	curated_preliminary		needs_independent_evidence
+MGG-208	E3	general	Parliament	Give Up the Funk	1975	United States	funk	curated_preliminary		needs_independent_evidence
+MGG-209	E3	general	Funkadelic	Maggot Brain	1971	United States	funk	curated_preliminary		needs_independent_evidence
+MGG-210	E3	general	Earth, Wind & Fire	September	1978	United States	funk	curated_preliminary		needs_independent_evidence
+MGG-211	E3	general	Chic	Good Times	1979	United States	disco	curated_preliminary		needs_independent_evidence
+MGG-212	E3	general	Donna Summer	I Feel Love	1977	United States	disco	curated_preliminary		needs_independent_evidence
+MGG-213	E3	general	Gloria Gaynor	I Will Survive	1978	United States	disco	curated_preliminary		needs_independent_evidence
+MGG-214	E3	general	The Bee Gees	Stayin' Alive	1977	United Kingdom	disco	curated_preliminary		needs_independent_evidence
+MGG-215	E3	general	Michael Jackson	Billie Jean	1982	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-216	E3	general	Prince	When Doves Cry	1984	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-217	E3	general	Whitney Houston	I Wanna Dance with Somebody	1987	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-218	E3	general	Madonna	Like a Prayer	1989	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-219	E3	general	Janet Jackson	Rhythm Nation	1989	United States	new jack swing	curated_preliminary		needs_independent_evidence
+MGG-220	E3	general	Cyndi Lauper	Girls Just Want to Have Fun	1983	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-221	E3	general	Tina Turner	What's Love Got to Do with It	1984	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-222	E3	general	Jean-Michel Jarre	Oxygène, Part IV	1976	France	electronic	curated_preliminary		needs_independent_evidence
+MGG-223	E3	general	ABBA	Dancing Queen	1976	Sweden	pop	curated_preliminary		needs_independent_evidence
+MGG-224	E3	general	Run-D.M.C.	It's Like That	1983	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-225	E3	general	Grandmaster Flash and the Furious Five	The Message	1982	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-226	E3	general	Sugarhill Gang	Rapper's Delight	1979	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-227	E3	general	Public Enemy	Fight the Power	1989	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-228	E3	general	N.W.A	Straight Outta Compton	1988	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-229	E3	general	Eric B. and Rakim	Paid in Full	1987	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-230	E3	general	INXS	Need You Tonight	1987	Australia	rock	curated_preliminary		needs_independent_evidence
+MGG-231	E3	general	Men at Work	Down Under	1981	Australia	rock	curated_preliminary		needs_independent_evidence
+MGG-232	E3	general	De La Soul	Me Myself and I	1989	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-233	E3	general	Afrika Bambaataa	Planet Rock	1982	United States	electro	curated_preliminary		needs_independent_evidence
+MGG-234	E3	general	Kraftwerk	The Model	1978	Germany	electronic	curated_preliminary		needs_independent_evidence
+MGG-235	E3	general	Neu!	Hallogallo	1972	Germany	krautrock	curated_preliminary		needs_independent_evidence
+MGG-236	E3	general	Can	Vitamin C	1972	Germany	krautrock	curated_preliminary		needs_independent_evidence
+MGG-237	E3	general	Tangerine Dream	Phaedra	1974	Germany	electronic	curated_preliminary		needs_independent_evidence
+MGG-238	E3	general	Depeche Mode	Just Can't Get Enough	1981	United Kingdom	synth pop	curated_preliminary		needs_independent_evidence
+MGG-239	E3	general	New Order	Blue Monday	1983	United Kingdom	electronic	curated_preliminary		needs_independent_evidence
+MGG-240	E3	general	The Human League	Don't You Want Me	1981	United Kingdom	synth pop	curated_preliminary		needs_independent_evidence
+MGG-241	E3	general	Pet Shop Boys	West End Girls	1984	United Kingdom	synth pop	curated_preliminary		needs_independent_evidence
+MGG-242	E3	general	Eurythmics	Sweet Dreams	1983	United Kingdom	synth pop	curated_preliminary		needs_independent_evidence
+MGG-243	E3	general	Talking Heads	Once in a Lifetime	1980	United States	new wave	curated_preliminary		needs_independent_evidence
+MGG-244	E3	general	Tim Maia	Não Quero Dinheiro	1971	Brazil	soul	curated_preliminary		needs_independent_evidence
+MGG-245	E3	general	Jorge Ben	Taj Mahal	1972	Brazil	samba rock	curated_preliminary		needs_independent_evidence
+MGG-246	E3	general	The Clash	London Calling	1979	United Kingdom	punk	curated_preliminary		needs_independent_evidence
+MGG-247	E3	general	Sex Pistols	Anarchy in the U.K.	1976	United Kingdom	punk	curated_preliminary		needs_independent_evidence
+MGG-248	E3	general	The Damned	New Rose	1976	United Kingdom	punk	curated_preliminary		needs_independent_evidence
+MGG-249	E3	general	Ramones	Blitzkrieg Bop	1976	United States	punk	curated_preliminary		needs_independent_evidence
+MGG-250	E3	general	Patti Smith	Gloria	1975	United States	punk	curated_preliminary		needs_independent_evidence
+MGG-251	E3	general	The Cure	Boys Don't Cry	1979	United Kingdom	post-punk	curated_preliminary		needs_independent_evidence
+MGG-252	E3	general	Joy Division	Love Will Tear Us Apart	1980	United Kingdom	post-punk	curated_preliminary		needs_independent_evidence
+MGG-253	E3	general	Siouxsie and the Banshees	Hong Kong Garden	1978	United Kingdom	post-punk	curated_preliminary		needs_independent_evidence
+MGG-254	E3	general	The Smiths	This Charming Man	1983	United Kingdom	indie rock	curated_preliminary		needs_independent_evidence
+MGG-255	E3	general	Elis Regina and Tom Jobim	Águas de Março	1974	Brazil	MPB	curated_preliminary		needs_independent_evidence
+MGG-256	E3	general	Sonic Youth	Teen Age Riot	1988	United States	alternative rock	curated_preliminary		needs_independent_evidence
+MGG-257	E3	general	Pixies	Where Is My Mind?	1988	United States	alternative rock	curated_preliminary		needs_independent_evidence
+MGG-258	E3	general	U2	With or Without You	1987	Ireland	rock	curated_preliminary		needs_independent_evidence
+MGG-259	E3	general	Bruce Springsteen	Born to Run	1975	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-260	E3	general	Fleetwood Mac	Dreams	1977	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-261	E3	general	Juan Gabriel	Querida	1984	Mexico	Latin pop	curated_preliminary		needs_independent_evidence
+MGG-262	E3	general	Queen	Bohemian Rhapsody	1975	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-263	E3	general	David Bowie	Heroes	1977	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-264	E3	general	Kate Bush	Wuthering Heights	1978	United Kingdom	art pop	curated_preliminary		needs_independent_evidence
+MGG-265	E3	general	Joni Mitchell	A Case of You	1971	Canada	folk rock	curated_preliminary		needs_independent_evidence
+MGG-266	E3	general	Asha Bhosle	Dum Maro Dum	1971	India	film song	curated_preliminary		needs_independent_evidence
+MGG-267	E3	general	Dolly Parton	Jolene	1973	United States	country	curated_preliminary		needs_independent_evidence
+MGG-268	E3	general	Willie Nelson	Blue Eyes Crying in the Rain	1975	United States	country	curated_preliminary		needs_independent_evidence
+MGG-269	E3	general	Brenda Fassie	Weekend Special	1983	South Africa	Afropop	curated_preliminary		needs_independent_evidence
+MGG-270	E3	general	Townes Van Zandt	Pancho and Lefty	1972	United States	country	curated_preliminary		needs_independent_evidence
+MGG-271	E3	general	Peter Tosh	Legalize It	1976	Jamaica	reggae	curated_preliminary		needs_independent_evidence
+MGG-272	E3	general	Burning Spear	Marcus Garvey	1975	Jamaica	reggae	curated_preliminary		needs_independent_evidence
+MGG-273	E3	general	The Congos	Fisherman	1977	Jamaica	reggae	curated_preliminary		needs_independent_evidence
+MGG-274	E3	general	Lee Scratch Perry	Disco Devil	1977	Jamaica	dub	curated_preliminary		needs_independent_evidence
+MGG-275	E3	general	Augustus Pablo	King Tubby Meets Rockers Uptown	1976	Jamaica	dub	curated_preliminary		needs_independent_evidence
+MGG-276	E3	general	Yellowman	Zungguzungguguzungguzeng	1982	Jamaica	dancehall	curated_preliminary		needs_independent_evidence
+MGG-277	E3	general	Fela Kuti	Zombie	1976	Nigeria	Afrobeat	curated_preliminary		needs_independent_evidence
+MGG-278	E3	general	King Sunny Adé	Ja Funmi	1982	Nigeria	juju	curated_preliminary		needs_independent_evidence
+MGG-279	E3	general	Hugh Masekela	The Boy's Doin' It	1975	South Africa	jazz	curated_preliminary	https://hughmasekela.co.za/discography/	evidence_linked_version_pending
+MGG-280	E3	general	Miriam Makeba	Soweto Blues	1977	South Africa	Afropop	curated_preliminary	https://www.kvs.be/upload/media/default/deaf/45/86dba55157be619768fa8b847ca8ad630918fd3d.pdf	evidence_linked_version_pending
+MGG-281	E3	general	Youssou N'Dour	Immigrés	1984	Senegal	mbalax	curated_preliminary		needs_independent_evidence
+MGG-282	E3	general	Salif Keita	Soro (Afriki)	1987	Mali	Afropop	curated_preliminary	https://www.afrisson.com/soro-11039/	evidence_linked_version_pending
+MGG-283	E3	general	Ali Farka Touré	Ali Aoudy	1988	Mali	desert blues	curated_preliminary		needs_independent_evidence
+MGG-284	E3	general	Ryuichi Sakamoto	Merry Christmas Mr. Lawrence	1983	Japan	electronic	curated_preliminary		needs_independent_evidence
+MGG-285	E3	general	Yellow Magic Orchestra	Rydeen	1979	Japan	electronic	curated_preliminary		needs_independent_evidence
+MGG-286	E3	general	Haruomi Hosono	Sports Men	1982	Japan	city pop	curated_preliminary		needs_independent_evidence
+MGG-287	E3	general	Mariya Takeuchi	Plastic Love	1984	Japan	city pop	curated_preliminary		needs_independent_evidence
+MGG-288	E3	general	Teresa Teng	The Moon Represents My Heart	1977	Taiwan	Mandopop	curated_preliminary		needs_independent_evidence
+MGG-289	E3	general	Nusrat Fateh Ali Khan	Allah Hoo	1989	Pakistan	qawwali	curated_preliminary		needs_independent_evidence
+MGG-290	E3	general	Ofra Haza	Im Nin'alu	1988	Israel	world pop	curated_preliminary		needs_independent_evidence
+MGG-291	E3	hard	Bob Marley and the Wailers	No Woman, No Cry	1974	Jamaica	reggae	curated_preliminary		needs_independent_evidence
+MGG-292	E3	hard	Bob Marley and the Wailers	No Woman, No Cry (Live)	1975	Jamaica	reggae	curated_preliminary		needs_independent_evidence
+MGG-293	E3	hard	Junior Murvin	Police and Thieves	1976	Jamaica	reggae	curated_preliminary		needs_independent_evidence
+MGG-294	E3	hard	The Clash	Police and Thieves	1977	United Kingdom	punk	curated_preliminary		needs_independent_evidence
+MGG-295	E3	hard	Iggy Pop	China Girl	1977	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-296	E3	hard	David Bowie	China Girl	1983	United Kingdom	rock	curated_preliminary		needs_independent_evidence
+MGG-297	E3	hard	Al Green	Take Me to the River	1974	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-298	E3	hard	Talking Heads	Take Me to the River	1978	United States	new wave	curated_preliminary		needs_independent_evidence
+MGG-299	E3	hard	Harold Melvin and the Blue Notes	Don't Leave Me This Way	1975	United States	soul	curated_preliminary		needs_independent_evidence
+MGG-300	E3	hard	Thelma Houston	Don't Leave Me This Way	1976	United States	disco	curated_preliminary		needs_independent_evidence
+MGG-301	E4	general	Nirvana	Smells Like Teen Spirit	1991	United States	grunge	curated_preliminary		needs_independent_evidence
+MGG-302	E4	general	Pearl Jam	Alive	1991	United States	grunge	curated_preliminary		needs_independent_evidence
+MGG-303	E4	general	Soundgarden	Black Hole Sun	1994	United States	grunge	curated_preliminary		needs_independent_evidence
+MGG-304	E4	general	Alice in Chains	Man in the Box	1990	United States	grunge	curated_preliminary		needs_independent_evidence
+MGG-305	E4	general	Radiohead	Paranoid Android	1997	United Kingdom	alternative rock	curated_preliminary		needs_independent_evidence
+MGG-306	E4	general	Oasis	Wonderwall	1995	United Kingdom	Britpop	curated_preliminary		needs_independent_evidence
+MGG-307	E4	general	Blur	Song 2	1997	United Kingdom	Britpop	curated_preliminary		needs_independent_evidence
+MGG-308	E4	general	Pulp	Common People	1995	United Kingdom	Britpop	curated_preliminary		needs_independent_evidence
+MGG-309	E4	general	The Verve	Bitter Sweet Symphony	1997	United Kingdom	Britpop	curated_preliminary		needs_independent_evidence
+MGG-310	E4	general	Rage Against the Machine	Killing in the Name	1992	United States	rap rock	curated_preliminary		needs_independent_evidence
+MGG-311	E4	general	Red Hot Chili Peppers	Under the Bridge	1992	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-312	E4	general	Foo Fighters	Everlong	1997	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-313	E4	general	Green Day	Basket Case	1994	United States	punk rock	curated_preliminary		needs_independent_evidence
+MGG-314	E4	general	The Offspring	Self Esteem	1994	United States	punk rock	curated_preliminary		needs_independent_evidence
+MGG-315	E4	general	No Doubt	Don't Speak	1996	United States	ska pop	curated_preliminary		needs_independent_evidence
+MGG-316	E4	general	Weezer	Buddy Holly	1994	United States	alternative rock	curated_preliminary		needs_independent_evidence
+MGG-317	E4	general	The White Stripes	Seven Nation Army	2003	United States	garage rock	curated_preliminary		needs_independent_evidence
+MGG-318	E4	general	The Strokes	Last Nite	2001	United States	indie rock	curated_preliminary		needs_independent_evidence
+MGG-319	E4	general	The Killers	Mr. Brightside	2003	United States	indie rock	curated_preliminary		needs_independent_evidence
+MGG-320	E4	general	Arcade Fire	Rebellion (Lies)	2004	Canada	indie rock	curated_preliminary		needs_independent_evidence
+MGG-321	E4	general	Broken Social Scene	Lover's Spit	2002	Canada	indie rock	curated_preliminary		needs_independent_evidence
+MGG-322	E4	general	Feist	1234	2007	Canada	indie pop	curated_preliminary		needs_independent_evidence
+MGG-323	E4	general	Amy Winehouse	Rehab	2006	United Kingdom	soul	curated_preliminary		needs_independent_evidence
+MGG-324	E4	general	Adele	Chasing Pavements	2008	United Kingdom	pop	curated_preliminary		needs_independent_evidence
+MGG-325	E4	general	Duffy	Mercy	2008	United Kingdom	soul	curated_preliminary		needs_independent_evidence
+MGG-326	E4	general	Lauryn Hill	Doo Wop (That Thing)	1998	United States	hip-hop soul	curated_preliminary		needs_independent_evidence
+MGG-327	E4	general	Fugees	Killing Me Softly	1996	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-328	E4	general	Mary J. Blige	Real Love	1992	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-329	E4	general	TLC	No Scrubs	1999	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-330	E4	general	Destiny's Child	Say My Name	1999	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-331	E4	general	Beyoncé	Crazy in Love	2003	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-332	E4	general	Rihanna	Umbrella	2007	Barbados	pop	curated_preliminary		needs_independent_evidence
+MGG-333	E4	general	Mariah Carey	Fantasy	1995	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-334	E4	general	Britney Spears	Toxic	2003	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-335	E4	general	Christina Aguilera	Beautiful	2002	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-336	E4	general	Lady Gaga	Just Dance	2008	United States	dance pop	curated_preliminary		needs_independent_evidence
+MGG-337	E4	general	Kanye West	Jesus Walks	2004	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-338	E4	general	Jay-Z	99 Problems	2003	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-339	E4	general	Nas	N.Y. State of Mind	1994	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-340	E4	general	The Notorious B.I.G.	Juicy	1994	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-341	E4	general	2Pac	California Love	1995	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-342	E4	general	Dr. Dre	Nuthin' but a G Thang	1992	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-343	E4	general	Snoop Dogg	Gin and Juice	1993	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-344	E4	general	OutKast	Ms. Jackson	2000	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-345	E4	general	Missy Elliott	Get Ur Freak On	2001	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-346	E4	general	Eminem	Lose Yourself	2002	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-347	E4	general	A Tribe Called Quest	Scenario	1991	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-348	E4	general	Wu-Tang Clan	C.R.E.A.M.	1993	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-349	E4	general	Mos Def	Ms. Fat Booty	1999	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-350	E4	general	The Roots	You Got Me	1999	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-351	E4	general	The Chemical Brothers	Block Rockin' Beats	1997	United Kingdom	electronic	curated_preliminary		needs_independent_evidence
+MGG-352	E4	general	The Prodigy	Firestarter	1996	United Kingdom	electronic	curated_preliminary		needs_independent_evidence
+MGG-353	E4	general	Massive Attack	Unfinished Sympathy	1991	United Kingdom	trip-hop	curated_preliminary		needs_independent_evidence
+MGG-354	E4	general	Portishead	Glory Box	1994	United Kingdom	trip-hop	curated_preliminary		needs_independent_evidence
+MGG-355	E4	general	Tricky	Hell Is Round the Corner	1995	United Kingdom	trip-hop	curated_preliminary		needs_independent_evidence
+MGG-356	E4	general	Aphex Twin	Windowlicker	1999	United Kingdom	electronic	curated_preliminary		needs_independent_evidence
+MGG-357	E4	general	Boards of Canada	Roygbiv	1998	United Kingdom	electronic	curated_preliminary		needs_independent_evidence
+MGG-358	E4	general	Daft Punk	One More Time	2000	France	house	curated_preliminary		needs_independent_evidence
+MGG-359	E4	general	Air	Sexy Boy	1998	France	electronic	curated_preliminary		needs_independent_evidence
+MGG-360	E4	general	Justice	D.A.N.C.E.	2007	France	electronic	curated_preliminary		needs_independent_evidence
+MGG-361	E4	general	M.I.A.	Paper Planes	2007	United Kingdom	electronic	curated_preliminary		needs_independent_evidence
+MGG-362	E4	general	Gorillaz	Clint Eastwood	2001	United Kingdom	alternative hip-hop	curated_preliminary		needs_independent_evidence
+MGG-363	E4	general	Björk	Hyperballad	1995	Iceland	art pop	curated_preliminary		needs_independent_evidence
+MGG-364	E4	general	Sigur Rós	Svefn-g-englar	1999	Iceland	post-rock	curated_preliminary		needs_independent_evidence
+MGG-365	E4	general	Robyn	With Every Heartbeat	2007	Sweden	electropop	curated_preliminary		needs_independent_evidence
+MGG-366	E4	general	The Cardigans	Lovefool	1996	Sweden	pop	curated_preliminary		needs_independent_evidence
+MGG-367	E4	general	Röyksopp	Eple	2001	Norway	electronic	curated_preliminary		needs_independent_evidence
+MGG-368	E4	general	Youssou N'Dour and Neneh Cherry	7 Seconds	1994	Senegal	Afropop	curated_preliminary		needs_independent_evidence
+MGG-369	E4	general	Angelique Kidjo	Agolo	1994	Benin	Afropop	curated_preliminary		needs_independent_evidence
+MGG-370	E4	general	Ali Farka Touré and Ry Cooder	Ai Du	1994	Mali	world blues	curated_preliminary		needs_independent_evidence
+MGG-371	E4	general	Tinariwen	Amassakoul 'n' Ténéré	2004	Mali	desert blues	curated_preliminary		needs_independent_evidence
+MGG-372	E4	general	Amadou and Mariam	Senegal Fast Food	2004	Mali	Afropop	curated_preliminary		needs_independent_evidence
+MGG-373	E4	general	Cesária Évora	Sodade	1992	Cape Verde	morna	curated_preliminary		needs_independent_evidence
+MGG-374	E4	general	Buena Vista Social Club	Chan Chan	1997	Cuba	son cubano	curated_preliminary		needs_independent_evidence
+MGG-375	E4	general	Shakira	Ojos Así	1998	Colombia	Latin pop	curated_preliminary		needs_independent_evidence
+MGG-376	E4	general	Juanes	A Dios le Pido	2002	Colombia	Latin rock	curated_preliminary		needs_independent_evidence
+MGG-377	E4	general	Café Tacvba	Eres	2003	Mexico	rock en español	curated_preliminary		needs_independent_evidence
+MGG-378	E4	general	Molotov	Gimme tha Power	1997	Mexico	rock en español	curated_preliminary		needs_independent_evidence
+MGG-379	E4	general	Babasónicos	Yegua	2005	Argentina	rock en español	curated_preliminary		needs_independent_evidence
+MGG-380	E4	general	Gustavo Cerati	Crimen	2006	Argentina	rock en español	curated_preliminary		needs_independent_evidence
+MGG-381	E4	general	Soda Stereo	De Música Ligera	1990	Argentina	rock en español	curated_preliminary		needs_independent_evidence
+MGG-382	E4	general	Los Fabulosos Cadillacs	Matador	1993	Argentina	ska	curated_preliminary		needs_independent_evidence
+MGG-383	E4	general	Daddy Yankee	Gasolina	2004	Puerto Rico	reggaeton	curated_preliminary		needs_independent_evidence
+MGG-384	E4	general	Tego Calderón	Pa' Que Retozen	2002	Puerto Rico	reggaeton	curated_preliminary		needs_independent_evidence
+MGG-385	E4	general	Don Omar	Dale Don Dale	2003	Puerto Rico	reggaeton	curated_preliminary		needs_independent_evidence
+MGG-386	E4	general	A. R. Rahman	Chaiyya Chaiyya	1998	India	film song	curated_preliminary		needs_independent_evidence
+MGG-387	E4	general	Lata Mangeshkar and Udit Narayan	Didi Tera Devar Deewana	1994	India	film song	curated_preliminary		needs_independent_evidence
+MGG-388	E4	general	Nusrat Fateh Ali Khan	Mustt Mustt	1990	Pakistan	qawwali	curated_preliminary		needs_independent_evidence
+MGG-389	E4	general	Jay Chou	Qing Tian	2003	Taiwan	Mandopop	curated_preliminary		needs_independent_evidence
+MGG-390	E4	general	Utada Hikaru	First Love	1999	Japan	J-pop	curated_preliminary		needs_independent_evidence
+MGG-391	E4	hard	Nine Inch Nails	Hurt	1994	United States	industrial rock	curated_preliminary		needs_independent_evidence
+MGG-392	E4	hard	Johnny Cash	Hurt	2002	United States	country	curated_preliminary		needs_independent_evidence
+MGG-393	E4	hard	U2	One	1991	Ireland	rock	curated_preliminary		needs_independent_evidence
+MGG-394	E4	hard	Mary J. Blige and U2	One	2006	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-395	E4	hard	Ednaswap	Torn	1995	United States	alternative rock	curated_preliminary		needs_independent_evidence
+MGG-396	E4	hard	Natalie Imbruglia	Torn	1997	Australia	pop	curated_preliminary		needs_independent_evidence
+MGG-397	E4	hard	The Zutons	Valerie	2006	United Kingdom	indie rock	curated_preliminary		needs_independent_evidence
+MGG-398	E4	hard	Mark Ronson feat. Amy Winehouse	Valerie	2007	United Kingdom	soul	curated_preliminary		needs_independent_evidence
+MGG-399	E4	hard	Jeff Buckley	Hallelujah	1994	United States	rock	curated_preliminary		needs_independent_evidence
+MGG-400	E4	hard	Rufus Wainwright	Hallelujah	2001	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-401	E5	general	Adele	Rolling in the Deep	2010	United Kingdom	pop	curated_preliminary		needs_independent_evidence
+MGG-402	E5	general	Beyoncé	Formation	2016	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-403	E5	general	Rihanna	Work	2016	Barbados	pop	curated_preliminary		needs_independent_evidence
+MGG-404	E5	general	Taylor Swift	Anti-Hero	2022	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-405	E5	general	Billie Eilish	Bad Guy	2019	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-406	E5	general	Olivia Rodrigo	Drivers License	2021	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-407	E5	general	Lorde	Royals	2013	New Zealand	pop	curated_preliminary		needs_independent_evidence
+MGG-408	E5	general	Lana Del Rey	Video Games	2011	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-409	E5	general	SZA	Kill Bill	2022	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-410	E5	general	Chappell Roan	The Subway	2025	United States	pop	curated_preliminary	https://www.officialcharts.com/songs/chappell-roan-the-subway/	evidence_linked_version_pending
+MGG-411	E5	general	Solange	Cranes in the Sky	2016	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-412	E5	general	Frank Ocean	Thinkin Bout You	2012	United States	rhythm and blues	curated_preliminary		needs_independent_evidence
+MGG-413	E5	general	The Weeknd	Blinding Lights	2019	Canada	pop	curated_preliminary		needs_independent_evidence
+MGG-414	E5	general	Bruno Mars	Locked Out of Heaven	2012	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-415	E5	general	Justin Bieber	Sorry	2015	Canada	pop	curated_preliminary		needs_independent_evidence
+MGG-416	E5	general	Bad Bunny	DtMF	2025	Puerto Rico	Latin pop	curated_preliminary	https://www.officialcharts.com/songs/bad-bunny-dtmf/	evidence_linked_version_pending
+MGG-417	E5	general	Dua Lipa	Don't Start Now	2019	United Kingdom	pop	curated_preliminary		needs_independent_evidence
+MGG-418	E5	general	Harry Styles	As It Was	2022	United Kingdom	pop	curated_preliminary		needs_independent_evidence
+MGG-419	E5	general	Charli XCX	360	2024	United Kingdom	hyperpop	curated_preliminary		needs_independent_evidence
+MGG-420	E5	general	Chappell Roan	Good Luck, Babe!	2024	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-421	E5	general	Kendrick Lamar	Alright	2015	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-422	E5	general	Drake	Hotline Bling	2015	Canada	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-423	E5	general	Sabrina Carpenter	Manchild	2025	United States	pop	curated_preliminary	https://www.officialcharts.com/songs/sabrina-carpenter-manchild/	evidence_linked_version_pending
+MGG-424	E5	general	Tyler, the Creator	EARFQUAKE	2019	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-425	E5	general	Childish Gambino	This Is America	2018	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-426	E5	general	Travis Scott	SICKO MODE	2018	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-427	E5	general	Cardi B	Bodak Yellow	2017	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-428	E5	general	Megan Thee Stallion	Savage	2020	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-429	E5	general	Nicki Minaj	Super Bass	2011	Trinidad and Tobago	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-430	E5	general	Doja Cat	Say So	2019	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-431	E5	general	Run the Jewels	Close Your Eyes (And Count to Fuck)	2014	United States	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-432	E5	general	Little Simz	Introvert	2021	United Kingdom	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-433	E5	general	Stormzy	Shut Up	2015	United Kingdom	grime	curated_preliminary		needs_independent_evidence
+MGG-434	E5	general	Skepta	Shutdown	2015	United Kingdom	grime	curated_preliminary		needs_independent_evidence
+MGG-435	E5	general	Dave	Black	2019	United Kingdom	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-436	E5	general	J Hus	Did You See	2017	United Kingdom	Afroswing	curated_preliminary		needs_independent_evidence
+MGG-437	E5	general	Rosalía	Malamente	2018	Spain	flamenco pop	curated_preliminary		needs_independent_evidence
+MGG-438	E5	general	Bad Bunny	Tití Me Preguntó	2022	Puerto Rico	reggaeton	curated_preliminary		needs_independent_evidence
+MGG-439	E5	general	J Balvin	Mi Gente	2017	Colombia	reggaeton	curated_preliminary		needs_independent_evidence
+MGG-440	E5	general	Karol G	TQG	2023	Colombia	reggaeton	curated_preliminary		needs_independent_evidence
+MGG-441	E5	general	Rauw Alejandro	Todo de Ti	2021	Puerto Rico	reggaeton	curated_preliminary		needs_independent_evidence
+MGG-442	E5	general	Nathy Peluso	Buenos Aires	2020	Argentina	Latin pop	curated_preliminary		needs_independent_evidence
+MGG-443	E5	general	Bizarrap and Shakira	BZRP Music Sessions #53	2023	Argentina	Latin pop	curated_preliminary		needs_independent_evidence
+MGG-444	E5	general	Anitta	Envolver	2021	Brazil	funk carioca	curated_preliminary		needs_independent_evidence
+MGG-445	E5	general	Ludmilla	Cheguei	2017	Brazil	funk carioca	curated_preliminary		needs_independent_evidence
+MGG-446	E5	general	Liniker	Zero	2015	Brazil	MPB	curated_preliminary		needs_independent_evidence
+MGG-447	E5	general	Emicida	AmarElo	2019	Brazil	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-448	E5	general	Burna Boy	Ye	2018	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-449	E5	general	Wizkid	Ojuelegba	2014	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-450	E5	general	Davido	Fall	2017	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-451	E5	general	Tems	Free Mind	2020	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-452	E5	general	Asake	Joha	2022	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-453	E5	general	Ayra Starr	Rush	2022	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-454	E5	general	Amaarae	SAD GIRLZ LUV MONEY	2020	Ghana	Afropop	curated_preliminary		needs_independent_evidence
+MGG-455	E5	general	Sarkodie	Adonai	2014	Ghana	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-456	E5	general	Diamond Platnumz	Jeje	2020	Tanzania	Bongo Flava	curated_preliminary		needs_independent_evidence
+MGG-457	E5	general	Sauti Sol	Suzanna	2020	Kenya	Afropop	curated_preliminary		needs_independent_evidence
+MGG-458	E5	general	Yemi Alade	Johnny	2013	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-459	E5	general	MHD	Afro Trap Part. 3 (Champions League)	2016	France	Afro trap	curated_preliminary		needs_independent_evidence
+MGG-460	E5	general	Black Coffee	Drive	2018	South Africa	house	curated_preliminary		needs_independent_evidence
+MGG-461	E5	general	Kabza De Small	Sponono	2019	South Africa	amapiano	curated_preliminary		needs_independent_evidence
+MGG-462	E5	general	BLACKPINK	DDU-DU DDU-DU	2018	South Korea	K-pop	curated_preliminary		needs_independent_evidence
+MGG-463	E5	general	NewJeans	Ditto	2022	South Korea	K-pop	curated_preliminary		needs_independent_evidence
+MGG-464	E5	general	IU	Palette	2017	South Korea	K-pop	curated_preliminary		needs_independent_evidence
+MGG-465	E5	general	SEVENTEEN	Super	2023	South Korea	K-pop	curated_preliminary		needs_independent_evidence
+MGG-466	E5	general	PSY	Gangnam Style	2012	South Korea	K-pop	curated_preliminary		needs_independent_evidence
+MGG-467	E5	general	HYUKOH	Comes and Goes	2015	South Korea	indie rock	curated_preliminary		needs_independent_evidence
+MGG-468	E5	general	Hikaru Utada	One Last Kiss	2021	Japan	J-pop	curated_preliminary		needs_independent_evidence
+MGG-469	E5	general	YOASOBI	Yoru ni Kakeru	2019	Japan	J-pop	curated_preliminary		needs_independent_evidence
+MGG-470	E5	general	Fujii Kaze	Shinunoga E-Wa	2020	Japan	J-pop	curated_preliminary		needs_independent_evidence
+MGG-471	E5	general	Kenshi Yonezu	Lemon	2018	Japan	J-pop	curated_preliminary		needs_independent_evidence
+MGG-472	E5	general	Ado	Usseewa	2020	Japan	J-pop	curated_preliminary		needs_independent_evidence
+MGG-473	E5	general	Jay Chou	Mojito	2020	Taiwan	Mandopop	curated_preliminary		needs_independent_evidence
+MGG-474	E5	general	Jolin Tsai	Ugly Beauty	2018	Taiwan	Mandopop	curated_preliminary		needs_independent_evidence
+MGG-475	E5	general	Jackson Wang	100 Ways	2020	Hong Kong	pop	curated_preliminary		needs_independent_evidence
+MGG-476	E5	general	Diljit Dosanjh	Lover	2021	India	Punjabi pop	curated_preliminary		needs_independent_evidence
+MGG-477	E5	general	Arijit Singh	Tum Hi Ho	2013	India	film song	curated_preliminary		needs_independent_evidence
+MGG-478	E5	general	A. R. Rahman	Kun Faya Kun	2011	India	film song	curated_preliminary		needs_independent_evidence
+MGG-479	E5	general	Ritviz	Udd Gaye	2017	India	electronic	curated_preliminary		needs_independent_evidence
+MGG-480	E5	general	Prateek Kuhad	cold/mess	2018	India	indie folk	curated_preliminary		needs_independent_evidence
+MGG-481	E5	general	Ali Sethi and Shae Gill	Pasoori	2022	Pakistan	Punjabi pop	curated_preliminary		needs_independent_evidence
+MGG-482	E5	general	Ali Sethi	Chandni Raat	2019	Pakistan	ghazal	curated_preliminary		needs_independent_evidence
+MGG-483	E5	general	Cai Xukun	Lover	2020	China	Mandopop	curated_preliminary		needs_independent_evidence
+MGG-484	E5	general	Rich Brian	Dat $tick	2016	Indonesia	hip-hop	curated_preliminary		needs_independent_evidence
+MGG-485	E5	general	NIKI	Every Summertime	2021	Indonesia	pop	curated_preliminary		needs_independent_evidence
+MGG-486	E5	general	Tame Impala	The Less I Know the Better	2015	Australia	psychedelic pop	curated_preliminary		needs_independent_evidence
+MGG-487	E5	general	Stromae	Papaoutai	2013	Belgium	electronic pop	curated_preliminary		needs_independent_evidence
+MGG-488	E5	general	Christine and the Queens	Tilted	2014	France	pop	curated_preliminary		needs_independent_evidence
+MGG-489	E5	general	Mdou Moctar	Tarhatazed	2019	Niger	desert blues	curated_preliminary		needs_independent_evidence
+MGG-490	E5	general	Focalistic	Ke Star	2020	South Africa	amapiano	curated_preliminary		needs_independent_evidence
+MGG-491	E5	hard	Lil Nas X	Old Town Road (Original)	2018	United States	country rap	curated_preliminary		needs_independent_evidence
+MGG-492	E5	hard	Lil Nas X feat. Billy Ray Cyrus	Old Town Road (Remix)	2019	United States	country rap	curated_preliminary		needs_independent_evidence
+MGG-493	E5	hard	Master KG feat. Nomcebo Zikode	Jerusalema	2019	South Africa	house	curated_preliminary		needs_independent_evidence
+MGG-494	E5	hard	Master KG feat. Burna Boy	Jerusalema (Remix)	2020	South Africa	house	curated_preliminary		needs_independent_evidence
+MGG-495	E5	hard	Rema	Calm Down	2022	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-496	E5	hard	Rema and Selena Gomez	Calm Down (Remix)	2022	Nigeria	Afrobeats	curated_preliminary		needs_independent_evidence
+MGG-497	E5	hard	BTS	Dynamite	2020	South Korea	K-pop	curated_preliminary		needs_independent_evidence
+MGG-498	E5	hard	BTS	Dynamite (Tropical Remix)	2020	South Korea	K-pop	curated_preliminary		needs_independent_evidence
+MGG-499	E5	hard	Taylor Swift	All Too Well	2012	United States	pop	curated_preliminary		needs_independent_evidence
+MGG-500	E5	hard	Taylor Swift	All Too Well (10 Minute Version)	2021	United States	pop	curated_preliminary		needs_independent_evidence

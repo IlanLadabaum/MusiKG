@@ -1,0 +1,100 @@
+Adele|Rolling in the Deep|2010|United Kingdom|pop
+Beyoncé|Formation|2016|United States|pop
+Rihanna|Work|2016|Barbados|pop
+Taylor Swift|Anti-Hero|2022|United States|pop
+Billie Eilish|Bad Guy|2019|United States|pop
+Olivia Rodrigo|Drivers License|2021|United States|pop
+Lorde|Royals|2013|New Zealand|pop
+Lana Del Rey|Video Games|2011|United States|pop
+SZA|Kill Bill|2022|United States|rhythm and blues
+Chappell Roan|The Subway|2025|United States|pop
+Solange|Cranes in the Sky|2016|United States|rhythm and blues
+Frank Ocean|Thinkin Bout You|2012|United States|rhythm and blues
+The Weeknd|Blinding Lights|2019|Canada|pop
+Bruno Mars|Locked Out of Heaven|2012|United States|pop
+Justin Bieber|Sorry|2015|Canada|pop
+Bad Bunny|DtMF|2025|Puerto Rico|Latin pop
+Dua Lipa|Don't Start Now|2019|United Kingdom|pop
+Harry Styles|As It Was|2022|United Kingdom|pop
+Charli XCX|360|2024|United Kingdom|hyperpop
+Chappell Roan|Good Luck, Babe!|2024|United States|pop
+Kendrick Lamar|Alright|2015|United States|hip-hop
+Drake|Hotline Bling|2015|Canada|hip-hop
+Sabrina Carpenter|Manchild|2025|United States|pop
+Tyler, the Creator|EARFQUAKE|2019|United States|hip-hop
+Childish Gambino|This Is America|2018|United States|hip-hop
+Travis Scott|SICKO MODE|2018|United States|hip-hop
+Cardi B|Bodak Yellow|2017|United States|hip-hop
+Megan Thee Stallion|Savage|2020|United States|hip-hop
+Nicki Minaj|Super Bass|2011|Trinidad and Tobago|hip-hop
+Doja Cat|Say So|2019|United States|pop
+Run the Jewels|Close Your Eyes (And Count to Fuck)|2014|United States|hip-hop
+Little Simz|Introvert|2021|United Kingdom|hip-hop
+Stormzy|Shut Up|2015|United Kingdom|grime
+Skepta|Shutdown|2015|United Kingdom|grime
+Dave|Black|2019|United Kingdom|hip-hop
+J Hus|Did You See|2017|United Kingdom|Afroswing
+Rosalía|Malamente|2018|Spain|flamenco pop
+Bad Bunny|Tití Me Preguntó|2022|Puerto Rico|reggaeton
+J Balvin|Mi Gente|2017|Colombia|reggaeton
+Karol G|TQG|2023|Colombia|reggaeton
+Rauw Alejandro|Todo de Ti|2021|Puerto Rico|reggaeton
+Nathy Peluso|Buenos Aires|2020|Argentina|Latin pop
+Bizarrap and Shakira|BZRP Music Sessions #53|2023|Argentina|Latin pop
+Anitta|Envolver|2021|Brazil|funk carioca
+Ludmilla|Cheguei|2017|Brazil|funk carioca
+Liniker|Zero|2015|Brazil|MPB
+Emicida|AmarElo|2019|Brazil|hip-hop
+Burna Boy|Ye|2018|Nigeria|Afrobeats
+Wizkid|Ojuelegba|2014|Nigeria|Afrobeats
+Davido|Fall|2017|Nigeria|Afrobeats
+Tems|Free Mind|2020|Nigeria|Afrobeats
+Asake|Joha|2022|Nigeria|Afrobeats
+Ayra Starr|Rush|2022|Nigeria|Afrobeats
+Amaarae|SAD GIRLZ LUV MONEY|2020|Ghana|Afropop
+Sarkodie|Adonai|2014|Ghana|hip-hop
+Diamond Platnumz|Jeje|2020|Tanzania|Bongo Flava
+Sauti Sol|Suzanna|2020|Kenya|Afropop
+Yemi Alade|Johnny|2013|Nigeria|Afrobeats
+MHD|Afro Trap Part. 3 (Champions League)|2016|France|Afro trap
+Black Coffee|Drive|2018|South Africa|house
+Kabza De Small|Sponono|2019|South Africa|amapiano
+BLACKPINK|DDU-DU DDU-DU|2018|South Korea|K-pop
+NewJeans|Ditto|2022|South Korea|K-pop
+IU|Palette|2017|South Korea|K-pop
+SEVENTEEN|Super|2023|South Korea|K-pop
+PSY|Gangnam Style|2012|South Korea|K-pop
+HYUKOH|Comes and Goes|2015|South Korea|indie rock
+Hikaru Utada|One Last Kiss|2021|Japan|J-pop
+YOASOBI|Yoru ni Kakeru|2019|Japan|J-pop
+Fujii Kaze|Shinunoga E-Wa|2020|Japan|J-pop
+Kenshi Yonezu|Lemon|2018|Japan|J-pop
+Ado|Usseewa|2020|Japan|J-pop
+Jay Chou|Mojito|2020|Taiwan|Mandopop
+Jolin Tsai|Ugly Beauty|2018|Taiwan|Mandopop
+Jackson Wang|100 Ways|2020|Hong Kong|pop
+Diljit Dosanjh|Lover|2021|India|Punjabi pop
+Arijit Singh|Tum Hi Ho|2013|India|film song
+A. R. Rahman|Kun Faya Kun|2011|India|film song
+Ritviz|Udd Gaye|2017|India|electronic
+Prateek Kuhad|cold/mess|2018|India|indie folk
+Ali Sethi and Shae Gill|Pasoori|2022|Pakistan|Punjabi pop
+Ali Sethi|Chandni Raat|2019|Pakistan|ghazal
+Cai Xukun|Lover|2020|China|Mandopop
+Rich Brian|Dat $tick|2016|Indonesia|hip-hop
+NIKI|Every Summertime|2021|Indonesia|pop
+Tame Impala|The Less I Know the Better|2015|Australia|psychedelic pop
+Stromae|Papaoutai|2013|Belgium|electronic pop
+Christine and the Queens|Tilted|2014|France|pop
+Mdou Moctar|Tarhatazed|2019|Niger|desert blues
+Focalistic|Ke Star|2020|South Africa|amapiano
+HARD|Lil Nas X|Old Town Road (Original)|2018|United States|country rap
+HARD|Lil Nas X feat. Billy Ray Cyrus|Old Town Road (Remix)|2019|United States|country rap
+HARD|Master KG feat. Nomcebo Zikode|Jerusalema|2019|South Africa|house
+HARD|Master KG feat. Burna Boy|Jerusalema (Remix)|2020|South Africa|house
+HARD|Rema|Calm Down|2022|Nigeria|Afrobeats
+HARD|Rema and Selena Gomez|Calm Down (Remix)|2022|Nigeria|Afrobeats
+HARD|BTS|Dynamite|2020|South Korea|K-pop
+HARD|BTS|Dynamite (Tropical Remix)|2020|South Korea|K-pop
+HARD|Taylor Swift|All Too Well|2012|United States|pop
+HARD|Taylor Swift|All Too Well (10 Minute Version)|2021|United States|pop

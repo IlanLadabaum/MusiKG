@@ -1,6 +1,6 @@
 # Music Graph Generator
 
-_TODO: short description of the project._
+Builds a graph of your music taste from your listening data, linking tracks to the people behind them (performers, session musicians, writers, producers) to surface hidden influences.
 
 ## Getting started
 
@@ -8,6 +8,5 @@ _TODO: setup and usage instructions._
 
 ## Project structure
 
-- `Code/` — source code
-- `docs/` — documentation and design notes
-- `AGENTS.md` — instructions for AI coding agents
+- `Plan/` — planning documents (start with `Plan/Global Plan.md`)
+- `AGENTS.md` — instructions for AI coding agents (start with `Coding_Agent_Skill.md`)

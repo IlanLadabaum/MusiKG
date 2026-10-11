@@ -1,0 +1,100 @@
+Chuck Berry|Maybellene|1955|United States|rock and roll
+Little Richard|Tutti Frutti|1955|United States|rock and roll
+Elvis Presley|Heartbreak Hotel|1956|United States|rock and roll
+Bo Diddley|Bo Diddley|1955|United States|rock and roll
+Fats Domino|Blueberry Hill|1956|United States|rhythm and blues
+Domenico Modugno|Nel blu dipinto di blu|1958|Italy|pop
+Buddy Holly and the Crickets|That'll Be the Day|1957|United States|rock and roll
+Kyu Sakamoto|Ue o Muite Arukō|1961|Japan|kayōkyoku
+Ray Charles|What'd I Say|1959|United States|rhythm and blues
+Sam Cooke|A Change Is Gonna Come|1964|United States|soul
+Aretha Franklin|Respect|1967|United States|soul
+Otis Redding|Try a Little Tenderness|1966|United States|soul
+Wilson Pickett|In the Midnight Hour|1965|United States|soul
+James Brown|Papa's Got a Brand New Bag|1965|United States|funk
+Jacques Brel|Ne me quitte pas|1959|Belgium|chanson
+Marvin Gaye|I Heard It Through the Grapevine|1968|United States|soul
+The Supremes|Where Did Our Love Go|1964|United States|soul
+The Temptations|My Girl|1964|United States|soul
+Françoise Hardy|Tous les garçons et les filles|1962|France|yé-yé
+Smokey Robinson and the Miracles|The Tracks of My Tears|1965|United States|soul
+Martha and the Vandellas|Dancing in the Street|1964|United States|soul
+Etta James|At Last|1960|United States|rhythm and blues
+Nina Simone|Mississippi Goddam|1964|United States|jazz
+John Coltrane|My Favorite Things|1961|United States|jazz
+Miles Davis|So What|1959|United States|jazz
+Dave Brubeck Quartet|Take Five|1959|United States|jazz
+Charles Mingus|Goodbye Pork Pie Hat|1959|United States|jazz
+Ornette Coleman|Lonely Woman|1959|United States|jazz
+France Gall|Poupée de cire, poupée de son|1965|France|yé-yé
+Thelonious Monk|Blue Monk|1954|United States|jazz
+Mina|Se telefonando|1966|Italy|pop
+Stan Getz and João Gilberto|The Girl from Ipanema|1964|United States|bossa nova
+João Gilberto|Chega de Saudade|1958|Brazil|bossa nova
+Antônio Carlos Jobim|Desafinado|1959|Brazil|bossa nova
+Elis Regina|Arrastão|1965|Brazil|MPB
+Jorge Ben|Mas Que Nada|1963|Brazil|samba
+Caetano Veloso|Alegria, Alegria|1967|Brazil|tropicalia
+Gilberto Gil|Domingo no Parque|1967|Brazil|tropicalia
+Os Mutantes|A Minha Menina|1968|Brazil|psychedelic rock
+Gal Costa|Baby|1969|Brazil|MPB
+Chico Buarque|A Banda|1966|Brazil|MPB
+The Beatles|A Hard Day's Night|1964|United Kingdom|rock
+The Rolling Stones|Satisfaction|1965|United Kingdom|rock
+The Kinks|You Really Got Me|1964|United Kingdom|rock
+The Who|My Generation|1965|United Kingdom|rock
+Serge Gainsbourg and Jane Birkin|Je t'aime... moi non plus|1969|France|chanson
+Cream|Sunshine of Your Love|1967|United Kingdom|rock
+Jimi Hendrix Experience|Purple Haze|1967|United Kingdom|rock
+Pink Floyd|Astronomy Domine|1967|United Kingdom|psychedelic rock
+Led Zeppelin|Whole Lotta Love|1969|United Kingdom|hard rock
+David Bowie|Space Oddity|1969|United Kingdom|rock
+Dusty Springfield|Son of a Preacher Man|1968|United Kingdom|soul
+The Animals|The House of the Rising Sun|1964|United Kingdom|rock
+Hibari Misora|Ringo Oiwake|1952|Japan|enka
+The Beach Boys|Good Vibrations|1966|United States|pop
+The Byrds|Eight Miles High|1966|United States|folk rock
+Bob Dylan|Like a Rolling Stone|1965|United States|folk rock
+Simon and Garfunkel|The Sound of Silence|1965|United States|folk rock
+Le Grand Kallé and African Jazz|Indépendance Cha Cha|1960|DR Congo|rumba congolaise
+Jefferson Airplane|White Rabbit|1967|United States|psychedelic rock
+The Doors|Light My Fire|1967|United States|rock
+Creedence Clearwater Revival|Proud Mary|1969|United States|rock
+The Velvet Underground|Heroin|1967|United States|rock
+Sly and the Family Stone|Everyday People|1968|United States|funk
+MC5|Kick Out the Jams|1969|United States|rock
+The Stooges|I Wanna Be Your Dog|1969|United States|rock
+Johnny Cash|I Walk the Line|1956|United States|country
+Patsy Cline|Crazy|1961|United States|country
+Loretta Lynn|You Ain't Woman Enough|1966|United States|country
+Merle Haggard|Mama Tried|1968|United States|country
+Astor Piazzolla|Adiós Nonino|1959|Argentina|tango nuevo
+Dolly Parton|Dumb Blonde|1967|United States|country
+The Skatalites|Guns of Navarone|1965|Jamaica|ska
+Desmond Dekker|Israelites|1968|Jamaica|reggae
+Toots and the Maytals|54-46 That's My Number|1968|Jamaica|reggae
+The Wailers|Simmer Down|1964|Jamaica|ska
+Prince Buster|Al Capone|1965|Jamaica|ska
+The Ethiopians|Train to Skaville|1967|Jamaica|ska
+Celia Cruz|Burundanga|1953|Cuba|salsa
+Mongo Santamaría|Watermelon Man|1963|Cuba|Latin jazz
+Tito Puente|Oye Como Va|1963|United States|Latin jazz
+Pérez Prado|Mambo No. 5|1950|Cuba|mambo
+Lata Mangeshkar|Ajeeb Dastan Hai Yeh|1960|India|film song
+Mohammed Rafi|Chaudhvin Ka Chand Ho|1960|India|film song
+Kishore Kumar|Roop Tera Mastana|1969|India|film song
+Fairuz|Nassam Alayna el-Hawa|1967|Lebanon|Arabic pop
+Oum Kalthoum|Enta Omri|1964|Egypt|Arabic classical
+Abdel Halim Hafez|Ahwak|1953|Egypt|Arabic pop
+Miriam Makeba|Pata Pata|1967|South Africa|Afropop
+Hugh Masekela|Grazing in the Grass|1968|South Africa|jazz
+HARD|Little Richard|Good Golly Miss Molly|1958|United States|rock and roll
+HARD|The Swinging Blue Jeans|Good Golly Miss Molly|1964|United Kingdom|rock
+HARD|The Beatles|Twist and Shout|1963|United Kingdom|rock
+HARD|The Isley Brothers|Twist and Shout|1962|United States|rhythm and blues
+HARD|The Rolling Stones|The Last Time|1965|United Kingdom|rock
+HARD|Andrew Oldham Orchestra|The Last Time|1965|United Kingdom|orchestral pop
+HARD|The Byrds|Mr. Tambourine Man|1965|United States|folk rock
+HARD|Bob Dylan|Mr. Tambourine Man|1965|United States|folk
+HARD|Frank Sinatra|My Way|1969|United States|pop
+HARD|Claude François|Comme d'habitude|1967|France|chanson

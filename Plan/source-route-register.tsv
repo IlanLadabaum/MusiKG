@@ -1,0 +1,34 @@
+route_id	role	initial_state	planned_route	access_or_scope_gate	current_terms_url	terms_checked_utc	research_access	public_app_access	raw_retention	derived_retention	attribution	rate_limit	credentials	eligibility_note
+musicbrainz_api	credits_identity	candidate	public API	Current limits, user agent, and core versus supplementary retention	https://musicbrainz.org/doc/MusicBrainz_API									
+musicbrainz_dump	credits_identity	candidate	bulk dump	Disk, update version, relationship completeness, and data-license partition	https://musicbrainz.org/doc/MusicBrainz_Database/Download									
+discogs_cc0_dump	release_track_credits	candidate	monthly XML	Selective extraction feasibility; keep release and track scopes distinct	https://data.discogs.com/									
+discogs_api	release_track_credits	hold_separate_route	API	Distinct API storage, freshness, and attribution terms	https://support.discogs.com/hc/en-us/articles/360009334593-API-Terms-of-Use									
+wikidata	identity_context	candidate	entity API or SPARQL	Query limits and entity-scope mapping	https://www.wikidata.org/wiki/Wikidata:Data_access									
+open_opus	classical_work_context	candidate	API or downloadable data	Classical-work applicable subset only	https://www.openopus.org/									
+listenbrainz_mapper	identity_only	candidate	mapping lookup	Current terms, limits, and independent match adjudication	https://mapper.listenbrainz.org/docs									
+doremus	classical_performance_context	candidate	SPARQL or dataset	Live endpoint, component rights, and identity mapping	https://data.doremus.org/									
+loc_catalog	historical_catalog_context	candidate	JSON API	Collection/item rights and recording resolution	https://www.loc.gov/apis/json-and-yaml/requests/endpoints/									
+mediawiki_article	prose_extraction	candidate	MediaWiki API	Article revision, citation, text-license, and scope review	https://www.mediawiki.org/wiki/API:Parsing_wikitext									
+theaudiodb_v1	track_context	candidate	free v1 API	Free endpoint inventory, retention, and rate limits	https://www.theaudiodb.com/free_music_api									
+viaf	contributor_identity	candidate	API or bulk authority file	Attribution and dataset currency	https://viaf.org/viaf/data									
+acousticbrainz	acoustic_context	conditional	archived API or dump	Service availability and historic-only subset	https://musicbrainz.org/doc/AcousticBrainz									
+spotify_track	provider_input_identity	conditional	track API	Credential and provider-ID input; separate from credit scoring	https://developer.spotify.com/documentation/web-api/reference/get-track									
+acoustid	fingerprint_identity	conditional	fingerprint API	Audio/fingerprint input needed; not applicable to title-only set	https://acoustid.org/webservice									
+cover_art_archive	presentation_only	conditional	artwork API	Image-specific rights; outside credit score	https://coverartarchive.org/									
+mlc_api	work_rights	hold	Data Access Hub	Account enrollment and private program terms	https://www.themlc.com/dataprograms									
+secondhandsongs_api	work_performance_derivation	hold	API	Research versus public-tool authorization	https://secondhandsongs.com/page/TermsOfService									
+lastfm_api	community_context	hold	API	Prior research contact and storage cap	https://www.last.fm/api/tos									
+genius_api	writer_producer_context	hold	API	Current credit fields and product/research reuse	https://genius.com/developers									
+soundexchange_isrc	identity_rightsholder	manual_reference	public search	Automated API eligibility unverified	https://www.soundexchange.com/									
+ifpi_isrc	identity_only	manual_reference	public search	No verified free automated route	https://isrc.ifpi.org/									
+songview	work_rights	manual_reference	public search	No verified free automated route	https://www.bmi.com/about/songview									
+society_repertoires	work_rights	manual_reference	individual society search	Treat SOCAN, PRS, and GEMA separately if expanded	https://www.socan.com/									
+whosampled	derivation	manual_reference	public site	No verified free API or reuse rights	https://www.whosampled.com/									
+allmusic	credits	manual_reference	public site	No verified free product API	https://www.allmusic.com/									
+rateyourmusic	genre_context	manual_reference	public site	No verified free product API	https://rateyourmusic.com/									
+sound_credit	creator_credits	hold	provider inquiry	No verified free queryable corpus	https://soundcredit.com/									
+fortyfivecat_worlds	historical_release	manual_reference	public site	Automated access and reuse unverified	https://www.45cat.com/									
+afrodisc	historical_discography	manual_reference	public site	Automated access and reuse unverified	https://afrodisc.com/									
+flat_international	historical_discography	manual_reference	public site	Automated access and reuse unverified	https://www.flatinternational.org/									
+cisac_iswc_open_data	work_id_mapping	conditional	limited download	Click-through terms; not the paid API	https://www.iswc.org/open-data									
+cisac_iswc_paid_api	work_id_mapping	excluded_paid	commercial API	Outside free-source benchmark	https://www.iswc.org/third-parties									

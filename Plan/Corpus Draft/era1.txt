@@ -1,0 +1,100 @@
+Louis Armstrong|West End Blues|1928|United States|jazz
+Duke Ellington|Mood Indigo|1930|United States|jazz
+Bessie Smith|Downhearted Blues|1923|United States|blues
+Ma Rainey|See See Rider Blues|1924|United States|blues
+Jelly Roll Morton|Black Bottom Stomp|1926|United States|jazz
+King Oliver's Creole Jazz Band|Dipper Mouth Blues|1923|United States|jazz
+The Kumasi Trio|Amponsah Part 1|1928|Ghana|highlife
+Frankie Trumbauer and His Orchestra with Bix and Lang|Singin' the Blues|1927|United States|jazz
+Hibari Misora|Kappa Boogie Woogie|1949|Japan|kayōkyoku
+Madhumalati and Sneha Dhopeshwarkar|Mangalagaur Arati|1938|India|traditional
+Count Basie|One O'Clock Jump|1937|United States|jazz
+Noriko Awaya|Wakare no Blues|1937|Japan|kayōkyoku
+Griffiths Motsieloa and Company|Nkosi Sikelela i Afrika|1930|South Africa|choral
+Duke Ellington|Take the A Train|1941|United States|jazz
+Billie Holiday|Strange Fruit|1939|United States|jazz
+Chick Webb and His Orchestra featuring Ella Fitzgerald|A-Tisket, A-Tasket|1938|United States|jazz
+Sarah Vaughan|Interlude|1944|United States|jazz
+Charlie Parker|Ko-Ko|1945|United States|jazz
+Dizzy Gillespie|A Night in Tunisia|1946|United States|jazz
+Thelonious Monk|Round Midnight|1947|United States|jazz
+City Deep Natives|Uyeza|1930|South Africa|traditional
+Caluza's Double Quartet|Ixegwana|1930|South Africa|choral
+Sister Rosetta Tharpe|Rock Me|1938|United States|gospel
+Mahalia Jackson|Move On Up a Little Higher|1947|United States|gospel
+Golden Gate Jubilee Quartet|Golden Gate Gospel Train|1937|United States|gospel
+Blind Willie Johnson|Dark Was the Night, Cold Was the Ground|1927|United States|gospel blues
+Robert Johnson|Cross Road Blues|1936|United States|blues
+Son House|My Black Mama|1930|United States|blues
+Charley Patton|Pony Blues|1929|United States|blues
+Skip James|Devil Got My Woman|1931|United States|blues
+Mississippi John Hurt|Avalon Blues|1928|United States|blues
+Lead Belly|Midnight Special|1934|United States|folk blues
+Big Bill Broonzy|Key to the Highway|1941|United States|blues
+Muddy Waters|I Can't Be Satisfied|1948|United States|blues
+T-Bone Walker|Call It Stormy Monday|1947|United States|blues
+Lightnin' Hopkins|Katie Mae|1946|United States|blues
+Woody Guthrie|This Land Is Your Land|1944|United States|folk
+The Carter Family|Wildwood Flower|1928|United States|country
+Jimmie Rodgers|Blue Yodel No. 1|1927|United States|country
+Bill Monroe and His Blue Grass Boys|Blue Moon of Kentucky|1946|United States|bluegrass
+Hank Williams|Lovesick Blues|1949|United States|country
+Ernest Tubb|Walking the Floor Over You|1941|United States|country
+Bob Wills and His Texas Playboys|New San Antonio Rose|1940|United States|western swing
+Siti binti Saad|Kijiti|1929|Tanzania|taarab
+Art Leonard (Len Maurice)|Our Don Bradman|1930|Australia|popular song
+Patsy Montana|I Want to Be a Cowboy's Sweetheart|1935|United States|country
+Jack Lumsdaine|Phar Lap: Farewell to You!|1932|Australia|popular song
+Orlando Silva|Carinhoso|1937|Brazil|samba-canção
+Francisco Alves|Aquarela do Brasil|1939|Brazil|samba
+Marian Anderson|Deep River|1924|United States|spiritual
+Carlos Gardel|Volver|1935|Argentina|tango
+Mildred Bailey|Rockin’ Chair|1932|United States|jazz
+Bing Crosby|White Christmas|1942|United States|pop
+Frank Sinatra|I'll Never Smile Again|1940|United States|pop
+Joy King|The Aeroplane Jelly Song|1938|Australia|jingle
+Namiki Michiko|Ringo no Uta|1945|Japan|kayōkyoku
+Carmen Miranda|Ta-hi|1930|Brazil|samba
+Louis Jordan|Caldonia|1945|United States|rhythm and blues
+Wynonie Harris|Good Rockin' Tonight|1948|United States|rhythm and blues
+Tino Rossi|Petit Papa Noël|1946|France|chanson
+Édith Piaf|La Vie en rose|1946|France|chanson
+Charles Trenet|La Mer|1946|France|chanson
+Josephine Baker|J'ai deux amours|1930|France|chanson
+Django Reinhardt|Minor Swing|1937|Belgium|jazz
+Stéphane Grappelli|Djangology|1949|France|jazz
+Mistinguett|Mon homme|1920|France|chanson
+Marlene Dietrich|Ich bin von Kopf bis Fuß auf Liebe eingestellt|1930|Germany|cabaret
+Comedian Harmonists|Veronika, der Lenz ist da|1930|Germany|vocal pop
+Amália Rodrigues|Ai Mouraria|1945|Portugal|fado
+Carlos Gardel|Mi Buenos Aires querido|1934|Argentina|tango
+Astor Piazzolla|El desbande|1946|Argentina|tango
+Francisco Canaro|La cumparsita|1924|Uruguay|tango
+Agustín Lara|Granada|1932|Mexico|bolero
+Lucha Reyes|La Tequilera|1938|Mexico|ranchera
+Trío Matamoros|Son de la loma|1922|Cuba|son cubano
+Arsenio Rodríguez|Bruca maniguá|1937|Cuba|son cubano
+Beny Moré|Mucho corazón|1949|Cuba|bolero
+Xavier Cugat|Perfidia|1940|United States|Latin dance
+Carmen Miranda|O que é que a baiana tem?|1939|Brazil|samba
+Noel Rosa|Com que roupa?|1930|Brazil|samba
+Ary Barroso|Aquarela do Brasil|1939|Brazil|samba
+Orquestra Típica Pixinguinha-Donga|Carinhoso (Instrumental)|1928|Brazil|choro
+Mohamed Abdel Wahab|Ya Msafer Wahdak|1942|Egypt|Arabic pop
+Bai Guang|Waiting for You|1947|China|shidaiqu
+Zhou Xuan|Ye Shanghai|1937|China|shidaiqu
+Li Xianglan|Ye Lai Xiang|1944|China|shidaiqu
+K. L. Saigal|Jab Dil Hi Toot Gaya|1946|India|film song
+Sydney Simpson and His Wentworth Cafe Orchestra|Freshie|1926|Australia|dance band
+Peter Dawson|Along the Road to Gundagai|1931|Australia|popular song
+Solomon Linda and the Evening Birds|Mbube|1939|South Africa|isicathamiya
+HARD|Billie Holiday|Summertime|1936|United States|jazz
+HARD|Sidney Bechet|Summertime|1939|United States|jazz
+HARD|Coleman Hawkins|Body and Soul|1939|United States|jazz
+HARD|Billie Holiday|Body and Soul|1940|United States|jazz
+HARD|Bessie Smith|St. Louis Blues|1925|United States|blues
+HARD|Louis Armstrong|St. Louis Blues|1929|United States|jazz
+HARD|Edgar Hayes|In the Mood|1938|United States|jazz
+HARD|Glenn Miller|In the Mood|1939|United States|jazz
+HARD|Ethel Waters|Stormy Weather|1933|United States|jazz
+HARD|Lena Horne|Stormy Weather|1943|United States|jazz

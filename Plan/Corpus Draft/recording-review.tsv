@@ -1,0 +1,501 @@
+candidate_id	identity_state	credited_performer	recording_title	version_cue	date_value	date_type	release_or_format	catalog_or_duration_clue	independent_evidence_url	evidence_scope	evidence_note	isrc	isrc_evidence_url	spotify_track_id	spotify_track_url	apple_music_song_id	apple_music_song_url	genre_tags	cultural_origin_tags	language_tags	popularity_tier	hard_case_reason	reviewer	review_date	review_note
+MGG-001	verified	Louis Armstrong and His Hot Five	West End Blues	OKeh 8597, matrix 400967-B	1928-06-28	recording_date	OKeh 8597, 78 rpm	matrix 400967-B	https://www.iasa-web.org/sites/default/files/bulletin/iasa-phonographic-bulletin-38.pdf	exact_recording	Institute of Jazz Studies catalog example identifies session, performers, label, catalog and matrix on PDF pp. 18-19.							jazz	United States	unknown	unknown		Codex	2026-10-11	Specific original 1928 take; reissues must not redefine date.
+MGG-002	verified	The Jungle Band (Duke Ellington)	Dreamy Blues (Mood Indigo)	Brunswick 4952, matrix E34928-A	1930-10-17	recording_date	Brunswick 4952, 78 rpm	matrix E34928-A	https://ellingtonia.com/discography/1930-1939/	exact_recording	Ellington discography identifies the 17 Oct 1930 Brunswick session, original Dreamy Blues title and later Mood Indigo title; distinguishes later 1930/1932 takes.							jazz	United States	instrumental	unknown		Codex	2026-10-11	Candidate title is later title of original Brunswick take.
+MGG-003	verified	Bessie Smith	Down Hearted Blues	Columbia A3844, paired with Gulf Coast Blues	1923-02-16	recording_date	Columbia A3844, 78 rpm	Columbia A3844	https://www.nps.gov/locations/lowermsdeltaregion/bessie-smith.htm	exact_recording	US National Park Service identifies 16 Feb 1923 session, song and performer; Smithsonian catalog independently identifies Columbia A3844.							blues	United States	English	unknown		Codex	2026-10-11	Smithsonian catalog: https://americanhistory.si.edu/collections/object/nmah_1059875
+MGG-004	verified	Ma Rainey and Her Georgia Jazz Band	See See Rider Blues	Paramount 12252, original 1924 take	1924-10-16	recording_date	Paramount 12252, 78 rpm	Paramount 12252	https://oldtimeblues.net/2018/04/26/paramount-12252-ma-rainey-acc-by-her-georgia-jazz-band-1924/	exact_recording	Historical discography identifies original Paramount issue and 16 Oct 1924 session; Library of Congress essay independently describes the recording, but LoC is scored and not used as admission evidence.							blues	United States	English	unknown		Codex	2026-10-11	Verify take/matrix if later comparisons distinguish multiple 1924 takes.
+MGG-005	verified	Jelly Roll Morton and His Red Hot Peppers	Black Bottom Stomp	Victor 20221, matrix BVE-36239	1926-09-15	recording_date	Victor 20221, 78 rpm	matrix BVE-36239	https://www.library.ucsb.edu/joe-bussard-collection-dahr	exact_recording	UCSB library Joe Bussard collection lists title, performer, Victor issue, matrix and recording date.							jazz	United States	instrumental	unknown		Codex	2026-10-11	
+MGG-006	verified	King Oliver's Creole Jazz Band	Dipper Mouth Blues	Gennett 5132, matrix 11389-B	1923-04-06	recording_date	Gennett 5132, 78 rpm	matrix 11389-B	https://waifshome.com/item.php?id=69	exact_recording	Waif’s Home Collection documents physical Gennett 5132 disc, matrix, performer and recording date.							jazz	United States	instrumental	unknown		Codex	2026-10-11	Original Gennett take; distinct from later OKeh recording.
+MGG-007	unreviewed	The Kumasi Trio	Amponsah Part 1		1928				https://afrodisc.com/west-africa/west-africa-zonophone/west-africa-zonophone-label-history-gallery/									highlife	Ghana						Prefilled from unverified nomination hints; confirm every value.
+MGG-008	verified	Frankie Trumbauer and His Orchestra with Bix and Lang	Singin' the Blues	OKeh 40772, matrix W 80393-C	1927-02-04	recording_date	OKeh 40772, 78 rpm	matrix W 80393-C	https://bixbeiderbecke.com/wp-content/uploads/2025/02/bixdisco1927.pdf	exact_recording	Specialist Bix discography identifies 4 Feb 1927 session, original label artist credit, issue and take C matrix.							jazz	United States	instrumental	unknown		Codex	2026-10-11	Corrected candidate artist from Bix alone to the original label credit.
+MGG-009	unreviewed	Hibari Misora	Kappa Boogie Woogie		1949				https://columbia.jp/artist-info/hibari/discography/COCP-33949-50.html									kayōkyoku	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-010	verified	Madhumalati and Sneha Dhopeshwarkar	Mangalagaur Arati (Ritual Song to Gauri)	Arnold Bake field recording, track 102 on ARCE00001	1938-10-12	recording_date	1938 Teficord field recording; released 2005 on ARCE00001	track 102, 02:00, ARCE00001	https://folkways.si.edu/madhumalati-and-sneha-dhopeshwarkar/marathi-songs-from-the-arnold-bake-collection/india-world/music/album/smithsonian	exact_recording	Smithsonian Folkways names performers and track 102, states original recording date and 2005 release year separately.							traditional|ritual song	India	Marathi	unknown		Codex	2026-10-11	Historical field recording; do not classify by the 2005 release date.
+MGG-011	ambiguous	Count Basie	One O'Clock Jump	Decca 1363 is one possible target; recording date claims conflict	1937				https://pendergastkc.org/collection/internet-archive/gbia0014924a-0001/one-oclock-jump	exact_recording	Pendergast collection documents Decca 1363, 1937-07-07; other accounts assert a 1937-01-21 Basie Decca recording. Version remains ambiguous; evaluate any returned matches with this uncertainty recorded.							jazz	United States				Codex	2026-10-11	Keep in raw retrieval denominator; exact-match outcome remains unresolved until adjudicated.
+MGG-012	unreviewed	Noriko Awaya	Wakare no Blues		1937				https://soas-repository.worktribe.com/OutputFile/334446									kayōkyoku	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-013	verified	Griffiths Motsieloa and Company	Nkosi Sikelel iAfrika	Gallo GE 13, matrix EG 640	1930-09	approximate_recording_month	Gallo GE 13, 78 rpm, recorded in UK	matrix EG 640	https://www.flatinternational.org/template_volume.php?volume_id=269	exact_recording	Flat International archive identifies performer, side, Gallo issue, matrix and approximate 1930 recording month.							choral|anthem	South Africa	unknown	unknown		Codex	2026-10-11	This version was recorded in the UK; cultural origin and recording location are separate.
+MGG-014	verified	Duke Ellington and His Famous Orchestra	Take the A Train	RCA Victor 27380-A, matrix BS055283-1	1941-02-15	recording_date	RCA Victor 27380-A, 78 rpm	matrix BS055283-1	https://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection-1941-42.html	exact_recording	Dooji collection documents original Victor 78 label, orchestra credit, matrix and recording date; distinct from later versions.							jazz|swing	United States	instrumental	unknown		Codex	2026-10-11	
+MGG-015	verified	Billie Holiday	Strange Fruit	Commodore C-526, matrix WP24403-B	1939-04-20	recording_date	Commodore C-526, 78 rpm	matrix WP24403-B, 3:13	https://billieholiday.be/session/0043_1939-apr-20.html	exact_recording	Specialist Billie Holiday session discography identifies 20 Apr 1939 Commodore session, matrix and issue.							jazz|protest song	United States	English	unknown		Codex	2026-10-11	Source intermittently times out; indexed session detail cross-checks with BillieHolidaySongs discography: https://www.billieholidaysongs.com/discography-2/record-history/78-rpm-discography-by-release-dates/
+MGG-016	verified	Chick Webb and His Orchestra, vocal by Ella Fitzgerald	A-Tisket, A-Tasket	Decca 1840, matrix 63693-A	1938-05-02	recording_date	Decca 1840, 78 rpm	matrix 63693-A	https://jazzdiscography.com/Artists/ella-discography/ella-fitzgerald-releases.php	exact_recording	Ella Fitzgerald discography identifies original Decca issue, 2 May 1938 session and matrix; Smithsonian museum independently documents recording date.							jazz|swing	United States	English	unknown		Codex	2026-10-11	Corrected candidate artist to original orchestra credit with featured vocalist.
+MGG-017	verified	Sarah Vaughan with the Allstars (including Dizzy Gillespie)	Interlude	Continental matrix 3006; later issue Continental C-6031	1944-12-31	recording_date	Continental C-6031, 78 rpm	matrix 3006	https://www.jazzarcheology.com/artists/sarah_vaughan.pdf	exact_recording	Sarah Vaughan solography identifies 31 Dec 1944 Continental session and matrix 3006; 78discography identifies later C-6031 issue.							jazz|bebop	United States	English	unknown		Codex	2026-10-11	Vocal adaptation of Night in Tunisia; recording date differs from later issue date. https://www.78discography.com/Continental40.htm
+MGG-018	verified	Charlie Parker	Ko-Ko	Savoy 597 issued master, matrix S5853-2 (original take 2)	1945-11-26	recording_date	Savoy 597, 78 rpm (issued 1946)	matrix S5853-2	https://www.jazzdisco.org/charlie-parker/discography/	exact_recording	Specialist discography distinguishes issued take 2 from short take 1 and identifies original Savoy 597 issue.							jazz|bebop	United States	instrumental	unknown		Codex	2026-10-11	Keep recording year 1945 separate from 1946 first issue.
+MGG-019	verified	Dizzy Gillespie and His Orchestra	A Night in Tunisia	RCA Victor 40-0132, matrix D6VB1683-1 (take 1)	1946-02-22	recording_date	RCA Victor 40-0132, 78 rpm	matrix D6VB1683-1	https://www.jazzdisco.org/dizzy-gillespie/discography/	exact_recording	Dizzy Gillespie discography identifies RCA Victor issued take 1 and distinguishes incomplete alternate take.							jazz|bebop	United States	instrumental	unknown		Codex	2026-10-11	
+MGG-020	verified	Thelonious Monk Quintet	'Round About Midnight	Blue Note 543, matrix BN321-1	1947-11-21	recording_date	Blue Note 543, 78 rpm	matrix BN321-1	https://www.jazzdisco.org/blue-note-records/catalog-78-rpm-series/	exact_recording	Blue Note 78 discography identifies Nov 21 session, original issue and matrix; title later standardized as Round Midnight.							jazz|bebop	United States	instrumental	unknown		Codex	2026-10-11	Original issue title differs from candidate spelling.
+MGG-021	verified	City Deep Natives	Uyeza	Regal GR 15, matrix WEA 238	1930-06-29	recording_date	Regal GR 15, 78 rpm	matrix WEA 238	https://www.flatinternational.org/template_volume.php?volume_id=289	exact_recording	Flat International identifies Uyeza as WEA 238 on original Regal GR 15 and dates the field session to 29 June 1930; cites contemporary newspaper and record label.							traditional; timbila	South Africa	instrumental	unknown		Codex	2026-10-11	Group credited City Deep Natives; site specifies Chopi timbila performers for GR 15; no ISRC found.
+MGG-022	verified	Caluza's Double Quartet	Ixegwana	Zonophone 4280, matrix Yy20037-3	1930-09-29	recording_date	Zonophone 4280, 78 rpm	matrix Yy20037-3; later HMV GU 05	https://www.flatinternational.org/template_volume.php?volume_id=393	exact_recording	Flat International session discography lists Ixegwana take Yy20037-3 recorded 29 September 1930, issued on Zonophone 4280; same page shows first-issue label and track listing.							choral	South Africa	Zulu	unknown		Codex	2026-10-11	Different matrix number is listed for flip side Vul Indhlela; target is Ixegwana only; no ISRC found.
+MGG-023	verified	Sister Rosetta Tharpe	Rock Me	Decca 2243B, matrix 64727=A	1938-10-31	recording_date	Decca 2243, 78 rpm	matrix 64727=A	https://www.honkingduck.com/discography/artist/sister_rosetta_tharpe	exact_recording	Independent 78-rpm discography lists Rock Me as Decca 2243B, matrix 64727=A, 31 October 1938; Smithsonian preserves a Decca 2243 disc with Rock Me on side 2.							gospel; blues	United States	English	unknown		Codex	2026-10-11	Original Decca side selected; later recordings and reissues are not substitutes. Smithsonian: https://americanhistory.si.edu/collections/object/nmah_1404713
+MGG-024	ambiguous	Mahalia Jackson	Move On Up a Little Higher		1947				https://mahalia-jackson.com/recordings/diskographie/		Discography dates the 1947 Apollo session but also lists a new 1953 recording/arrangement; original release appears in two parts on Apollo 164.							gospel	United States				Codex	2026-10-11	Specify Apollo 164 Part 1, Part 2, or both before verified; original date/release references differ.
+MGG-025	verified	Golden Gate Jubilee Quartet	Golden Gate Gospel Train	Bluebird B-7126, matrix 011931-1	1937-08-04	recording_date	Bluebird B-7126, 78 rpm	matrix 011931-1	https://78discography.com/BB7000.htm	exact_recording	Independent Bluebird 78 discography gives the original side, credited performer, matrix and 4 August 1937 date; HistorySouth places the title in the same Charlotte Bluebird session.							gospel; jubilee quartet	United States	English	unknown		Codex	2026-10-11	Candidate artist was later group name Golden Gate Quartet; original issue credits Golden Gate Jubilee Quartet. Session corroboration: https://www.historysouth.org/wp-content/uploads/2015/06/CharlotteDiscogCD.pdf
+MGG-026	verified	Blind Willie Johnson	Dark Was the Night, Cold Was the Ground	Columbia 14303, matrix W145320	1927-12-03	recording_date	Columbia 14303, 78 rpm	matrix W145320	https://folkways-media.si.edu/docs/folkways/artwork/FW03585.pdf	exact_recording	Smithsonian Folkways liner notes identify the original Columbia issue, master W145320, Dallas session and 3 December 1927 recording date.							gospel blues	United States	wordless vocal	unknown		Codex	2026-10-11	Distinct from covers and later reissues; original master specified.
+MGG-027	ambiguous	Robert Johnson	Cross Road Blues		1936				https://sonicdictionary.duke.edu/items/delta-blues.html		Duke cites 27 November 1936 recording and Vocalion 03519 issue, but two original takes exist.							blues	United States				Codex	2026-10-11	Specify which take/matrix is target before verified; title and artist alone insufficient.
+MGG-028	ambiguous	Son House	My Black Mama		1930				https://www.wirz.de/music/house.htm		Illustrated Son House discography identifies Paramount 13042 as My Black Mama Part 1 matrix L-408-2 and Part 2 matrix L-409-2, recorded August 1930.							blues	United States				Codex	2026-10-11	Original nomination omits Part 1 vs Part 2; select a side before recording can be verified.
+MGG-029	verified	Charley Patton	Pony Blues	Paramount 12792, matrix 15216	1929-06-14	recording_date	Paramount 12792, 78 rpm	matrix 15216; A side	https://www.wirz.de/music/patton.htm	exact_recording	Illustrated independent discography identifies Pony Blues matrix 15216, recorded 14 June 1929 in Richmond and issued on Paramount 12792 in July 1929; cites contemporary advertisement.							Delta blues	United States	English	unknown		Codex	2026-10-11	Original 1929 recording distinguished from Pattons 1934 Stone Pony Blues.
+MGG-030	verified	Skip James	Devil Got My Woman	Paramount 13088, matrix L-746-1	1931-02	approx_recording_month	Paramount 13088, 78 rpm	matrix L-746-1	https://www.wirz.de/music/jameskip.htm	exact_recording	Independent illustrated discography identifies original Devil Got My Woman side, matrix L-746-1, c. February 1931 Grafton session, Paramount 13088.							Delta blues	United States	English	unknown		Codex	2026-10-11	Original 1931 recording distinct from 1960s rerecordings.
+MGG-031	verified	Mississippi John Hurt	Avalon Blues	OKeh 8759, matrix 401473-B	1928-12-21	recording_date	OKeh 8759, 78 rpm	matrix 401473-B	https://www.wirz.de/music/hurt.htm	exact_recording	Independent illustrated discography gives Avalon Blues matrix 401473-B, OKeh 8759 and 21 December 1928 New York session.							country blues	United States	English	unknown		Codex	2026-10-11	Distinguishes original 1928 side from Hurts 1963 recordings of the same song.
+MGG-032	verified	Lead Belly	Midnight Special	1934 John and Alan Lomax archival performance, disc 124-A-1	1934	recording_year	1934 archival disc (later Library of Congress issue)	archival disc 124-A-1	https://www.countrymusichalloffame.org/from-where-i-stand/disc-1-the-stringband-era	exact_recording	Country Music Hall of Fame identifies Lead Bellys first Midnight Special recording for John and Alan Lomax in summer 1934; independent discography labels the performance Library of Congress 124-A-1.							folk; blues	United States	English	unknown		Codex	2026-10-11	Source for disc clue: https://www.toppermost.co.uk/leadbelly/ . This targets the 1934 archival performance, not later 1940 or 1946 versions.
+MGG-033	verified	Big Bill Broonzy	Key to the Highway	OKeh 06242, original 1941 Broonzy side	1941-05-02	recording_date	OKeh 06242, 78 rpm	flip side Green Grass Blues	https://theblueshistory.com/index.php/songs/key-to-the-highway-by-big-bill-broonzy.html	exact_recording	Independent song history identifies Big Bills 2 May 1941 Chicago session and OKeh 06242 with Green Grass Blues on flip; Smithsonian holds that issue.							blues	United States	English	unknown		Codex	2026-10-11	Broonzy played guitar on Jazz Gillums 1940 version; target is Broonzys own 1941 record. Smithsonian: https://americanhistory.si.edu/collections/object/nmah_1282675
+MGG-034	verified	Muddy Waters	I Can't Be Satisfied	Aristocrat 1305A, matrix U7112	1947-12	recording_month	Aristocrat 1305, 78 rpm, issued June 1948	matrix U7112; B side I Feel Like Going Home	https://campber.people.clemson.edu/aristocrat.html	exact_recording	Clemson Aristocrat discography documents the December 1947 session, U7112 matrix, 1305A issue and June 1948 release, distinguishing the 1941 I Bes Troubled precursor.							Chicago blues	United States	English	unknown		Codex	2026-10-11	Nomination year 1948 is first-release year; recording is December 1947.
+MGG-035	verified	T-Bone Walker	Call It Stormy Monday (But Tuesday Is Just as Bad)	Black & White 122, matrix BW 637-3	1947-09-13	recording_date	Black & White 122, 78 rpm	matrix BW 637-3	https://www.toppermost.co.uk/walker-t-bone/	exact_recording	Independent T-Bone Walker history gives 13 September 1947 session and Black & White BW 122 issue; New World Records liner notes give original matrix BW 637-3 and personnel.							blues; rhythm and blues	United States	English	unknown		Codex	2026-10-11	Liner notes: https://nwr-site-liner-notes.s3.amazonaws.com/80261.pdf . Matrix isolates the take from later covers/recordings.
+MGG-036	verified	Lightnin' Hopkins	Katie Mae	Aladdin 167, matrix IM3612	1946-11-09	recording_date	Aladdin 167, 78 rpm	matrix IM3612	https://78discography.com/Aladdin100.htm	exact_recording	Independent Aladdin numerical discography lists Katie Mae, matrix IM3612, 9 November 1946, catalog 167; illustrated Hopkins discography calls it Katie Mae Blues.							Texas blues	United States	English	unknown		Codex	2026-10-11	Original issue title Katie Mae; Blues appears in other discographies. Wilson Thunder Smith participates; see https://www.wirz.de/music/hopkins.htm .
+MGG-037	unreviewed	Woody Guthrie	This Land Is Your Land		1944													folk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-038	verified	The Carter Family	Wildwood Flower	Victor V-40000 A side, matrix BVE-45029-1	1928-05-10	recording_date	Victor V-40000, 78 rpm	matrix BVE-45029-1	https://www.78discography.com/vic40000.html	exact_recording	Independent Victor V-40000 numerical discography identifies Wildwood Flower matrix 45029 take 1, Carter Family, 10 May 1928.							country; old-time	United States	English	unknown		Codex	2026-10-11	A later Sunrise issue may use take 2; original Victor issue here is take 1. Original label details: https://www.45cat.com/78rpm/record/v40000 .
+MGG-039	verified	Jimmie Rodgers	Blue Yodel (later No. 1 / T for Texas)	Victor 21142, matrix BVE-40753	1927-11-30	recording_date	Victor 21142, 78 rpm, issued 1928	matrix BVE-40753	https://jimmierodgers.wiki/index.php?title=Jimmie_Rodgers_Discography	exact_recording	Independent Rodgers discography gives original Victor 21142, 30 November 1927 Camden session and original title Blue Yodel.							country; blues	United States	English	unknown		Codex	2026-10-11	Nomination year is recording year, while original Victor issue was 1928; exact issue date differs among references.
+MGG-040	verified	Bill Monroe and His Blue Grass Boys	Blue Moon of Kentucky	Columbia 20370, issued take CCO 4607-1	1946-09-16	recording_date	Columbia 20370, 78 rpm	matrix CCO 4607-1	https://www.ibiblio.org/hillwilliam/BGdiscography/sessions/BillMonroeSessions.php	exact_recording	Independent bluegrass session discography lists Columbia 20370 as issued take CCO 4607-1 and distinguishes CCO 4607-BD alternate at 16 September 1946 session.							bluegrass	United States	English	unknown		Codex	2026-10-11	Targets the original Columbia waltz, not the 1954 Decca rerecording after Elvis.
+MGG-041	verified	Hank Williams	Lovesick Blues	MGM 10352 original master 49-S-6060	1948-12-22	recording_date	MGM 10352, 78/45 rpm, issued 1949	master 49-S-6060	https://jazzdiscography.com/Artists/hank-williams/hank-williams-recording-sessions.php	exact_recording	Independent Williams session discography gives 22 December 1948 Herzog session, original master 49-S-6060 and MGM 10352 issue.							country	United States	English	unknown		Codex	2026-10-11	Nomination year 1949 is first-release year; recording is 1948. Original master distinct from later radio/live performances and overdubs.
+MGG-042	verified	Ernest Tubb	Walking the Floor Over You	Decca 5958, matrix C93673	1941-04-26	recording_date	Decca 5958, 78 rpm	matrix C93673	https://www.78discography.com/Dec5500.htm	exact_recording	Independent Decca numerical discography lists Walking the Floor matrix C93673 and 26 April 1941 date on Decca 5958; Old Time Blues describes original session.							country; honky-tonk	United States	English	unknown		Codex	2026-10-11	Original record, not later remake.
+MGG-043	verified	Bob Wills and His Texas Playboys	New San Antonio Rose	OKeh 05694, original 1940 vocal recording	1940-04-16	recording_date	OKeh 05694, 78 rpm, issued August 1940	flip side Bob Wills Special	https://oldtimeblues.net/2016/03/06/okeh-05694-bob-wills-and-his-texas-playboys-1940/	exact_recording	Independent original-78 article identifies OKeh 05694 and 16 April 1940 Burrus Mill session; 45cat identifies August 1940 issue.							western swing	United States	English	unknown		Codex	2026-10-11	Targets 1940 New San Antonio Rose vocal remake, not 1938 instrumental San Antonio Rose. Release: https://www.45cat.com/78rpm/record/05694 .
+MGG-044	unreviewed	Siti binti Saad	Kijiti		1929				https://verbafricana.org/swahili/b-kijiti-author-and-context.htm									taarab	Tanzania						Prefilled from unverified nomination hints; confirm every value.
+MGG-045	verified	Art Leonard (Len Maurice)	Our Don Bradman	Regal G.20744 original 1930 recording	1930-07	recording_month	Regal G.20744, 78 rpm	NFSA ID HVVQSK4J; flip side Our Eleven	https://www.nfsa.gov.au/collection/item/our-don-bradman-len-maurice	exact_recording	Australian National Film and Sound Archive holds and identifies the 1930 Len Maurice/Art Leonard recording (item HVVQSK4J); period Regal issue and pairing are corroborated by original-copy listing.							popular song	Australia	English	unknown		Codex	2026-10-11	Recording month July 1930 supported by Australian Culture and record collector listing, exact day 11 July less secure. Original record evidence: https://www.popsike.com/Our-Don-Bradman-78-Record-1930/190377188872.html .
+MGG-046	unreviewed	Patsy Montana	I Want to Be a Cowboy's Sweetheart		1935													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-047	unreviewed	Jack Lumsdaine	Phar Lap: Farewell to You!		1932				https://www.nfsa.gov.au/sites/default/files/08-2017/sounds_of_australia_2017_short_list_-_briefing_notes.pdf									popular song	Australia						Prefilled from unverified nomination hints; confirm every value.
+MGG-048	unreviewed	Orlando Silva	Carinhoso		1937				https://pixinguinha.com.br/discografia/carinhoso-2/									samba-canção	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-049	unreviewed	Francisco Alves	Aquarela do Brasil		1939													samba	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-050	unreviewed	Marian Anderson	Deep River		1924													spiritual	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-051	unreviewed	Carlos Gardel	Volver		1935													tango	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-052	unreviewed	Mildred Bailey	Rockin’ Chair		1932													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-053	unreviewed	Bing Crosby	White Christmas		1942													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-054	unreviewed	Frank Sinatra	I'll Never Smile Again		1940													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-055	unreviewed	Joy King	The Aeroplane Jelly Song		1938				https://www.nfsa.gov.au/collection/item/aeroplane-jelly-song-joy-king									jingle	Australia						Prefilled from unverified nomination hints; confirm every value.
+MGG-056	unreviewed	Namiki Michiko	Ringo no Uta		1945				https://panasonic.net/history/timecapsule/3/art/A_4.html									kayōkyoku	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-057	unreviewed	Carmen Miranda	Ta-hi		1930				https://artsandculture.google.com/asset/ta-h%C3%AD-pra-voc%C3%AA-gostar-de-mim-carmenmiranda-fc/zgF-gFn8O2PFow?hl=pt-BR									samba	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-058	unreviewed	Louis Jordan	Caldonia		1945													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-059	unreviewed	Wynonie Harris	Good Rockin' Tonight		1948													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-060	unreviewed	Tino Rossi	Petit Papa Noël		1946													chanson	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-061	unreviewed	Édith Piaf	La Vie en rose		1946													chanson	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-062	unreviewed	Charles Trenet	La Mer		1946													chanson	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-063	unreviewed	Josephine Baker	J'ai deux amours		1930													chanson	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-064	unreviewed	Django Reinhardt	Minor Swing		1937													jazz	Belgium						Prefilled from unverified nomination hints; confirm every value.
+MGG-065	unreviewed	Stéphane Grappelli	Djangology		1949													jazz	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-066	unreviewed	Mistinguett	Mon homme		1920													chanson	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-067	unreviewed	Marlene Dietrich	Ich bin von Kopf bis Fuß auf Liebe eingestellt		1930													cabaret	Germany						Prefilled from unverified nomination hints; confirm every value.
+MGG-068	unreviewed	Comedian Harmonists	Veronika, der Lenz ist da		1930													vocal pop	Germany						Prefilled from unverified nomination hints; confirm every value.
+MGG-069	unreviewed	Amália Rodrigues	Ai Mouraria		1945													fado	Portugal						Prefilled from unverified nomination hints; confirm every value.
+MGG-070	unreviewed	Carlos Gardel	Mi Buenos Aires querido		1934													tango	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-071	unreviewed	Astor Piazzolla	El desbande		1946				https://inamu.musica.ar/primeravida-piazzolla									tango	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-072	unreviewed	Francisco Canaro	La cumparsita		1924													tango	Uruguay						Prefilled from unverified nomination hints; confirm every value.
+MGG-073	unreviewed	Agustín Lara	Granada		1932													bolero	Mexico						Prefilled from unverified nomination hints; confirm every value.
+MGG-074	unreviewed	Lucha Reyes	La Tequilera		1938													ranchera	Mexico						Prefilled from unverified nomination hints; confirm every value.
+MGG-075	unreviewed	Trío Matamoros	Son de la loma		1922													son cubano	Cuba						Prefilled from unverified nomination hints; confirm every value.
+MGG-076	unreviewed	Arsenio Rodríguez	Bruca maniguá		1937													son cubano	Cuba						Prefilled from unverified nomination hints; confirm every value.
+MGG-077	unreviewed	Beny Moré	Mucho corazón		1949													bolero	Cuba						Prefilled from unverified nomination hints; confirm every value.
+MGG-078	unreviewed	Xavier Cugat	Perfidia		1940													Latin dance	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-079	unreviewed	Carmen Miranda	O que é que a baiana tem?		1939													samba	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-080	unreviewed	Noel Rosa	Com que roupa?		1930													samba	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-081	unreviewed	Ary Barroso	Aquarela do Brasil		1939													samba	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-082	unreviewed	Orquestra Típica Pixinguinha-Donga	Carinhoso (Instrumental)		1928				https://radiobatuta.ims.com.br/programas/ouve-essa/carinhoso									choro	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-083	unreviewed	Mohamed Abdel Wahab	Ya Msafer Wahdak		1942													Arabic pop	Egypt						Prefilled from unverified nomination hints; confirm every value.
+MGG-084	unreviewed	Bai Guang	Waiting for You		1947													shidaiqu	China						Prefilled from unverified nomination hints; confirm every value.
+MGG-085	unreviewed	Zhou Xuan	Ye Shanghai		1937													shidaiqu	China						Prefilled from unverified nomination hints; confirm every value.
+MGG-086	unreviewed	Li Xianglan	Ye Lai Xiang		1944													shidaiqu	China						Prefilled from unverified nomination hints; confirm every value.
+MGG-087	unreviewed	K. L. Saigal	Jab Dil Hi Toot Gaya		1946													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-088	unreviewed	Sydney Simpson and His Wentworth Cafe Orchestra	Freshie		1926				https://www.nfsa.gov.au/sites/default/files/08-2017/sounds_of_australia_2017_short_list_-_briefing_notes.pdf									dance band	Australia						Prefilled from unverified nomination hints; confirm every value.
+MGG-089	unreviewed	Peter Dawson	Along the Road to Gundagai		1931				https://www.nfsa.gov.au/collection/item/along-road-gundagai-0									popular song	Australia						Prefilled from unverified nomination hints; confirm every value.
+MGG-090	unreviewed	Solomon Linda and the Evening Birds	Mbube		1939													isicathamiya	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-091	unreviewed	Billie Holiday	Summertime		1936													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-092	unreviewed	Sidney Bechet	Summertime		1939													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-093	unreviewed	Coleman Hawkins	Body and Soul		1939													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-094	unreviewed	Billie Holiday	Body and Soul		1940													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-095	unreviewed	Bessie Smith	St. Louis Blues		1925													blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-096	unreviewed	Louis Armstrong	St. Louis Blues		1929													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-097	unreviewed	Edgar Hayes	In the Mood		1938													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-098	unreviewed	Glenn Miller	In the Mood		1939													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-099	unreviewed	Ethel Waters	Stormy Weather		1933													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-100	unreviewed	Lena Horne	Stormy Weather		1943													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-101	verified	Chuck Berry and His Combo	Maybellene	Chess 1604, master 7844	1955-05-21	recording_date	Chess 1604, 45/78 rpm, July 1955	master 7844; flip side Wee Wee Hours	https://campber.people.clemson.edu/chess2.html	exact_recording	Clemson Chess label discography lists original master 7844, 21 May 1955 session and July 1955 Chess 1604 issue.							rock and roll; rhythm and blues	United States	English	unknown		Codex	2026-10-11	Issued original master, not later dubbed releases. Chess discography identifies credited combo.
+MGG-102	verified	Little Richard and His Band	Tutti Frutti	Specialty 561 original issued master	1955-09	recording_month	Specialty 561, 45/78 rpm	A side Tutti Frutti; flip side Im Just a Lonely Guy	https://www.friktech.com/richard/LittleRichardDiscography.pdf	exact_recording	Independent trade-magazine discography reproduces original Specialty 561 issue and shows it by 13 October 1955; separate session sources place original recording in September.							rock and roll; rhythm and blues	United States	English	unknown		Codex	2026-10-11	Exact session day disputed between sources (13 vs 14 September); month retained. Target is issued Specialty 561 master, not demo or later rerecording. Session chronology: https://countrydiscoghraphy2.blogspot.com/2016/08/little-richard.html .
+MGG-103	verified	Elvis Presley	Heartbreak Hotel	RCA Victor 20/47-6420 original single	1956-01-10	recording_date	RCA Victor 20/47-6420, 78/45 rpm, issued 27 Jan 1956	matrix G2WW 0209	https://www.elvispresleyusavinyl.com/rca_47_-_6420_-_45	exact_recording	Original RCA 47-6420 collector record details Heartbreak Hotel side, matrix and Nashville 10 January 1956 session; Elvis official catalog corroborates issue.							rock and roll; pop	United States	English	unknown		Codex	2026-10-11	Official catalog: https://www.elvisthemusic.com/track/heartbreak-hotel-35/ . Matrix suffix varies in collector listings; prefix retained.
+MGG-104	verified	Bo Diddley	Bo Diddley	Checker 814 issued master, matrix 7788	1955-03-02	recording_date	Checker 814, 78 rpm, issued late March 1955	master 7788; flip side Im a Man	https://campber.people.clemson.edu/chess2.html	exact_recording	Clemson Chess/Checker discography distinguishes issued matrix 7788 from two alternate takes and dates the March 2, 1955 session and Checker 814 issue.							rhythm and blues; rock and roll	United States	English	unknown		Codex	2026-10-11	Distinct from two alternate takes later issued on compilation.
+MGG-105	unreviewed	Fats Domino	Blueberry Hill		1956													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-106	unreviewed	Domenico Modugno	Nel blu dipinto di blu		1958													pop	Italy						Prefilled from unverified nomination hints; confirm every value.
+MGG-107	unreviewed	Buddy Holly and the Crickets	That'll Be the Day		1957													rock and roll	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-108	unreviewed	Kyu Sakamoto	Ue o Muite Arukō		1961													kayōkyoku	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-109	unreviewed	Ray Charles	What'd I Say		1959													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-110	unreviewed	Sam Cooke	A Change Is Gonna Come		1964													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-111	unreviewed	Aretha Franklin	Respect		1967													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-112	unreviewed	Otis Redding	Try a Little Tenderness		1966													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-113	unreviewed	Wilson Pickett	In the Midnight Hour		1965													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-114	unreviewed	James Brown	Papa's Got a Brand New Bag		1965													funk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-115	unreviewed	Jacques Brel	Ne me quitte pas		1959													chanson	Belgium						Prefilled from unverified nomination hints; confirm every value.
+MGG-116	unreviewed	Marvin Gaye	I Heard It Through the Grapevine		1968													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-117	unreviewed	The Supremes	Where Did Our Love Go		1964													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-118	unreviewed	The Temptations	My Girl		1964													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-119	unreviewed	Françoise Hardy	Tous les garçons et les filles		1962													yé-yé	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-120	unreviewed	Smokey Robinson and the Miracles	The Tracks of My Tears		1965													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-121	unreviewed	Martha and the Vandellas	Dancing in the Street		1964													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-122	unreviewed	Etta James	At Last		1960													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-123	unreviewed	Nina Simone	Mississippi Goddam		1964													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-124	unreviewed	John Coltrane	My Favorite Things		1961													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-125	unreviewed	Miles Davis	So What		1959													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-126	unreviewed	Dave Brubeck Quartet	Take Five		1959													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-127	unreviewed	Charles Mingus	Goodbye Pork Pie Hat		1959													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-128	unreviewed	Ornette Coleman	Lonely Woman		1959													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-129	unreviewed	France Gall	Poupée de cire, poupée de son		1965													yé-yé	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-130	unreviewed	Thelonious Monk	Blue Monk		1954													jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-131	unreviewed	Mina	Se telefonando		1966													pop	Italy						Prefilled from unverified nomination hints; confirm every value.
+MGG-132	unreviewed	Stan Getz and João Gilberto	The Girl from Ipanema		1964													bossa nova	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-133	unreviewed	João Gilberto	Chega de Saudade		1958													bossa nova	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-134	unreviewed	Antônio Carlos Jobim	Desafinado		1959													bossa nova	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-135	unreviewed	Elis Regina	Arrastão		1965													MPB	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-136	unreviewed	Jorge Ben	Mas Que Nada		1963													samba	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-137	unreviewed	Caetano Veloso	Alegria, Alegria		1967													tropicalia	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-138	unreviewed	Gilberto Gil	Domingo no Parque		1967													tropicalia	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-139	unreviewed	Os Mutantes	A Minha Menina		1968													psychedelic rock	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-140	unreviewed	Gal Costa	Baby		1969													MPB	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-141	unreviewed	Chico Buarque	A Banda		1966													MPB	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-142	unreviewed	The Beatles	A Hard Day's Night		1964													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-143	unreviewed	The Rolling Stones	Satisfaction		1965													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-144	unreviewed	The Kinks	You Really Got Me		1964													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-145	unreviewed	The Who	My Generation		1965													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-146	unreviewed	Serge Gainsbourg and Jane Birkin	Je t'aime... moi non plus		1969													chanson	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-147	unreviewed	Cream	Sunshine of Your Love		1967													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-148	unreviewed	Jimi Hendrix Experience	Purple Haze		1967													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-149	unreviewed	Pink Floyd	Astronomy Domine		1967													psychedelic rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-150	unreviewed	Led Zeppelin	Whole Lotta Love		1969													hard rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-151	unreviewed	David Bowie	Space Oddity		1969													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-152	unreviewed	Dusty Springfield	Son of a Preacher Man		1968													soul	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-153	unreviewed	The Animals	The House of the Rising Sun		1964													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-154	unreviewed	Hibari Misora	Ringo Oiwake		1952													enka	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-155	unreviewed	The Beach Boys	Good Vibrations		1966													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-156	unreviewed	The Byrds	Eight Miles High		1966													folk rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-157	unreviewed	Bob Dylan	Like a Rolling Stone		1965													folk rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-158	unreviewed	Simon and Garfunkel	The Sound of Silence		1965													folk rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-159	unreviewed	Le Grand Kallé and African Jazz	Indépendance Cha Cha		1960													rumba congolaise	DR Congo						Prefilled from unverified nomination hints; confirm every value.
+MGG-160	unreviewed	Jefferson Airplane	White Rabbit		1967													psychedelic rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-161	unreviewed	The Doors	Light My Fire		1967													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-162	unreviewed	Creedence Clearwater Revival	Proud Mary		1969													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-163	unreviewed	The Velvet Underground	Heroin		1967													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-164	unreviewed	Sly and the Family Stone	Everyday People		1968													funk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-165	unreviewed	MC5	Kick Out the Jams		1969													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-166	unreviewed	The Stooges	I Wanna Be Your Dog		1969													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-167	unreviewed	Johnny Cash	I Walk the Line		1956													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-168	unreviewed	Patsy Cline	Crazy		1961													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-169	unreviewed	Loretta Lynn	You Ain't Woman Enough		1966													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-170	unreviewed	Merle Haggard	Mama Tried		1968													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-171	unreviewed	Astor Piazzolla	Adiós Nonino		1959													tango nuevo	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-172	unreviewed	Dolly Parton	Dumb Blonde		1967													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-173	unreviewed	The Skatalites	Guns of Navarone		1965													ska	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-174	unreviewed	Desmond Dekker	Israelites		1968													reggae	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-175	unreviewed	Toots and the Maytals	54-46 That's My Number		1968													reggae	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-176	unreviewed	The Wailers	Simmer Down		1964													ska	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-177	unreviewed	Prince Buster	Al Capone		1965													ska	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-178	unreviewed	The Ethiopians	Train to Skaville		1967													ska	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-179	unreviewed	Celia Cruz	Burundanga		1953													salsa	Cuba						Prefilled from unverified nomination hints; confirm every value.
+MGG-180	unreviewed	Mongo Santamaría	Watermelon Man		1963													Latin jazz	Cuba						Prefilled from unverified nomination hints; confirm every value.
+MGG-181	unreviewed	Tito Puente	Oye Como Va		1963													Latin jazz	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-182	unreviewed	Pérez Prado	Mambo No. 5		1950													mambo	Cuba						Prefilled from unverified nomination hints; confirm every value.
+MGG-183	unreviewed	Lata Mangeshkar	Ajeeb Dastan Hai Yeh		1960													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-184	unreviewed	Mohammed Rafi	Chaudhvin Ka Chand Ho		1960													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-185	unreviewed	Kishore Kumar	Roop Tera Mastana		1969													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-186	unreviewed	Fairuz	Nassam Alayna el-Hawa		1967													Arabic pop	Lebanon						Prefilled from unverified nomination hints; confirm every value.
+MGG-187	unreviewed	Oum Kalthoum	Enta Omri		1964													Arabic classical	Egypt						Prefilled from unverified nomination hints; confirm every value.
+MGG-188	unreviewed	Abdel Halim Hafez	Ahwak		1953													Arabic pop	Egypt						Prefilled from unverified nomination hints; confirm every value.
+MGG-189	unreviewed	Miriam Makeba	Pata Pata		1967													Afropop	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-190	unreviewed	Hugh Masekela	Grazing in the Grass		1968													jazz	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-191	unreviewed	Little Richard	Good Golly Miss Molly		1958													rock and roll	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-192	unreviewed	The Swinging Blue Jeans	Good Golly Miss Molly		1964													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-193	unreviewed	The Beatles	Twist and Shout		1963													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-194	unreviewed	The Isley Brothers	Twist and Shout		1962													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-195	unreviewed	The Rolling Stones	The Last Time		1965													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-196	unreviewed	Andrew Oldham Orchestra	The Last Time		1965													orchestral pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-197	unreviewed	The Byrds	Mr. Tambourine Man		1965													folk rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-198	unreviewed	Bob Dylan	Mr. Tambourine Man		1965													folk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-199	unreviewed	Frank Sinatra	My Way		1969													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-200	unreviewed	Claude François	Comme d'habitude		1967													chanson	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-201	verified	Stevie Wonder	Superstition	Tamla T 54226F original single	1972-10	first_release_month	Tamla T 54226F, 7-inch single	flip side Youve Got It Bad Girl	https://www.45cat.com/record/t54226f	exact_recording	Original US Tamla 54226F issue identifies Stevie Wonders Superstition and its B side; Talking Book is the contemporary parent album.							funk; soul	United States	English	unknown		Codex	2026-10-11	Targets original Stevie Wonder single, not Jeff Beck cover or later live version. No ISRC documented in current access.
+MGG-202	verified	Marvin Gaye	What's Going On	Tamla T 54201 original mono single version	1971-01	first_release_month	Tamla T 54201, 7-inch single	flip side God Is Love	https://www.45cat.com/record/t54201	exact_recording	Original Tamla 54201 single and paired God Is Love identify the early mono single version; album liner notes place it in January 1971, before the May LP.							soul	United States	English	unknown		Codex	2026-10-11	Single version selected explicitly because album version/mix differs. Liner: https://albumlinernotes.com/What_s_Going_On.html .
+MGG-203	verified	Curtis Mayfield	Move On Up	Original full-length 1970 Curtis LP version	1970	first_release_year	Curtom CRS 8005 Curtis LP	Move On Up LP track, approximately 8:55	https://www.bsnpubs.com/buddah/curtom.html	exact_recording	Independent Curtom LP discography identifies 1970 Curtis LP CRS 8005 with Move On Up; separate duration listing distinguishes full-length LP track from shorter single edits.							soul; funk	United States	English	unknown		Codex	2026-10-11	Targets original full-length LP version. Duration listing: https://hitparade.ch/song/Curtis-Mayfield/Move-On-Up-28381 .
+MGG-204	verified	Al Green	Let's Stay Together	Hi 45-2202 original 1971 single	1971-11	first_release_month	Hi 45-2202, 7-inch single	flip side Tomorrows Dream	https://www.45cat.com/record/recordus103	exact_recording	Original US Hi 45-2202 lists Lets Stay Together by Al Green with Tomorrows Dream on the reverse and November 1971 issue.							soul	United States	English	unknown		Codex	2026-10-11	Original single precedes 1972 album of same name; no ISRC documented in current access.
+MGG-205	verified	Bill Withers	Ain't No Sunshine	Sussex SUX 219 original single B side	1971-06	first_release_month	Sussex SUX 219, 7-inch single	B side to Harlem; about 2:04	https://www.45cat.com/record/sux219	exact_recording	Original Sussex SUX 219 labels Bill Withers Ain’t No Sunshine as B side of Harlem; song also appears on contemporary Just As I Am LP.							soul	United States	English	unknown		Codex	2026-10-11	Original studio recording, not later live version. 45cat dates commercial issue June 1971; promo earlier.
+MGG-206	unreviewed	Donny Hathaway	The Ghetto		1970													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-207	unreviewed	The Isley Brothers	That Lady		1973													funk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-208	unreviewed	Parliament	Give Up the Funk		1975													funk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-209	unreviewed	Funkadelic	Maggot Brain		1971													funk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-210	unreviewed	Earth, Wind & Fire	September		1978													funk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-211	unreviewed	Chic	Good Times		1979													disco	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-212	unreviewed	Donna Summer	I Feel Love		1977													disco	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-213	unreviewed	Gloria Gaynor	I Will Survive		1978													disco	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-214	unreviewed	The Bee Gees	Stayin' Alive		1977													disco	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-215	unreviewed	Michael Jackson	Billie Jean		1982													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-216	unreviewed	Prince	When Doves Cry		1984													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-217	unreviewed	Whitney Houston	I Wanna Dance with Somebody		1987													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-218	unreviewed	Madonna	Like a Prayer		1989													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-219	unreviewed	Janet Jackson	Rhythm Nation		1989													new jack swing	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-220	unreviewed	Cyndi Lauper	Girls Just Want to Have Fun		1983													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-221	unreviewed	Tina Turner	What's Love Got to Do with It		1984													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-222	unreviewed	Jean-Michel Jarre	Oxygène, Part IV		1976													electronic	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-223	unreviewed	ABBA	Dancing Queen		1976													pop	Sweden						Prefilled from unverified nomination hints; confirm every value.
+MGG-224	unreviewed	Run-D.M.C.	It's Like That		1983													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-225	unreviewed	Grandmaster Flash and the Furious Five	The Message		1982													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-226	unreviewed	Sugarhill Gang	Rapper's Delight		1979													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-227	unreviewed	Public Enemy	Fight the Power		1989													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-228	unreviewed	N.W.A	Straight Outta Compton		1988													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-229	unreviewed	Eric B. and Rakim	Paid in Full		1987													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-230	unreviewed	INXS	Need You Tonight		1987													rock	Australia						Prefilled from unverified nomination hints; confirm every value.
+MGG-231	unreviewed	Men at Work	Down Under		1981													rock	Australia						Prefilled from unverified nomination hints; confirm every value.
+MGG-232	unreviewed	De La Soul	Me Myself and I		1989													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-233	unreviewed	Afrika Bambaataa	Planet Rock		1982													electro	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-234	unreviewed	Kraftwerk	The Model		1978													electronic	Germany						Prefilled from unverified nomination hints; confirm every value.
+MGG-235	unreviewed	Neu!	Hallogallo		1972													krautrock	Germany						Prefilled from unverified nomination hints; confirm every value.
+MGG-236	unreviewed	Can	Vitamin C		1972													krautrock	Germany						Prefilled from unverified nomination hints; confirm every value.
+MGG-237	unreviewed	Tangerine Dream	Phaedra		1974													electronic	Germany						Prefilled from unverified nomination hints; confirm every value.
+MGG-238	unreviewed	Depeche Mode	Just Can't Get Enough		1981													synth pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-239	unreviewed	New Order	Blue Monday		1983													electronic	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-240	unreviewed	The Human League	Don't You Want Me		1981													synth pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-241	unreviewed	Pet Shop Boys	West End Girls		1984													synth pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-242	unreviewed	Eurythmics	Sweet Dreams		1983													synth pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-243	unreviewed	Talking Heads	Once in a Lifetime		1980													new wave	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-244	unreviewed	Tim Maia	Não Quero Dinheiro		1971													soul	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-245	unreviewed	Jorge Ben	Taj Mahal		1972													samba rock	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-246	unreviewed	The Clash	London Calling		1979													punk	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-247	unreviewed	Sex Pistols	Anarchy in the U.K.		1976													punk	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-248	unreviewed	The Damned	New Rose		1976													punk	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-249	unreviewed	Ramones	Blitzkrieg Bop		1976													punk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-250	unreviewed	Patti Smith	Gloria		1975													punk	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-251	unreviewed	The Cure	Boys Don't Cry		1979													post-punk	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-252	unreviewed	Joy Division	Love Will Tear Us Apart		1980													post-punk	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-253	unreviewed	Siouxsie and the Banshees	Hong Kong Garden		1978													post-punk	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-254	unreviewed	The Smiths	This Charming Man		1983													indie rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-255	unreviewed	Elis Regina and Tom Jobim	Águas de Março		1974													MPB	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-256	unreviewed	Sonic Youth	Teen Age Riot		1988													alternative rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-257	unreviewed	Pixies	Where Is My Mind?		1988													alternative rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-258	unreviewed	U2	With or Without You		1987													rock	Ireland						Prefilled from unverified nomination hints; confirm every value.
+MGG-259	unreviewed	Bruce Springsteen	Born to Run		1975													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-260	unreviewed	Fleetwood Mac	Dreams		1977													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-261	unreviewed	Juan Gabriel	Querida		1984													Latin pop	Mexico						Prefilled from unverified nomination hints; confirm every value.
+MGG-262	unreviewed	Queen	Bohemian Rhapsody		1975													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-263	unreviewed	David Bowie	Heroes		1977													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-264	unreviewed	Kate Bush	Wuthering Heights		1978													art pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-265	unreviewed	Joni Mitchell	A Case of You		1971													folk rock	Canada						Prefilled from unverified nomination hints; confirm every value.
+MGG-266	unreviewed	Asha Bhosle	Dum Maro Dum		1971													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-267	unreviewed	Dolly Parton	Jolene		1973													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-268	unreviewed	Willie Nelson	Blue Eyes Crying in the Rain		1975													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-269	unreviewed	Brenda Fassie	Weekend Special		1983													Afropop	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-270	unreviewed	Townes Van Zandt	Pancho and Lefty		1972													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-271	unreviewed	Peter Tosh	Legalize It		1976													reggae	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-272	unreviewed	Burning Spear	Marcus Garvey		1975													reggae	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-273	unreviewed	The Congos	Fisherman		1977													reggae	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-274	unreviewed	Lee Scratch Perry	Disco Devil		1977													dub	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-275	unreviewed	Augustus Pablo	King Tubby Meets Rockers Uptown		1976													dub	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-276	unreviewed	Yellowman	Zungguzungguguzungguzeng		1982													dancehall	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-277	unreviewed	Fela Kuti	Zombie		1976													Afrobeat	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-278	unreviewed	King Sunny Adé	Ja Funmi		1982													juju	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-279	unreviewed	Hugh Masekela	The Boy's Doin' It		1975				https://hughmasekela.co.za/discography/									jazz	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-280	unreviewed	Miriam Makeba	Soweto Blues		1977				https://www.kvs.be/upload/media/default/deaf/45/86dba55157be619768fa8b847ca8ad630918fd3d.pdf									Afropop	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-281	unreviewed	Youssou N'Dour	Immigrés		1984													mbalax	Senegal						Prefilled from unverified nomination hints; confirm every value.
+MGG-282	unreviewed	Salif Keita	Soro (Afriki)		1987				https://www.afrisson.com/soro-11039/									Afropop	Mali						Prefilled from unverified nomination hints; confirm every value.
+MGG-283	unreviewed	Ali Farka Touré	Ali Aoudy		1988													desert blues	Mali						Prefilled from unverified nomination hints; confirm every value.
+MGG-284	unreviewed	Ryuichi Sakamoto	Merry Christmas Mr. Lawrence		1983													electronic	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-285	unreviewed	Yellow Magic Orchestra	Rydeen		1979													electronic	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-286	unreviewed	Haruomi Hosono	Sports Men		1982													city pop	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-287	unreviewed	Mariya Takeuchi	Plastic Love		1984													city pop	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-288	unreviewed	Teresa Teng	The Moon Represents My Heart		1977													Mandopop	Taiwan						Prefilled from unverified nomination hints; confirm every value.
+MGG-289	unreviewed	Nusrat Fateh Ali Khan	Allah Hoo		1989													qawwali	Pakistan						Prefilled from unverified nomination hints; confirm every value.
+MGG-290	unreviewed	Ofra Haza	Im Nin'alu		1988													world pop	Israel						Prefilled from unverified nomination hints; confirm every value.
+MGG-291	unreviewed	Bob Marley and the Wailers	No Woman, No Cry		1974													reggae	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-292	unreviewed	Bob Marley and the Wailers	No Woman, No Cry (Live)		1975													reggae	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-293	unreviewed	Junior Murvin	Police and Thieves		1976													reggae	Jamaica						Prefilled from unverified nomination hints; confirm every value.
+MGG-294	unreviewed	The Clash	Police and Thieves		1977													punk	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-295	unreviewed	Iggy Pop	China Girl		1977													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-296	unreviewed	David Bowie	China Girl		1983													rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-297	unreviewed	Al Green	Take Me to the River		1974													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-298	unreviewed	Talking Heads	Take Me to the River		1978													new wave	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-299	unreviewed	Harold Melvin and the Blue Notes	Don't Leave Me This Way		1975													soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-300	unreviewed	Thelma Houston	Don't Leave Me This Way		1976													disco	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-301	unreviewed	Nirvana	Smells Like Teen Spirit		1991													grunge	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-302	unreviewed	Pearl Jam	Alive		1991													grunge	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-303	unreviewed	Soundgarden	Black Hole Sun		1994													grunge	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-304	unreviewed	Alice in Chains	Man in the Box		1990													grunge	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-305	unreviewed	Radiohead	Paranoid Android		1997													alternative rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-306	unreviewed	Oasis	Wonderwall		1995													Britpop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-307	unreviewed	Blur	Song 2		1997													Britpop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-308	unreviewed	Pulp	Common People		1995													Britpop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-309	unreviewed	The Verve	Bitter Sweet Symphony		1997													Britpop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-310	unreviewed	Rage Against the Machine	Killing in the Name		1992													rap rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-311	unreviewed	Red Hot Chili Peppers	Under the Bridge		1992													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-312	unreviewed	Foo Fighters	Everlong		1997													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-313	unreviewed	Green Day	Basket Case		1994													punk rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-314	unreviewed	The Offspring	Self Esteem		1994													punk rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-315	unreviewed	No Doubt	Don't Speak		1996													ska pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-316	unreviewed	Weezer	Buddy Holly		1994													alternative rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-317	unreviewed	The White Stripes	Seven Nation Army		2003													garage rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-318	unreviewed	The Strokes	Last Nite		2001													indie rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-319	unreviewed	The Killers	Mr. Brightside		2003													indie rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-320	unreviewed	Arcade Fire	Rebellion (Lies)		2004													indie rock	Canada						Prefilled from unverified nomination hints; confirm every value.
+MGG-321	unreviewed	Broken Social Scene	Lover's Spit		2002													indie rock	Canada						Prefilled from unverified nomination hints; confirm every value.
+MGG-322	unreviewed	Feist	1234		2007													indie pop	Canada						Prefilled from unverified nomination hints; confirm every value.
+MGG-323	unreviewed	Amy Winehouse	Rehab		2006													soul	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-324	unreviewed	Adele	Chasing Pavements		2008													pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-325	unreviewed	Duffy	Mercy		2008													soul	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-326	unreviewed	Lauryn Hill	Doo Wop (That Thing)		1998													hip-hop soul	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-327	unreviewed	Fugees	Killing Me Softly		1996													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-328	unreviewed	Mary J. Blige	Real Love		1992													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-329	unreviewed	TLC	No Scrubs		1999													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-330	unreviewed	Destiny's Child	Say My Name		1999													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-331	unreviewed	Beyoncé	Crazy in Love		2003													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-332	unreviewed	Rihanna	Umbrella		2007													pop	Barbados						Prefilled from unverified nomination hints; confirm every value.
+MGG-333	unreviewed	Mariah Carey	Fantasy		1995													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-334	unreviewed	Britney Spears	Toxic		2003													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-335	unreviewed	Christina Aguilera	Beautiful		2002													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-336	unreviewed	Lady Gaga	Just Dance		2008													dance pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-337	unreviewed	Kanye West	Jesus Walks		2004													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-338	unreviewed	Jay-Z	99 Problems		2003													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-339	unreviewed	Nas	N.Y. State of Mind		1994													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-340	unreviewed	The Notorious B.I.G.	Juicy		1994													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-341	unreviewed	2Pac	California Love		1995													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-342	unreviewed	Dr. Dre	Nuthin' but a G Thang		1992													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-343	unreviewed	Snoop Dogg	Gin and Juice		1993													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-344	unreviewed	OutKast	Ms. Jackson		2000													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-345	unreviewed	Missy Elliott	Get Ur Freak On		2001													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-346	unreviewed	Eminem	Lose Yourself		2002													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-347	unreviewed	A Tribe Called Quest	Scenario		1991													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-348	unreviewed	Wu-Tang Clan	C.R.E.A.M.		1993													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-349	unreviewed	Mos Def	Ms. Fat Booty		1999													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-350	unreviewed	The Roots	You Got Me		1999													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-351	unreviewed	The Chemical Brothers	Block Rockin' Beats		1997													electronic	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-352	unreviewed	The Prodigy	Firestarter		1996													electronic	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-353	unreviewed	Massive Attack	Unfinished Sympathy		1991													trip-hop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-354	unreviewed	Portishead	Glory Box		1994													trip-hop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-355	unreviewed	Tricky	Hell Is Round the Corner		1995													trip-hop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-356	unreviewed	Aphex Twin	Windowlicker		1999													electronic	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-357	unreviewed	Boards of Canada	Roygbiv		1998													electronic	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-358	unreviewed	Daft Punk	One More Time		2000													house	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-359	unreviewed	Air	Sexy Boy		1998													electronic	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-360	unreviewed	Justice	D.A.N.C.E.		2007													electronic	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-361	unreviewed	M.I.A.	Paper Planes		2007													electronic	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-362	unreviewed	Gorillaz	Clint Eastwood		2001													alternative hip-hop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-363	unreviewed	Björk	Hyperballad		1995													art pop	Iceland						Prefilled from unverified nomination hints; confirm every value.
+MGG-364	unreviewed	Sigur Rós	Svefn-g-englar		1999													post-rock	Iceland						Prefilled from unverified nomination hints; confirm every value.
+MGG-365	unreviewed	Robyn	With Every Heartbeat		2007													electropop	Sweden						Prefilled from unverified nomination hints; confirm every value.
+MGG-366	unreviewed	The Cardigans	Lovefool		1996													pop	Sweden						Prefilled from unverified nomination hints; confirm every value.
+MGG-367	unreviewed	Röyksopp	Eple		2001													electronic	Norway						Prefilled from unverified nomination hints; confirm every value.
+MGG-368	unreviewed	Youssou N'Dour and Neneh Cherry	7 Seconds		1994													Afropop	Senegal						Prefilled from unverified nomination hints; confirm every value.
+MGG-369	unreviewed	Angelique Kidjo	Agolo		1994													Afropop	Benin						Prefilled from unverified nomination hints; confirm every value.
+MGG-370	unreviewed	Ali Farka Touré and Ry Cooder	Ai Du		1994													world blues	Mali						Prefilled from unverified nomination hints; confirm every value.
+MGG-371	unreviewed	Tinariwen	Amassakoul 'n' Ténéré		2004													desert blues	Mali						Prefilled from unverified nomination hints; confirm every value.
+MGG-372	unreviewed	Amadou and Mariam	Senegal Fast Food		2004													Afropop	Mali						Prefilled from unverified nomination hints; confirm every value.
+MGG-373	unreviewed	Cesária Évora	Sodade		1992													morna	Cape Verde						Prefilled from unverified nomination hints; confirm every value.
+MGG-374	unreviewed	Buena Vista Social Club	Chan Chan		1997													son cubano	Cuba						Prefilled from unverified nomination hints; confirm every value.
+MGG-375	unreviewed	Shakira	Ojos Así		1998													Latin pop	Colombia						Prefilled from unverified nomination hints; confirm every value.
+MGG-376	unreviewed	Juanes	A Dios le Pido		2002													Latin rock	Colombia						Prefilled from unverified nomination hints; confirm every value.
+MGG-377	unreviewed	Café Tacvba	Eres		2003													rock en español	Mexico						Prefilled from unverified nomination hints; confirm every value.
+MGG-378	unreviewed	Molotov	Gimme tha Power		1997													rock en español	Mexico						Prefilled from unverified nomination hints; confirm every value.
+MGG-379	unreviewed	Babasónicos	Yegua		2005													rock en español	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-380	unreviewed	Gustavo Cerati	Crimen		2006													rock en español	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-381	unreviewed	Soda Stereo	De Música Ligera		1990													rock en español	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-382	unreviewed	Los Fabulosos Cadillacs	Matador		1993													ska	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-383	unreviewed	Daddy Yankee	Gasolina		2004													reggaeton	Puerto Rico						Prefilled from unverified nomination hints; confirm every value.
+MGG-384	unreviewed	Tego Calderón	Pa' Que Retozen		2002													reggaeton	Puerto Rico						Prefilled from unverified nomination hints; confirm every value.
+MGG-385	unreviewed	Don Omar	Dale Don Dale		2003													reggaeton	Puerto Rico						Prefilled from unverified nomination hints; confirm every value.
+MGG-386	unreviewed	A. R. Rahman	Chaiyya Chaiyya		1998													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-387	unreviewed	Lata Mangeshkar and Udit Narayan	Didi Tera Devar Deewana		1994													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-388	unreviewed	Nusrat Fateh Ali Khan	Mustt Mustt		1990													qawwali	Pakistan						Prefilled from unverified nomination hints; confirm every value.
+MGG-389	unreviewed	Jay Chou	Qing Tian		2003													Mandopop	Taiwan						Prefilled from unverified nomination hints; confirm every value.
+MGG-390	unreviewed	Utada Hikaru	First Love		1999													J-pop	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-391	unreviewed	Nine Inch Nails	Hurt		1994													industrial rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-392	unreviewed	Johnny Cash	Hurt		2002													country	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-393	unreviewed	U2	One		1991													rock	Ireland						Prefilled from unverified nomination hints; confirm every value.
+MGG-394	unreviewed	Mary J. Blige and U2	One		2006													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-395	unreviewed	Ednaswap	Torn		1995													alternative rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-396	unreviewed	Natalie Imbruglia	Torn		1997													pop	Australia						Prefilled from unverified nomination hints; confirm every value.
+MGG-397	unreviewed	The Zutons	Valerie		2006													indie rock	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-398	unreviewed	Mark Ronson feat. Amy Winehouse	Valerie		2007													soul	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-399	unreviewed	Jeff Buckley	Hallelujah		1994													rock	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-400	unreviewed	Rufus Wainwright	Hallelujah		2001													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-401	unreviewed	Adele	Rolling in the Deep		2010													pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-402	unreviewed	Beyoncé	Formation		2016													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-403	unreviewed	Rihanna	Work		2016													pop	Barbados						Prefilled from unverified nomination hints; confirm every value.
+MGG-404	unreviewed	Taylor Swift	Anti-Hero		2022													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-405	unreviewed	Billie Eilish	Bad Guy		2019													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-406	unreviewed	Olivia Rodrigo	Drivers License		2021													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-407	unreviewed	Lorde	Royals		2013													pop	New Zealand						Prefilled from unverified nomination hints; confirm every value.
+MGG-408	unreviewed	Lana Del Rey	Video Games		2011													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-409	unreviewed	SZA	Kill Bill		2022													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-410	unreviewed	Chappell Roan	The Subway		2025				https://www.officialcharts.com/songs/chappell-roan-the-subway/									pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-411	unreviewed	Solange	Cranes in the Sky		2016													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-412	unreviewed	Frank Ocean	Thinkin Bout You		2012													rhythm and blues	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-413	unreviewed	The Weeknd	Blinding Lights		2019													pop	Canada						Prefilled from unverified nomination hints; confirm every value.
+MGG-414	unreviewed	Bruno Mars	Locked Out of Heaven		2012													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-415	unreviewed	Justin Bieber	Sorry		2015													pop	Canada						Prefilled from unverified nomination hints; confirm every value.
+MGG-416	unreviewed	Bad Bunny	DtMF		2025				https://www.officialcharts.com/songs/bad-bunny-dtmf/									Latin pop	Puerto Rico						Prefilled from unverified nomination hints; confirm every value.
+MGG-417	unreviewed	Dua Lipa	Don't Start Now		2019													pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-418	unreviewed	Harry Styles	As It Was		2022													pop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-419	unreviewed	Charli XCX	360		2024													hyperpop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-420	unreviewed	Chappell Roan	Good Luck, Babe!		2024													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-421	unreviewed	Kendrick Lamar	Alright		2015													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-422	unreviewed	Drake	Hotline Bling		2015													hip-hop	Canada						Prefilled from unverified nomination hints; confirm every value.
+MGG-423	unreviewed	Sabrina Carpenter	Manchild		2025				https://www.officialcharts.com/songs/sabrina-carpenter-manchild/									pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-424	unreviewed	Tyler, the Creator	EARFQUAKE		2019													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-425	unreviewed	Childish Gambino	This Is America		2018													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-426	unreviewed	Travis Scott	SICKO MODE		2018													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-427	unreviewed	Cardi B	Bodak Yellow		2017													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-428	unreviewed	Megan Thee Stallion	Savage		2020													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-429	unreviewed	Nicki Minaj	Super Bass		2011													hip-hop	Trinidad and Tobago						Prefilled from unverified nomination hints; confirm every value.
+MGG-430	unreviewed	Doja Cat	Say So		2019													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-431	unreviewed	Run the Jewels	Close Your Eyes (And Count to Fuck)		2014													hip-hop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-432	unreviewed	Little Simz	Introvert		2021													hip-hop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-433	unreviewed	Stormzy	Shut Up		2015													grime	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-434	unreviewed	Skepta	Shutdown		2015													grime	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-435	unreviewed	Dave	Black		2019													hip-hop	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-436	unreviewed	J Hus	Did You See		2017													Afroswing	United Kingdom						Prefilled from unverified nomination hints; confirm every value.
+MGG-437	unreviewed	Rosalía	Malamente		2018													flamenco pop	Spain						Prefilled from unverified nomination hints; confirm every value.
+MGG-438	unreviewed	Bad Bunny	Tití Me Preguntó		2022													reggaeton	Puerto Rico						Prefilled from unverified nomination hints; confirm every value.
+MGG-439	unreviewed	J Balvin	Mi Gente		2017													reggaeton	Colombia						Prefilled from unverified nomination hints; confirm every value.
+MGG-440	unreviewed	Karol G	TQG		2023													reggaeton	Colombia						Prefilled from unverified nomination hints; confirm every value.
+MGG-441	unreviewed	Rauw Alejandro	Todo de Ti		2021													reggaeton	Puerto Rico						Prefilled from unverified nomination hints; confirm every value.
+MGG-442	unreviewed	Nathy Peluso	Buenos Aires		2020													Latin pop	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-443	unreviewed	Bizarrap and Shakira	BZRP Music Sessions #53		2023													Latin pop	Argentina						Prefilled from unverified nomination hints; confirm every value.
+MGG-444	unreviewed	Anitta	Envolver		2021													funk carioca	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-445	unreviewed	Ludmilla	Cheguei		2017													funk carioca	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-446	unreviewed	Liniker	Zero		2015													MPB	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-447	unreviewed	Emicida	AmarElo		2019													hip-hop	Brazil						Prefilled from unverified nomination hints; confirm every value.
+MGG-448	unreviewed	Burna Boy	Ye		2018													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-449	unreviewed	Wizkid	Ojuelegba		2014													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-450	unreviewed	Davido	Fall		2017													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-451	unreviewed	Tems	Free Mind		2020													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-452	unreviewed	Asake	Joha		2022													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-453	unreviewed	Ayra Starr	Rush		2022													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-454	unreviewed	Amaarae	SAD GIRLZ LUV MONEY		2020													Afropop	Ghana						Prefilled from unverified nomination hints; confirm every value.
+MGG-455	unreviewed	Sarkodie	Adonai		2014													hip-hop	Ghana						Prefilled from unverified nomination hints; confirm every value.
+MGG-456	unreviewed	Diamond Platnumz	Jeje		2020													Bongo Flava	Tanzania						Prefilled from unverified nomination hints; confirm every value.
+MGG-457	unreviewed	Sauti Sol	Suzanna		2020													Afropop	Kenya						Prefilled from unverified nomination hints; confirm every value.
+MGG-458	unreviewed	Yemi Alade	Johnny		2013													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-459	unreviewed	MHD	Afro Trap Part. 3 (Champions League)		2016													Afro trap	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-460	unreviewed	Black Coffee	Drive		2018													house	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-461	unreviewed	Kabza De Small	Sponono		2019													amapiano	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-462	unreviewed	BLACKPINK	DDU-DU DDU-DU		2018													K-pop	South Korea						Prefilled from unverified nomination hints; confirm every value.
+MGG-463	unreviewed	NewJeans	Ditto		2022													K-pop	South Korea						Prefilled from unverified nomination hints; confirm every value.
+MGG-464	unreviewed	IU	Palette		2017													K-pop	South Korea						Prefilled from unverified nomination hints; confirm every value.
+MGG-465	unreviewed	SEVENTEEN	Super		2023													K-pop	South Korea						Prefilled from unverified nomination hints; confirm every value.
+MGG-466	unreviewed	PSY	Gangnam Style		2012													K-pop	South Korea						Prefilled from unverified nomination hints; confirm every value.
+MGG-467	unreviewed	HYUKOH	Comes and Goes		2015													indie rock	South Korea						Prefilled from unverified nomination hints; confirm every value.
+MGG-468	unreviewed	Hikaru Utada	One Last Kiss		2021													J-pop	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-469	unreviewed	YOASOBI	Yoru ni Kakeru		2019													J-pop	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-470	unreviewed	Fujii Kaze	Shinunoga E-Wa		2020													J-pop	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-471	unreviewed	Kenshi Yonezu	Lemon		2018													J-pop	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-472	unreviewed	Ado	Usseewa		2020													J-pop	Japan						Prefilled from unverified nomination hints; confirm every value.
+MGG-473	unreviewed	Jay Chou	Mojito		2020													Mandopop	Taiwan						Prefilled from unverified nomination hints; confirm every value.
+MGG-474	unreviewed	Jolin Tsai	Ugly Beauty		2018													Mandopop	Taiwan						Prefilled from unverified nomination hints; confirm every value.
+MGG-475	unreviewed	Jackson Wang	100 Ways		2020													pop	Hong Kong						Prefilled from unverified nomination hints; confirm every value.
+MGG-476	unreviewed	Diljit Dosanjh	Lover		2021													Punjabi pop	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-477	unreviewed	Arijit Singh	Tum Hi Ho		2013													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-478	unreviewed	A. R. Rahman	Kun Faya Kun		2011													film song	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-479	unreviewed	Ritviz	Udd Gaye		2017													electronic	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-480	unreviewed	Prateek Kuhad	cold/mess		2018													indie folk	India						Prefilled from unverified nomination hints; confirm every value.
+MGG-481	unreviewed	Ali Sethi and Shae Gill	Pasoori		2022													Punjabi pop	Pakistan						Prefilled from unverified nomination hints; confirm every value.
+MGG-482	unreviewed	Ali Sethi	Chandni Raat		2019													ghazal	Pakistan						Prefilled from unverified nomination hints; confirm every value.
+MGG-483	unreviewed	Cai Xukun	Lover		2020													Mandopop	China						Prefilled from unverified nomination hints; confirm every value.
+MGG-484	unreviewed	Rich Brian	Dat $tick		2016													hip-hop	Indonesia						Prefilled from unverified nomination hints; confirm every value.
+MGG-485	unreviewed	NIKI	Every Summertime		2021													pop	Indonesia						Prefilled from unverified nomination hints; confirm every value.
+MGG-486	unreviewed	Tame Impala	The Less I Know the Better		2015													psychedelic pop	Australia						Prefilled from unverified nomination hints; confirm every value.
+MGG-487	unreviewed	Stromae	Papaoutai		2013													electronic pop	Belgium						Prefilled from unverified nomination hints; confirm every value.
+MGG-488	unreviewed	Christine and the Queens	Tilted		2014													pop	France						Prefilled from unverified nomination hints; confirm every value.
+MGG-489	unreviewed	Mdou Moctar	Tarhatazed		2019													desert blues	Niger						Prefilled from unverified nomination hints; confirm every value.
+MGG-490	unreviewed	Focalistic	Ke Star		2020													amapiano	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-491	unreviewed	Lil Nas X	Old Town Road (Original)		2018													country rap	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-492	unreviewed	Lil Nas X feat. Billy Ray Cyrus	Old Town Road (Remix)		2019													country rap	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-493	unreviewed	Master KG feat. Nomcebo Zikode	Jerusalema		2019													house	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-494	unreviewed	Master KG feat. Burna Boy	Jerusalema (Remix)		2020													house	South Africa						Prefilled from unverified nomination hints; confirm every value.
+MGG-495	unreviewed	Rema	Calm Down		2022													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-496	unreviewed	Rema and Selena Gomez	Calm Down (Remix)		2022													Afrobeats	Nigeria						Prefilled from unverified nomination hints; confirm every value.
+MGG-497	unreviewed	BTS	Dynamite		2020													K-pop	South Korea						Prefilled from unverified nomination hints; confirm every value.
+MGG-498	unreviewed	BTS	Dynamite (Tropical Remix)		2020													K-pop	South Korea						Prefilled from unverified nomination hints; confirm every value.
+MGG-499	unreviewed	Taylor Swift	All Too Well		2012													pop	United States						Prefilled from unverified nomination hints; confirm every value.
+MGG-500	unreviewed	Taylor Swift	All Too Well (10 Minute Version)		2021													pop	United States						Prefilled from unverified nomination hints; confirm every value.

@@ -1,0 +1,100 @@
+Nirvana|Smells Like Teen Spirit|1991|United States|grunge
+Pearl Jam|Alive|1991|United States|grunge
+Soundgarden|Black Hole Sun|1994|United States|grunge
+Alice in Chains|Man in the Box|1990|United States|grunge
+Radiohead|Paranoid Android|1997|United Kingdom|alternative rock
+Oasis|Wonderwall|1995|United Kingdom|Britpop
+Blur|Song 2|1997|United Kingdom|Britpop
+Pulp|Common People|1995|United Kingdom|Britpop
+The Verve|Bitter Sweet Symphony|1997|United Kingdom|Britpop
+Rage Against the Machine|Killing in the Name|1992|United States|rap rock
+Red Hot Chili Peppers|Under the Bridge|1992|United States|rock
+Foo Fighters|Everlong|1997|United States|rock
+Green Day|Basket Case|1994|United States|punk rock
+The Offspring|Self Esteem|1994|United States|punk rock
+No Doubt|Don't Speak|1996|United States|ska pop
+Weezer|Buddy Holly|1994|United States|alternative rock
+The White Stripes|Seven Nation Army|2003|United States|garage rock
+The Strokes|Last Nite|2001|United States|indie rock
+The Killers|Mr. Brightside|2003|United States|indie rock
+Arcade Fire|Rebellion (Lies)|2004|Canada|indie rock
+Broken Social Scene|Lover's Spit|2002|Canada|indie rock
+Feist|1234|2007|Canada|indie pop
+Amy Winehouse|Rehab|2006|United Kingdom|soul
+Adele|Chasing Pavements|2008|United Kingdom|pop
+Duffy|Mercy|2008|United Kingdom|soul
+Lauryn Hill|Doo Wop (That Thing)|1998|United States|hip-hop soul
+Fugees|Killing Me Softly|1996|United States|hip-hop
+Mary J. Blige|Real Love|1992|United States|rhythm and blues
+TLC|No Scrubs|1999|United States|rhythm and blues
+Destiny's Child|Say My Name|1999|United States|rhythm and blues
+Beyoncé|Crazy in Love|2003|United States|pop
+Rihanna|Umbrella|2007|Barbados|pop
+Mariah Carey|Fantasy|1995|United States|pop
+Britney Spears|Toxic|2003|United States|pop
+Christina Aguilera|Beautiful|2002|United States|pop
+Lady Gaga|Just Dance|2008|United States|dance pop
+Kanye West|Jesus Walks|2004|United States|hip-hop
+Jay-Z|99 Problems|2003|United States|hip-hop
+Nas|N.Y. State of Mind|1994|United States|hip-hop
+The Notorious B.I.G.|Juicy|1994|United States|hip-hop
+2Pac|California Love|1995|United States|hip-hop
+Dr. Dre|Nuthin' but a G Thang|1992|United States|hip-hop
+Snoop Dogg|Gin and Juice|1993|United States|hip-hop
+OutKast|Ms. Jackson|2000|United States|hip-hop
+Missy Elliott|Get Ur Freak On|2001|United States|hip-hop
+Eminem|Lose Yourself|2002|United States|hip-hop
+A Tribe Called Quest|Scenario|1991|United States|hip-hop
+Wu-Tang Clan|C.R.E.A.M.|1993|United States|hip-hop
+Mos Def|Ms. Fat Booty|1999|United States|hip-hop
+The Roots|You Got Me|1999|United States|hip-hop
+The Chemical Brothers|Block Rockin' Beats|1997|United Kingdom|electronic
+The Prodigy|Firestarter|1996|United Kingdom|electronic
+Massive Attack|Unfinished Sympathy|1991|United Kingdom|trip-hop
+Portishead|Glory Box|1994|United Kingdom|trip-hop
+Tricky|Hell Is Round the Corner|1995|United Kingdom|trip-hop
+Aphex Twin|Windowlicker|1999|United Kingdom|electronic
+Boards of Canada|Roygbiv|1998|United Kingdom|electronic
+Daft Punk|One More Time|2000|France|house
+Air|Sexy Boy|1998|France|electronic
+Justice|D.A.N.C.E.|2007|France|electronic
+M.I.A.|Paper Planes|2007|United Kingdom|electronic
+Gorillaz|Clint Eastwood|2001|United Kingdom|alternative hip-hop
+Björk|Hyperballad|1995|Iceland|art pop
+Sigur Rós|Svefn-g-englar|1999|Iceland|post-rock
+Robyn|With Every Heartbeat|2007|Sweden|electropop
+The Cardigans|Lovefool|1996|Sweden|pop
+Röyksopp|Eple|2001|Norway|electronic
+Youssou N'Dour and Neneh Cherry|7 Seconds|1994|Senegal|Afropop
+Angelique Kidjo|Agolo|1994|Benin|Afropop
+Ali Farka Touré and Ry Cooder|Ai Du|1994|Mali|world blues
+Tinariwen|Amassakoul 'n' Ténéré|2004|Mali|desert blues
+Amadou and Mariam|Senegal Fast Food|2004|Mali|Afropop
+Cesária Évora|Sodade|1992|Cape Verde|morna
+Buena Vista Social Club|Chan Chan|1997|Cuba|son cubano
+Shakira|Ojos Así|1998|Colombia|Latin pop
+Juanes|A Dios le Pido|2002|Colombia|Latin rock
+Café Tacvba|Eres|2003|Mexico|rock en español
+Molotov|Gimme tha Power|1997|Mexico|rock en español
+Babasónicos|Yegua|2005|Argentina|rock en español
+Gustavo Cerati|Crimen|2006|Argentina|rock en español
+Soda Stereo|De Música Ligera|1990|Argentina|rock en español
+Los Fabulosos Cadillacs|Matador|1993|Argentina|ska
+Daddy Yankee|Gasolina|2004|Puerto Rico|reggaeton
+Tego Calderón|Pa' Que Retozen|2002|Puerto Rico|reggaeton
+Don Omar|Dale Don Dale|2003|Puerto Rico|reggaeton
+A. R. Rahman|Chaiyya Chaiyya|1998|India|film song
+Lata Mangeshkar and Udit Narayan|Didi Tera Devar Deewana|1994|India|film song
+Nusrat Fateh Ali Khan|Mustt Mustt|1990|Pakistan|qawwali
+Jay Chou|Qing Tian|2003|Taiwan|Mandopop
+Utada Hikaru|First Love|1999|Japan|J-pop
+HARD|Nine Inch Nails|Hurt|1994|United States|industrial rock
+HARD|Johnny Cash|Hurt|2002|United States|country
+HARD|U2|One|1991|Ireland|rock
+HARD|Mary J. Blige and U2|One|2006|United States|rhythm and blues
+HARD|Ednaswap|Torn|1995|United States|alternative rock
+HARD|Natalie Imbruglia|Torn|1997|Australia|pop
+HARD|The Zutons|Valerie|2006|United Kingdom|indie rock
+HARD|Mark Ronson feat. Amy Winehouse|Valerie|2007|United Kingdom|soul
+HARD|Jeff Buckley|Hallelujah|1994|United States|rock
+HARD|Rufus Wainwright|Hallelujah|2001|United States|pop
